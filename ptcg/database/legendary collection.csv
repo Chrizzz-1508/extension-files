@@ -1,0 +1,112 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+base6-1,Alakazam,https://images.pokemontcg.io/base6/1_hires.png,Rare Holo,9.500000,52.620000,Pokémon
+base6-2,Articuno,https://images.pokemontcg.io/base6/2_hires.png,Rare Holo,14.600000,37.250000,Pokémon
+base6-3,Charizard,https://images.pokemontcg.io/base6/3_hires.png,Rare Holo,218.750000,282.200000,Pokémon
+base6-4,Dark Blastoise,https://images.pokemontcg.io/base6/4_hires.png,Rare Holo,22.600000,104.660000,Pokémon
+base6-5,Dark Dragonite,https://images.pokemontcg.io/base6/5_hires.png,Rare Holo,54.720000,198,Pokémon
+base6-6,Dark Persian,https://images.pokemontcg.io/base6/6_hires.png,Rare Holo,14.790000,38.040000,Pokémon
+base6-7,Dark Raichu,https://images.pokemontcg.io/base6/7_hires.png,Rare Holo,23.320000,57.220000,Pokémon
+base6-8,Dark Slowbro,https://images.pokemontcg.io/base6/8_hires.png,Rare Holo,5.630000,33.960000,Pokémon
+base6-9,Dark Vaporeon,https://images.pokemontcg.io/base6/9_hires.png,Rare Holo,41.940000,88.860000,Pokémon
+base6-10,Flareon,https://images.pokemontcg.io/base6/10_hires.png,Rare Holo,22,41.280000,Pokémon
+base6-11,Gengar,https://images.pokemontcg.io/base6/11_hires.png,Rare Holo,28.950000,144.640000,Pokémon
+base6-12,Gyarados,https://images.pokemontcg.io/base6/12_hires.png,Rare Holo,7.500000,48.480000,Pokémon
+base6-13,Hitmonlee,https://images.pokemontcg.io/base6/13_hires.png,Rare Holo,8.190000,33.560000,Pokémon
+base6-14,Jolteon,https://images.pokemontcg.io/base6/14_hires.png,Rare Holo,17.300000,54.670000,Pokémon
+base6-15,Machamp,https://images.pokemontcg.io/base6/15_hires.png,Rare Holo,9.240000,41.760000,Pokémon
+base6-16,Muk,https://images.pokemontcg.io/base6/16_hires.png,Rare Holo,4.230000,17.380000,Pokémon
+base6-17,Ninetales,https://images.pokemontcg.io/base6/17_hires.png,Rare Holo,22.710000,45.280000,Pokémon
+base6-18,Venusaur,https://images.pokemontcg.io/base6/18_hires.png,Rare Holo,33.240000,84.980000,Pokémon
+base6-19,Zapdos,https://images.pokemontcg.io/base6/19_hires.png,Rare Holo,15.930000,34.320000,Pokémon
+base6-20,Beedrill,https://images.pokemontcg.io/base6/20_hires.png,Rare,1.470000,4.050000,Pokémon
+base6-21,Butterfree,https://images.pokemontcg.io/base6/21_hires.png,Rare,3.510000,4.370000,Pokémon
+base6-22,Electrode,https://images.pokemontcg.io/base6/22_hires.png,Rare,2.060000,2.620000,Pokémon
+base6-23,Exeggutor,https://images.pokemontcg.io/base6/23_hires.png,Rare,1.710000,3.590000,Pokémon
+base6-24,Golem,https://images.pokemontcg.io/base6/24_hires.png,Rare,0,3.360000,Pokémon
+base6-25,Hypno,https://images.pokemontcg.io/base6/25_hires.png,Rare,2.170000,4.950000,Pokémon
+base6-26,Jynx,https://images.pokemontcg.io/base6/26_hires.png,Rare,1.360000,4.370000,Pokémon
+base6-27,Kabutops,https://images.pokemontcg.io/base6/27_hires.png,Rare,2.900000,5.290000,Pokémon
+base6-28,Magneton,https://images.pokemontcg.io/base6/28_hires.png,Rare,8.090000,2.520000,Pokémon
+base6-29,Mewtwo,https://images.pokemontcg.io/base6/29_hires.png,Rare,17.530000,29.180000,Pokémon
+base6-30,Moltres,https://images.pokemontcg.io/base6/30_hires.png,Rare,4.350000,9.380000,Pokémon
+base6-31,Nidoking,https://images.pokemontcg.io/base6/31_hires.png,Rare,3.920000,9.690000,Pokémon
+base6-32,Nidoqueen,https://images.pokemontcg.io/base6/32_hires.png,Rare,1.920000,5.820000,Pokémon
+base6-33,Pidgeot,https://images.pokemontcg.io/base6/33_hires.png,Rare,5.610000,4.500000,Pokémon
+base6-34,Pidgeotto,https://images.pokemontcg.io/base6/34_hires.png,Rare,2.180000,6.100000,Pokémon
+base6-35,Rhydon,https://images.pokemontcg.io/base6/35_hires.png,Rare,7.640000,4.300000,Pokémon
+base6-36,Arcanine,https://images.pokemontcg.io/base6/36_hires.png,Uncommon,1.400000,3.880000,Pokémon
+base6-37,Charmeleon,https://images.pokemontcg.io/base6/37_hires.png,Uncommon,1.700000,1.420000,Pokémon
+base6-38,Dark Dragonair,https://images.pokemontcg.io/base6/38_hires.png,Uncommon,2.930000,2.760000,Pokémon
+base6-39,Dark Wartortle,https://images.pokemontcg.io/base6/39_hires.png,Uncommon,1.320000,2.240000,Pokémon
+base6-40,Dewgong,https://images.pokemontcg.io/base6/40_hires.png,Uncommon,1.480000,1.680000,Pokémon
+base6-41,Dodrio,https://images.pokemontcg.io/base6/41_hires.png,Uncommon,1.370000,1.360000,Pokémon
+base6-42,Fearow,https://images.pokemontcg.io/base6/42_hires.png,Uncommon,0.630000,1.950000,Pokémon
+base6-43,Golduck,https://images.pokemontcg.io/base6/43_hires.png,Uncommon,0.530000,1.810000,Pokémon
+base6-44,Graveler,https://images.pokemontcg.io/base6/44_hires.png,Uncommon,0.960000,1.450000,Pokémon
+base6-45,Growlithe,https://images.pokemontcg.io/base6/45_hires.png,Uncommon,0,2.390000,Pokémon
+base6-46,Haunter,https://images.pokemontcg.io/base6/46_hires.png,Uncommon,1.340000,3.020000,Pokémon
+base6-47,Ivysaur,https://images.pokemontcg.io/base6/47_hires.png,Uncommon,1.580000,4.380000,Pokémon
+base6-48,Kabuto,https://images.pokemontcg.io/base6/48_hires.png,Uncommon,1.490000,1.410000,Pokémon
+base6-49,Kadabra,https://images.pokemontcg.io/base6/49_hires.png,Uncommon,0.840000,4.170000,Pokémon
+base6-50,Kakuna,https://images.pokemontcg.io/base6/50_hires.png,Uncommon,3.580000,1.360000,Pokémon
+base6-51,Machoke,https://images.pokemontcg.io/base6/51_hires.png,Uncommon,1.260000,1.690000,Pokémon
+base6-52,Magikarp,https://images.pokemontcg.io/base6/52_hires.png,Uncommon,2.040000,3.810000,Pokémon
+base6-53,Meowth,https://images.pokemontcg.io/base6/53_hires.png,Uncommon,2.560000,1.390000,Pokémon
+base6-54,Metapod,https://images.pokemontcg.io/base6/54_hires.png,Uncommon,0.560000,1.780000,Pokémon
+base6-55,Nidorina,https://images.pokemontcg.io/base6/55_hires.png,Uncommon,0.840000,1.670000,Pokémon
+base6-56,Nidorino,https://images.pokemontcg.io/base6/56_hires.png,Uncommon,0.910000,2.130000,Pokémon
+base6-57,Omanyte,https://images.pokemontcg.io/base6/57_hires.png,Uncommon,1.500000,1.500000,Pokémon
+base6-58,Omastar,https://images.pokemontcg.io/base6/58_hires.png,Uncommon,3.430000,2.050000,Pokémon
+base6-59,Primeape,https://images.pokemontcg.io/base6/59_hires.png,Uncommon,1.040000,1.250000,Pokémon
+base6-60,Rapidash,https://images.pokemontcg.io/base6/60_hires.png,Uncommon,1,1.140000,Pokémon
+base6-61,Raticate,https://images.pokemontcg.io/base6/61_hires.png,Uncommon,0.580000,1.330000,Pokémon
+base6-62,Sandslash,https://images.pokemontcg.io/base6/62_hires.png,Uncommon,0.710000,1.370000,Pokémon
+base6-63,Seadra,https://images.pokemontcg.io/base6/63_hires.png,Uncommon,0.470000,1.710000,Pokémon
+base6-64,Snorlax,https://images.pokemontcg.io/base6/64_hires.png,Uncommon,2.550000,12.300000,Pokémon
+base6-65,Tauros,https://images.pokemontcg.io/base6/65_hires.png,Uncommon,7.370000,1.520000,Pokémon
+base6-66,Tentacruel,https://images.pokemontcg.io/base6/66_hires.png,Uncommon,5.830000,1.420000,Pokémon
+base6-67,Abra,https://images.pokemontcg.io/base6/67_hires.png,Common,0.420000,1.180000,Pokémon
+base6-68,Bulbasaur,https://images.pokemontcg.io/base6/68_hires.png,Common,1.290000,2.270000,Pokémon
+base6-69,Caterpie,https://images.pokemontcg.io/base6/69_hires.png,Common,0.450000,0.760000,Pokémon
+base6-70,Charmander,https://images.pokemontcg.io/base6/70_hires.png,Common,1.260000,1.260000,Pokémon
+base6-71,Doduo,https://images.pokemontcg.io/base6/71_hires.png,Common,0.260000,0.580000,Pokémon
+base6-72,Dratini,https://images.pokemontcg.io/base6/72_hires.png,Common,0.480000,0.950000,Pokémon
+base6-73,Drowzee,https://images.pokemontcg.io/base6/73_hires.png,Common,0.400000,0.570000,Pokémon
+base6-74,Eevee,https://images.pokemontcg.io/base6/74_hires.png,Common,1.900000,3.600000,Pokémon
+base6-75,Exeggcute,https://images.pokemontcg.io/base6/75_hires.png,Common,0.380000,0.490000,Pokémon
+base6-76,Gastly,https://images.pokemontcg.io/base6/76_hires.png,Common,0.520000,1.020000,Pokémon
+base6-77,Geodude,https://images.pokemontcg.io/base6/77_hires.png,Common,0.210000,0.610000,Pokémon
+base6-78,Grimer,https://images.pokemontcg.io/base6/78_hires.png,Common,0.600000,0.540000,Pokémon
+base6-79,Machop,https://images.pokemontcg.io/base6/79_hires.png,Common,0.490000,0.520000,Pokémon
+base6-80,Magnemite,https://images.pokemontcg.io/base6/80_hires.png,Common,0.330000,0.630000,Pokémon
+base6-81,Mankey,https://images.pokemontcg.io/base6/81_hires.png,Common,0.350000,0.440000,Pokémon
+base6-82,Nidoran ♀,https://images.pokemontcg.io/base6/82_hires.png,Common,0.470000,0.550000,Pokémon
+base6-83,Nidoran ♂,https://images.pokemontcg.io/base6/83_hires.png,Common,0.250000,0.570000,Pokémon
+base6-84,Onix,https://images.pokemontcg.io/base6/84_hires.png,Common,0.500000,0.470000,Pokémon
+base6-85,Pidgey,https://images.pokemontcg.io/base6/85_hires.png,Common,0.520000,1.020000,Pokémon
+base6-86,Pikachu,https://images.pokemontcg.io/base6/86_hires.png,Common,2.880000,2.020000,Pokémon
+base6-87,Ponyta,https://images.pokemontcg.io/base6/87_hires.png,Common,0.520000,0.430000,Pokémon
+base6-88,Psyduck,https://images.pokemontcg.io/base6/88_hires.png,Common,0.570000,1.800000,Pokémon
+base6-89,Rattata,https://images.pokemontcg.io/base6/89_hires.png,Common,0.310000,0.480000,Pokémon
+base6-90,Rhyhorn,https://images.pokemontcg.io/base6/90_hires.png,Common,0.320000,0.500000,Pokémon
+base6-91,Sandshrew,https://images.pokemontcg.io/base6/91_hires.png,Common,0.480000,0.610000,Pokémon
+base6-92,Seel,https://images.pokemontcg.io/base6/92_hires.png,Common,0.470000,0.520000,Pokémon
+base6-93,Slowpoke,https://images.pokemontcg.io/base6/93_hires.png,Common,0.370000,0.980000,Pokémon
+base6-94,Spearow,https://images.pokemontcg.io/base6/94_hires.png,Common,0.300000,0.500000,Pokémon
+base6-95,Squirtle,https://images.pokemontcg.io/base6/95_hires.png,Common,1.020000,1.720000,Pokémon
+base6-96,Tentacool,https://images.pokemontcg.io/base6/96_hires.png,Common,0.340000,0.540000,Pokémon
+base6-97,Voltorb,https://images.pokemontcg.io/base6/97_hires.png,Common,0.400000,0.630000,Pokémon
+base6-98,Vulpix,https://images.pokemontcg.io/base6/98_hires.png,Common,0.780000,0.960000,Pokémon
+base6-99,Weedle,https://images.pokemontcg.io/base6/99_hires.png,Common,0.320000,0.600000,Pokémon
+base6-100,Full Heal Energy,https://images.pokemontcg.io/base6/100_hires.png,Uncommon,0.580000,1.210000,Energy
+base6-101,Potion Energy,https://images.pokemontcg.io/base6/101_hires.png,Uncommon,1.270000,0.580000,Energy
+base6-102,Pokémon Breeder,https://images.pokemontcg.io/base6/102_hires.png,Rare,2.550000,3.760000,Trainer
+base6-103,Pokémon Trader,https://images.pokemontcg.io/base6/103_hires.png,Rare,2.440000,2.380000,Trainer
+base6-104,Scoop Up,https://images.pokemontcg.io/base6/104_hires.png,Rare,6.590000,8.100000,Trainer
+base6-105,The Boss's Way,https://images.pokemontcg.io/base6/105_hires.png,Uncommon,0.700000,0.780000,Trainer
+base6-106,Challenge!,https://images.pokemontcg.io/base6/106_hires.png,Uncommon,0.660000,1.440000,Trainer
+base6-107,Energy Retrieval,https://images.pokemontcg.io/base6/107_hires.png,Uncommon,0.610000,0.470000,Trainer
+base6-108,Bill,https://images.pokemontcg.io/base6/108_hires.png,Common,0.150000,0.400000,Trainer
+base6-109,Mysterious Fossil,https://images.pokemontcg.io/base6/109_hires.png,Common,0.230000,0.670000,Trainer
+base6-110,Potion,https://images.pokemontcg.io/base6/110_hires.png,Common,0.360000,0.330000,Trainer
+",DefaulT,",,,,0,0,

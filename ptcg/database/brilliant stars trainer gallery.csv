@@ -1,0 +1,32 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+swsh9tg-TG01,Flareon,https://images.pokemontcg.io/swsh9tg/TG01_hires.png,Trainer Gallery Rare Holo,8.260000,9.250000,Pokémon
+swsh9tg-TG02,Vaporeon,https://images.pokemontcg.io/swsh9tg/TG02_hires.png,Trainer Gallery Rare Holo,10.010000,9.940000,Pokémon
+swsh9tg-TG03,Octillery,https://images.pokemontcg.io/swsh9tg/TG03_hires.png,Trainer Gallery Rare Holo,1.570000,1.590000,Pokémon
+swsh9tg-TG04,Jolteon,https://images.pokemontcg.io/swsh9tg/TG04_hires.png,Trainer Gallery Rare Holo,6.970000,6.320000,Pokémon
+swsh9tg-TG05,Zekrom,https://images.pokemontcg.io/swsh9tg/TG05_hires.png,Trainer Gallery Rare Holo,9.690000,9.670000,Pokémon
+swsh9tg-TG06,Dusknoir,https://images.pokemontcg.io/swsh9tg/TG06_hires.png,Trainer Gallery Rare Holo,1.560000,1.490000,Pokémon
+swsh9tg-TG07,Dedenne,https://images.pokemontcg.io/swsh9tg/TG07_hires.png,Trainer Gallery Rare Holo,2.340000,3.370000,Pokémon
+swsh9tg-TG08,Alcremie,https://images.pokemontcg.io/swsh9tg/TG08_hires.png,Trainer Gallery Rare Holo,1.480000,1.290000,Pokémon
+swsh9tg-TG09,Ariados,https://images.pokemontcg.io/swsh9tg/TG09_hires.png,Trainer Gallery Rare Holo,1.380000,1.350000,Pokémon
+swsh9tg-TG10,Houndoom,https://images.pokemontcg.io/swsh9tg/TG10_hires.png,Trainer Gallery Rare Holo,1.680000,1.480000,Pokémon
+swsh9tg-TG11,Eevee,https://images.pokemontcg.io/swsh9tg/TG11_hires.png,Trainer Gallery Rare Holo,7.090000,7.240000,Pokémon
+swsh9tg-TG12,Oranguru,https://images.pokemontcg.io/swsh9tg/TG12_hires.png,Trainer Gallery Rare Holo,1.420000,1.450000,Pokémon
+swsh9tg-TG13,Boltund V,https://images.pokemontcg.io/swsh9tg/TG13_hires.png,Rare Holo V,7.280000,7.770000,Pokémon
+swsh9tg-TG14,Sylveon V,https://images.pokemontcg.io/swsh9tg/TG14_hires.png,Rare Holo V,32.400000,39.270000,Pokémon
+swsh9tg-TG15,Sylveon VMAX,https://images.pokemontcg.io/swsh9tg/TG15_hires.png,Rare Holo VMAX,36.090000,42.780000,Pokémon
+swsh9tg-TG16,Mimikyu V,https://images.pokemontcg.io/swsh9tg/TG16_hires.png,Rare Holo V,27.960000,38.880000,Pokémon
+swsh9tg-TG17,Mimikyu VMAX,https://images.pokemontcg.io/swsh9tg/TG17_hires.png,Rare Holo VMAX,23.830000,31.500000,Pokémon
+swsh9tg-TG18,Single Strike Urshifu V,https://images.pokemontcg.io/swsh9tg/TG18_hires.png,Rare Holo V,4.090000,4.070000,Pokémon
+swsh9tg-TG19,Single Strike Urshifu VMAX,https://images.pokemontcg.io/swsh9tg/TG19_hires.png,Rare Holo VMAX,6.630000,6.320000,Pokémon
+swsh9tg-TG20,Rapid Strike Urshifu V,https://images.pokemontcg.io/swsh9tg/TG20_hires.png,Rare Holo V,4.830000,3.700000,Pokémon
+swsh9tg-TG21,Rapid Strike Urshifu VMAX,https://images.pokemontcg.io/swsh9tg/TG21_hires.png,Rare Holo VMAX,8.250000,7.130000,Pokémon
+swsh9tg-TG22,Umbreon V,https://images.pokemontcg.io/swsh9tg/TG22_hires.png,Rare Holo V,49.330000,38.560000,Pokémon
+swsh9tg-TG23,Umbreon VMAX,https://images.pokemontcg.io/swsh9tg/TG23_hires.png,Rare Holo VMAX,62.060000,55.700000,Pokémon
+swsh9tg-TG24,Acerola's Premonition,https://images.pokemontcg.io/swsh9tg/TG24_hires.png,Rare Ultra,5.760000,7.030000,Trainer
+swsh9tg-TG25,Café Master,https://images.pokemontcg.io/swsh9tg/TG25_hires.png,Rare Ultra,1.750000,1.260000,Trainer
+swsh9tg-TG26,Gloria,https://images.pokemontcg.io/swsh9tg/TG26_hires.png,Rare Ultra,4.070000,5.560000,Trainer
+swsh9tg-TG27,Rapid Strike Style Mustard,https://images.pokemontcg.io/swsh9tg/TG27_hires.png,Rare Ultra,1.660000,1.260000,Trainer
+swsh9tg-TG28,Single Strike Style Mustard,https://images.pokemontcg.io/swsh9tg/TG28_hires.png,Rare Ultra,1.780000,1.120000,Trainer
+swsh9tg-TG29,Single Strike Urshifu VMAX,https://images.pokemontcg.io/swsh9tg/TG29_hires.png,Rare Secret,2.630000,4.060000,Pokémon
+swsh9tg-TG30,Rapid Strike Urshifu VMAX,https://images.pokemontcg.io/swsh9tg/TG30_hires.png,Rare Secret,2.670000,3.660000,Pokémon
+",DefaulT,",,,,0,0,

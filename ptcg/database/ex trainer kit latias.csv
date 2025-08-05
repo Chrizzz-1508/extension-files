@@ -1,0 +1,12 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+tk1a-1,Bagon,https://images.pokemontcg.io/tk1a/1_hires.png,,0,0,Pokémon
+tk1a-2,Combusken,https://images.pokemontcg.io/tk1a/2_hires.png,,0,0,Pokémon
+tk1a-3,Delcatty,https://images.pokemontcg.io/tk1a/3_hires.png,,0,0,Pokémon
+tk1a-4,Latias,https://images.pokemontcg.io/tk1a/4_hires.png,,0,0,Pokémon
+tk1a-5,Numel,https://images.pokemontcg.io/tk1a/5_hires.png,,0,0,Pokémon
+tk1a-6,Skitty,https://images.pokemontcg.io/tk1a/6_hires.png,,0,0,Pokémon
+tk1a-7,Torchic,https://images.pokemontcg.io/tk1a/7_hires.png,,0,0,Pokémon
+tk1a-8,Potion,https://images.pokemontcg.io/tk1a/8_hires.png,,0,0,Trainer
+tk1a-9,Energy Search,https://images.pokemontcg.io/tk1a/9_hires.png,,0,0,Trainer
+tk1a-10,Fire Energy,https://images.pokemontcg.io/tk1a/10_hires.png,,0,0,Energy
+",DefaulT,",,,,0,0,

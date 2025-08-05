@@ -1,0 +1,36 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+dc1-1,Team Magma's Numel,https://images.pokemontcg.io/dc1/1_hires.png,Common,2.610000,0.790000,Pokémon
+dc1-2,Team Magma's Camerupt,https://images.pokemontcg.io/dc1/2_hires.png,Rare Holo,4.120000,1.070000,Pokémon
+dc1-3,Team Aqua's Spheal,https://images.pokemontcg.io/dc1/3_hires.png,Common,7.460000,1.620000,Pokémon
+dc1-4,Team Aqua's Sealeo,https://images.pokemontcg.io/dc1/4_hires.png,Common,2.460000,0.750000,Pokémon
+dc1-5,Team Aqua's Walrein,https://images.pokemontcg.io/dc1/5_hires.png,Rare Holo,3.980000,1.550000,Pokémon
+dc1-6,Team Aqua's Kyogre-EX,https://images.pokemontcg.io/dc1/6_hires.png,Rare Ultra,795,347.650000,Pokémon
+dc1-7,Team Aqua's Grimer,https://images.pokemontcg.io/dc1/7_hires.png,Common,1.950000,2.010000,Pokémon
+dc1-8,Team Aqua's Muk,https://images.pokemontcg.io/dc1/8_hires.png,Rare Holo,3.720000,1.790000,Pokémon
+dc1-9,Team Aqua's Seviper,https://images.pokemontcg.io/dc1/9_hires.png,Common,2.480000,0.770000,Pokémon
+dc1-10,Team Magma's Baltoy,https://images.pokemontcg.io/dc1/10_hires.png,Common,2.170000,0.630000,Pokémon
+dc1-11,Team Magma's Claydol,https://images.pokemontcg.io/dc1/11_hires.png,Rare Holo,3.200000,1.140000,Pokémon
+dc1-12,Team Magma's Aron,https://images.pokemontcg.io/dc1/12_hires.png,Common,3.100000,1.290000,Pokémon
+dc1-13,Team Magma's Lairon,https://images.pokemontcg.io/dc1/13_hires.png,Common,1.490000,0.800000,Pokémon
+dc1-14,Team Magma's Aggron,https://images.pokemontcg.io/dc1/14_hires.png,Rare Holo,6.980000,2.510000,Pokémon
+dc1-15,Team Magma's Groudon-EX,https://images.pokemontcg.io/dc1/15_hires.png,Rare Ultra,454.420000,322.130000,Pokémon
+dc1-16,Team Aqua's Poochyena,https://images.pokemontcg.io/dc1/16_hires.png,Common,1.990000,0.870000,Pokémon
+dc1-17,Team Magma's Poochyena,https://images.pokemontcg.io/dc1/17_hires.png,Common,4.580000,1.290000,Pokémon
+dc1-18,Team Aqua's Mightyena,https://images.pokemontcg.io/dc1/18_hires.png,Common,3.830000,1.300000,Pokémon
+dc1-19,Team Magma's Mightyena,https://images.pokemontcg.io/dc1/19_hires.png,Common,3.830000,1.030000,Pokémon
+dc1-20,Team Aqua's Carvanha,https://images.pokemontcg.io/dc1/20_hires.png,Common,1.960000,0.580000,Pokémon
+dc1-21,Team Aqua's Sharpedo,https://images.pokemontcg.io/dc1/21_hires.png,Rare Holo,6.400000,2.640000,Pokémon
+dc1-22,Team Magma's Zangoose,https://images.pokemontcg.io/dc1/22_hires.png,Common,3.110000,0.720000,Pokémon
+dc1-23,Aqua Diffuser,https://images.pokemontcg.io/dc1/23_hires.png,Uncommon,1.250000,0.660000,Trainer
+dc1-24,Magma Pointer,https://images.pokemontcg.io/dc1/24_hires.png,Uncommon,1.050000,0.530000,Trainer
+dc1-25,Team Aqua Admin,https://images.pokemontcg.io/dc1/25_hires.png,Uncommon,1.210000,0.660000,Trainer
+dc1-26,Team Aqua Grunt,https://images.pokemontcg.io/dc1/26_hires.png,Uncommon,2.270000,0.540000,Trainer
+dc1-27,Team Aqua's Great Ball,https://images.pokemontcg.io/dc1/27_hires.png,Uncommon,1.850000,0.970000,Trainer
+dc1-28,Team Aqua's Secret Base,https://images.pokemontcg.io/dc1/28_hires.png,Uncommon,1.310000,0.780000,Trainer
+dc1-29,Team Magma Admin,https://images.pokemontcg.io/dc1/29_hires.png,Uncommon,1.010000,0.610000,Trainer
+dc1-30,Team Magma Grunt,https://images.pokemontcg.io/dc1/30_hires.png,Uncommon,2.110000,1.380000,Trainer
+dc1-31,Team Magma's Great Ball,https://images.pokemontcg.io/dc1/31_hires.png,Uncommon,7.050000,5.610000,Trainer
+dc1-32,Team Magma's Secret Base,https://images.pokemontcg.io/dc1/32_hires.png,Uncommon,5.070000,3.210000,Trainer
+dc1-33,Double Aqua Energy,https://images.pokemontcg.io/dc1/33_hires.png,Uncommon,2.730000,0.790000,Energy
+dc1-34,Double Magma Energy,https://images.pokemontcg.io/dc1/34_hires.png,Uncommon,0.970000,0.630000,Energy
+",DefaulT,",,,,0,0,

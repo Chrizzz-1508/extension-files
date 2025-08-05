@@ -1,0 +1,17 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+mcd22-1,Ledyba,https://images.pokemontcg.io/mcd22/1_hires.png,,0.080000,0.240000,Pokémon
+mcd22-2,Rowlet,https://images.pokemontcg.io/mcd22/2_hires.png,,0.420000,0.640000,Pokémon
+mcd22-3,Gossifleur,https://images.pokemontcg.io/mcd22/3_hires.png,,0.360000,0.460000,Pokémon
+mcd22-4,Growlithe,https://images.pokemontcg.io/mcd22/4_hires.png,,0.470000,0.890000,Pokémon
+mcd22-5,Victini,https://images.pokemontcg.io/mcd22/5_hires.png,,0.390000,0.710000,Pokémon
+mcd22-6,Lapras,https://images.pokemontcg.io/mcd22/6_hires.png,,0.090000,0.310000,Pokémon
+mcd22-7,Pikachu,https://images.pokemontcg.io/mcd22/7_hires.png,,1.350000,1.970000,Pokémon
+mcd22-8,Chinchou,https://images.pokemontcg.io/mcd22/8_hires.png,,0.090000,0.260000,Pokémon
+mcd22-9,Flaaffy,https://images.pokemontcg.io/mcd22/9_hires.png,,0.090000,0.210000,Pokémon
+mcd22-10,Tynamo,https://images.pokemontcg.io/mcd22/10_hires.png,,0.100000,0.220000,Pokémon
+mcd22-11,Cutiefly,https://images.pokemontcg.io/mcd22/11_hires.png,,0.090000,0.410000,Pokémon
+mcd22-12,Bewear,https://images.pokemontcg.io/mcd22/12_hires.png,,0.080000,0.180000,Pokémon
+mcd22-13,Pangoro,https://images.pokemontcg.io/mcd22/13_hires.png,,0.090000,0.270000,Pokémon
+mcd22-14,Drampa,https://images.pokemontcg.io/mcd22/14_hires.png,,0.080000,0.270000,Pokémon
+mcd22-15,Smeargle,https://images.pokemontcg.io/mcd22/15_hires.png,,0.310000,0.680000,Pokémon
+",DefaulT,",,,,0,0,

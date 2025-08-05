@@ -1,0 +1,19 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+pop8-1,Heatran,https://images.pokemontcg.io/pop8/1_hires.png,Rare,4.470000,1.560000,Pokémon
+pop8-2,Lucario,https://images.pokemontcg.io/pop8/2_hires.png,Rare,6.250000,4.540000,Pokémon
+pop8-3,Luxray,https://images.pokemontcg.io/pop8/3_hires.png,Rare,3.170000,5.310000,Pokémon
+pop8-4,Probopass,https://images.pokemontcg.io/pop8/4_hires.png,Rare,3.480000,1.610000,Pokémon
+pop8-5,Yanmega,https://images.pokemontcg.io/pop8/5_hires.png,Rare,0.900000,3.830000,Pokémon
+pop8-6,Cherrim,https://images.pokemontcg.io/pop8/6_hires.png,Uncommon,1.140000,1.760000,Pokémon
+pop8-7,Carnivine,https://images.pokemontcg.io/pop8/7_hires.png,Uncommon,4.350000,2.350000,Pokémon
+pop8-8,Luxio,https://images.pokemontcg.io/pop8/8_hires.png,Uncommon,0.750000,3.810000,Pokémon
+pop8-9,Night Maintenance,https://images.pokemontcg.io/pop8/9_hires.png,Uncommon,2.200000,2.640000,Trainer
+pop8-10,Rare Candy,https://images.pokemontcg.io/pop8/10_hires.png,Uncommon,2.880000,7.290000,Trainer
+pop8-11,Roseanne's Research,https://images.pokemontcg.io/pop8/11_hires.png,Uncommon,0,6.220000,Trainer
+pop8-12,Chimchar,https://images.pokemontcg.io/pop8/12_hires.png,Common,0.530000,0.710000,Pokémon
+pop8-13,Croagunk,https://images.pokemontcg.io/pop8/13_hires.png,Common,0.500000,0.450000,Pokémon
+pop8-14,Happiny,https://images.pokemontcg.io/pop8/14_hires.png,Common,1.140000,2.490000,Pokémon
+pop8-15,Piplup,https://images.pokemontcg.io/pop8/15_hires.png,Common,0.800000,1.740000,Pokémon
+pop8-16,Riolu,https://images.pokemontcg.io/pop8/16_hires.png,Common,0.500000,0.840000,Pokémon
+pop8-17,Turtwig,https://images.pokemontcg.io/pop8/17_hires.png,Common,0.450000,1.150000,Pokémon
+",DefaulT,",,,,0,0,

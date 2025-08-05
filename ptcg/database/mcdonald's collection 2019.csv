@@ -1,0 +1,14 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+mcd19-1,Caterpie,https://images.pokemontcg.io/mcd19/1_hires.png,,1.350000,10.290000,Pokémon
+mcd19-2,Alolan Exeggutor,https://images.pokemontcg.io/mcd19/2_hires.png,,1.220000,5.150000,Pokémon
+mcd19-3,Magmar,https://images.pokemontcg.io/mcd19/3_hires.png,,2.030000,9.350000,Pokémon
+mcd19-4,Alolan Sandshrew,https://images.pokemontcg.io/mcd19/4_hires.png,,0.900000,3.990000,Pokémon
+mcd19-5,Lapras,https://images.pokemontcg.io/mcd19/5_hires.png,,2.010000,10.300000,Pokémon
+mcd19-6,Pikachu,https://images.pokemontcg.io/mcd19/6_hires.png,,3.590000,21.580000,Pokémon
+mcd19-7,Gastly,https://images.pokemontcg.io/mcd19/7_hires.png,,2.530000,9.610000,Pokémon
+mcd19-8,Mankey,https://images.pokemontcg.io/mcd19/8_hires.png,,2.240000,4.500000,Pokémon
+mcd19-9,Onix,https://images.pokemontcg.io/mcd19/9_hires.png,,1.510000,6.140000,Pokémon
+mcd19-10,Alolan Meowth,https://images.pokemontcg.io/mcd19/10_hires.png,,0.950000,10.300000,Pokémon
+mcd19-11,Alolan Dugtrio,https://images.pokemontcg.io/mcd19/11_hires.png,,1.320000,6.810000,Pokémon
+mcd19-12,Eevee,https://images.pokemontcg.io/mcd19/12_hires.png,,3.570000,17.190000,Pokémon
+",DefaulT,",,,,0,0,

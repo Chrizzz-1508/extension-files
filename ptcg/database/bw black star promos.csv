@@ -1,0 +1,103 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+bwp-BW01,Snivy,https://images.pokemontcg.io/bwp/BW01_hires.png,Promo,0.960000,1.190000,Pokémon
+bwp-BW02,Tepig,https://images.pokemontcg.io/bwp/BW02_hires.png,Promo,0.690000,1.530000,Pokémon
+bwp-BW03,Oshawott,https://images.pokemontcg.io/bwp/BW03_hires.png,Promo,2.410000,2.840000,Pokémon
+bwp-BW004,Reshiram,https://images.pokemontcg.io/bwp/BW004_hires.png,Promo,0,2.740000,Pokémon
+bwp-BW005,Zekrom,https://images.pokemontcg.io/bwp/BW005_hires.png,Promo,0,1.610000,Pokémon
+bwp-BW06,Snivy,https://images.pokemontcg.io/bwp/BW06_hires.png,Promo,5,1.260000,Pokémon
+bwp-BW07,Tepig,https://images.pokemontcg.io/bwp/BW07_hires.png,Promo,3.500000,1.080000,Pokémon
+bwp-BW08,Oshawott,https://images.pokemontcg.io/bwp/BW08_hires.png,Promo,2.250000,2,Pokémon
+bwp-BW09,Zoroark,https://images.pokemontcg.io/bwp/BW09_hires.png,Promo,1.490000,2.840000,Pokémon
+bwp-BW10,Axew,https://images.pokemontcg.io/bwp/BW10_hires.png,Promo,5.610000,1.750000,Pokémon
+bwp-BW11,Pansage,https://images.pokemontcg.io/bwp/BW11_hires.png,Promo,3,1.610000,Pokémon
+bwp-BW12,Zorua,https://images.pokemontcg.io/bwp/BW12_hires.png,Promo,19.490000,10.090000,Pokémon
+bwp-BW13,Minccino,https://images.pokemontcg.io/bwp/BW13_hires.png,Promo,17.450000,6.530000,Pokémon
+bwp-BW14,Pansage,https://images.pokemontcg.io/bwp/BW14_hires.png,Promo,41.700000,33.430000,Pokémon
+bwp-BW15,Pidove,https://images.pokemontcg.io/bwp/BW15_hires.png,Promo,110,40,Pokémon
+bwp-BW16,Axew,https://images.pokemontcg.io/bwp/BW16_hires.png,Promo,76.510000,0,Pokémon
+bwp-BW17,Ducklett,https://images.pokemontcg.io/bwp/BW17_hires.png,Promo,3.970000,1.020000,Pokémon
+bwp-BW18,Darumaka,https://images.pokemontcg.io/bwp/BW18_hires.png,Promo,5.990000,5.090000,Pokémon
+bwp-BW19,Zoroark,https://images.pokemontcg.io/bwp/BW19_hires.png,Promo,3.470000,2.220000,Pokémon
+bwp-BW20,Serperior,https://images.pokemontcg.io/bwp/BW20_hires.png,Promo,1.880000,7.050000,Pokémon
+bwp-BW21,Emboar,https://images.pokemontcg.io/bwp/BW21_hires.png,Promo,2.030000,2.690000,Pokémon
+bwp-BW22,Samurott,https://images.pokemontcg.io/bwp/BW22_hires.png,Promo,1.600000,2.560000,Pokémon
+bwp-BW23,Reshiram,https://images.pokemontcg.io/bwp/BW23_hires.png,Promo,4.400000,5.870000,Pokémon
+bwp-BW24,Zekrom,https://images.pokemontcg.io/bwp/BW24_hires.png,Promo,7,4.020000,Pokémon
+bwp-BW25,Scraggy,https://images.pokemontcg.io/bwp/BW25_hires.png,Promo,13.980000,2.420000,Pokémon
+bwp-BW26,Axew,https://images.pokemontcg.io/bwp/BW26_hires.png,Promo,7,3.480000,Pokémon
+bwp-BW27,Litwick,https://images.pokemontcg.io/bwp/BW27_hires.png,Promo,0,19.980000,Pokémon
+bwp-BW28,Tropical Beach,https://images.pokemontcg.io/bwp/BW28_hires.png,Promo,0,99.990000,Trainer
+bwp-BW29,Victory Cup,https://images.pokemontcg.io/bwp/BW29_hires.png,Promo,40,77.450000,Trainer
+bwp-BW30,Victory Cup,https://images.pokemontcg.io/bwp/BW30_hires.png,Promo,51.990000,0,Trainer
+bwp-BW31,Victory Cup,https://images.pokemontcg.io/bwp/BW31_hires.png,Promo,99.500000,115.710000,Trainer
+bwp-BW32,Victini,https://images.pokemontcg.io/bwp/BW32_hires.png,Promo,1.790000,3.300000,Pokémon
+bwp-BW33,Riolu,https://images.pokemontcg.io/bwp/BW33_hires.png,Promo,4.680000,9.990000,Pokémon
+bwp-BW34,Luxio,https://images.pokemontcg.io/bwp/BW34_hires.png,Promo,3,17.110000,Pokémon
+bwp-BW35,Meowth,https://images.pokemontcg.io/bwp/BW35_hires.png,Promo,6.430000,10.170000,Pokémon
+bwp-BW36,Reshiram-EX,https://images.pokemontcg.io/bwp/BW36_hires.png,Promo,9.490000,6.160000,Pokémon
+bwp-BW37,Kyurem-EX,https://images.pokemontcg.io/bwp/BW37_hires.png,Promo,6.340000,4.060000,Pokémon
+bwp-BW38,Zekrom-EX,https://images.pokemontcg.io/bwp/BW38_hires.png,Promo,4.810000,6.160000,Pokémon
+bwp-BW39,Battle City,https://images.pokemontcg.io/bwp/BW39_hires.png,Promo,4.130000,3.310000,Trainer
+bwp-BW40,Volcarona,https://images.pokemontcg.io/bwp/BW40_hires.png,Promo,22.660000,15.390000,Pokémon
+bwp-BW41,Thundurus,https://images.pokemontcg.io/bwp/BW41_hires.png,Promo,3.330000,0.920000,Pokémon
+bwp-BW42,Tornadus,https://images.pokemontcg.io/bwp/BW42_hires.png,Promo,3.350000,1.800000,Pokémon
+bwp-BW43,Landorus,https://images.pokemontcg.io/bwp/BW43_hires.png,Promo,10.190000,14.500000,Pokémon
+bwp-BW44,Kyurem,https://images.pokemontcg.io/bwp/BW44_hires.png,Promo,7,2.970000,Pokémon
+bwp-BW45,Mewtwo-EX,https://images.pokemontcg.io/bwp/BW45_hires.png,Promo,6.420000,10.250000,Pokémon
+bwp-BW46,Darkrai-EX,https://images.pokemontcg.io/bwp/BW46_hires.png,Promo,6.880000,5.870000,Pokémon
+bwp-BW47,Rayquaza-EX,https://images.pokemontcg.io/bwp/BW47_hires.png,Promo,7.900000,13.350000,Pokémon
+bwp-BW48,Altaria,https://images.pokemontcg.io/bwp/BW48_hires.png,Promo,14.380000,8.100000,Pokémon
+bwp-BW49,Lilligant,https://images.pokemontcg.io/bwp/BW49_hires.png,Promo,23.960000,17.670000,Pokémon
+bwp-BW50,Tropical Beach,https://images.pokemontcg.io/bwp/BW50_hires.png,Promo,45,0,Trainer
+bwp-BW51,Crobat,https://images.pokemontcg.io/bwp/BW51_hires.png,Promo,9.500000,13.790000,Pokémon
+bwp-BW52,Lillipup,https://images.pokemontcg.io/bwp/BW52_hires.png,Promo,4,3.330000,Pokémon
+bwp-BW53,Flygon,https://images.pokemontcg.io/bwp/BW53_hires.png,Promo,15.990000,14.220000,Pokémon
+bwp-BW54,Pikachu,https://images.pokemontcg.io/bwp/BW54_hires.png,Promo,20.320000,48.780000,Pokémon
+bwp-BW55,Elgyem,https://images.pokemontcg.io/bwp/BW55_hires.png,Promo,0,3.620000,Pokémon
+bwp-BW56,Empoleon,https://images.pokemontcg.io/bwp/BW56_hires.png,Promo,5.290000,3.710000,Pokémon
+bwp-BW57,Haxorus,https://images.pokemontcg.io/bwp/BW57_hires.png,Promo,6.720000,12.660000,Pokémon
+bwp-BW58,Black Kyurem,https://images.pokemontcg.io/bwp/BW58_hires.png,Promo,24.990000,17.220000,Pokémon
+bwp-BW59,White Kyurem,https://images.pokemontcg.io/bwp/BW59_hires.png,Promo,39.940000,14.080000,Pokémon
+bwp-BW60,Keldeo,https://images.pokemontcg.io/bwp/BW60_hires.png,Promo,1.990000,4.490000,Pokémon
+bwp-BW61,Keldeo-EX,https://images.pokemontcg.io/bwp/BW61_hires.png,Promo,2.510000,1.710000,Pokémon
+bwp-BW62,Black Kyurem-EX,https://images.pokemontcg.io/bwp/BW62_hires.png,Promo,4.020000,4.660000,Pokémon
+bwp-BW63,White Kyurem-EX,https://images.pokemontcg.io/bwp/BW63_hires.png,Promo,4.460000,5.640000,Pokémon
+bwp-BW64,Drifblim,https://images.pokemontcg.io/bwp/BW64_hires.png,Promo,0,4.080000,Pokémon
+bwp-BW65,Jigglypuff,https://images.pokemontcg.io/bwp/BW65_hires.png,Promo,18,10.520000,Pokémon
+bwp-BW66,Ninetales,https://images.pokemontcg.io/bwp/BW66_hires.png,Promo,26.350000,11.970000,Pokémon
+bwp-BW67,Ampharos,https://images.pokemontcg.io/bwp/BW67_hires.png,Promo,4.050000,10.110000,Pokémon
+bwp-BW68,Meloetta,https://images.pokemontcg.io/bwp/BW68_hires.png,Promo,3.630000,1.340000,Pokémon
+bwp-BW69,Meloetta,https://images.pokemontcg.io/bwp/BW69_hires.png,Promo,1.450000,0.480000,Pokémon
+bwp-BW70,Virizion,https://images.pokemontcg.io/bwp/BW70_hires.png,Promo,1.600000,1.760000,Pokémon
+bwp-BW71,Terrakion,https://images.pokemontcg.io/bwp/BW71_hires.png,Promo,2.150000,2.370000,Pokémon
+bwp-BW72,Cobalion,https://images.pokemontcg.io/bwp/BW72_hires.png,Promo,2.020000,2.670000,Pokémon
+bwp-BW73,Darkrai,https://images.pokemontcg.io/bwp/BW73_hires.png,Promo,39.040000,105.560000,Pokémon
+bwp-BW74,Giratina,https://images.pokemontcg.io/bwp/BW74_hires.png,Promo,34.190000,74.320000,Pokémon
+bwp-BW75,Metagross,https://images.pokemontcg.io/bwp/BW75_hires.png,Promo,14.450000,18.460000,Pokémon
+bwp-BW76,Electrode,https://images.pokemontcg.io/bwp/BW76_hires.png,Promo,13,16.790000,Pokémon
+bwp-BW77,Pikachu,https://images.pokemontcg.io/bwp/BW77_hires.png,Promo,0,0,Pokémon
+bwp-BW78,Raichu,https://images.pokemontcg.io/bwp/BW78_hires.png,Promo,0,0,Pokémon
+bwp-BW79,Landorus,https://images.pokemontcg.io/bwp/BW79_hires.png,Promo,13.950000,99.990000,Pokémon
+bwp-BW80,Druddigon,https://images.pokemontcg.io/bwp/BW80_hires.png,Promo,2.840000,2.820000,Pokémon
+bwp-BW81,Thundurus-EX,https://images.pokemontcg.io/bwp/BW81_hires.png,Promo,3.490000,3.260000,Pokémon
+bwp-BW82,Deoxys-EX,https://images.pokemontcg.io/bwp/BW82_hires.png,Promo,6.770000,10.590000,Pokémon
+bwp-BW83,Lugia-EX,https://images.pokemontcg.io/bwp/BW83_hires.png,Promo,15.750000,17.220000,Pokémon
+bwp-BW84,Porygon-Z,https://images.pokemontcg.io/bwp/BW84_hires.png,Promo,13,9.540000,Pokémon
+bwp-BW85,Lucario,https://images.pokemontcg.io/bwp/BW85_hires.png,Promo,17.870000,39.990000,Pokémon
+bwp-BW86,Genesect,https://images.pokemontcg.io/bwp/BW86_hires.png,Promo,13.060000,139.990000,Pokémon
+bwp-BW87,Leafeon,https://images.pokemontcg.io/bwp/BW87_hires.png,Promo,10.520000,39.320000,Pokémon
+bwp-BW88,Flareon,https://images.pokemontcg.io/bwp/BW88_hires.png,Promo,16.110000,30.210000,Pokémon
+bwp-BW89,Vaporeon,https://images.pokemontcg.io/bwp/BW89_hires.png,Promo,13.460000,27.210000,Pokémon
+bwp-BW90,Glaceon,https://images.pokemontcg.io/bwp/BW90_hires.png,Promo,12.640000,32.900000,Pokémon
+bwp-BW91,Jolteon,https://images.pokemontcg.io/bwp/BW91_hires.png,Promo,10.510000,28.080000,Pokémon
+bwp-BW92,Espeon,https://images.pokemontcg.io/bwp/BW92_hires.png,Promo,10.120000,38.590000,Pokémon
+bwp-BW93,Umbreon,https://images.pokemontcg.io/bwp/BW93_hires.png,Promo,41,93.760000,Pokémon
+bwp-BW94,Eevee,https://images.pokemontcg.io/bwp/BW94_hires.png,Promo,13.880000,52.360000,Pokémon
+bwp-BW95,Champions Festival,https://images.pokemontcg.io/bwp/BW95_hires.png,Promo,157.500000,0,Trainer
+bwp-BW96,Tornadus-EX,https://images.pokemontcg.io/bwp/BW96_hires.png,Promo,12.080000,19.540000,Pokémon
+bwp-BW97,Eevee,https://images.pokemontcg.io/bwp/BW97_hires.png,Promo,161.330000,239.980000,Pokémon
+bwp-BW98,Mew,https://images.pokemontcg.io/bwp/BW98_hires.png,Promo,29.990000,0,Pokémon
+bwp-BW99,Genesect,https://images.pokemontcg.io/bwp/BW99_hires.png,Promo,6.090000,2.260000,Pokémon
+bwp-BW100,N,https://images.pokemontcg.io/bwp/BW100_hires.png,Promo,0,8.160000,Trainer
+bwp-BW101,Genesect,https://images.pokemontcg.io/bwp/BW101_hires.png,Promo,97,67.980000,Pokémon
+",DefaulT,",,,,0,0,

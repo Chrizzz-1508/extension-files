@@ -1,0 +1,101 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+sv6pt5-1,Joltik,https://images.pokemontcg.io/sv6pt5/1_hires.png,Common,0.030000,0.080000,Pokémon
+sv6pt5-2,Galvantula,https://images.pokemontcg.io/sv6pt5/2_hires.png,Uncommon,0.040000,0.060000,Pokémon
+sv6pt5-3,Rowlet,https://images.pokemontcg.io/sv6pt5/3_hires.png,Common,0.040000,0.060000,Pokémon
+sv6pt5-4,Dartrix,https://images.pokemontcg.io/sv6pt5/4_hires.png,Common,0.040000,0.060000,Pokémon
+sv6pt5-5,Decidueye,https://images.pokemontcg.io/sv6pt5/5_hires.png,Uncommon,0.030000,0.080000,Pokémon
+sv6pt5-6,Tapu Bulu,https://images.pokemontcg.io/sv6pt5/6_hires.png,Rare,0.050000,0.110000,Pokémon
+sv6pt5-7,Houndour,https://images.pokemontcg.io/sv6pt5/7_hires.png,Common,0.020000,0.050000,Pokémon
+sv6pt5-8,Houndoom,https://images.pokemontcg.io/sv6pt5/8_hires.png,Common,0.030000,0.090000,Pokémon
+sv6pt5-9,Iron Moth,https://images.pokemontcg.io/sv6pt5/9_hires.png,Uncommon,0.030000,0.090000,Pokémon
+sv6pt5-10,Horsea,https://images.pokemontcg.io/sv6pt5/10_hires.png,Common,0.030000,0.050000,Pokémon
+sv6pt5-11,Seadra,https://images.pokemontcg.io/sv6pt5/11_hires.png,Common,0.030000,0.060000,Pokémon
+sv6pt5-12,Kingdra ex,https://images.pokemontcg.io/sv6pt5/12_hires.png,Double Rare,0.580000,0.540000,Pokémon
+sv6pt5-13,Sneasel,https://images.pokemontcg.io/sv6pt5/13_hires.png,Common,0.020000,0.040000,Pokémon
+sv6pt5-14,Weavile,https://images.pokemontcg.io/sv6pt5/14_hires.png,Uncommon,0.030000,0.060000,Pokémon
+sv6pt5-15,Revavroom ex,https://images.pokemontcg.io/sv6pt5/15_hires.png,Double Rare,0.520000,0.480000,Pokémon
+sv6pt5-16,Drowzee,https://images.pokemontcg.io/sv6pt5/16_hires.png,Common,0.030000,0.060000,Pokémon
+sv6pt5-17,Hypno,https://images.pokemontcg.io/sv6pt5/17_hires.png,Uncommon,0.020000,0.050000,Pokémon
+sv6pt5-18,Duskull,https://images.pokemontcg.io/sv6pt5/18_hires.png,Common,0.070000,0.090000,Pokémon
+sv6pt5-19,Dusclops,https://images.pokemontcg.io/sv6pt5/19_hires.png,Common,0.100000,0.110000,Pokémon
+sv6pt5-20,Dusknoir,https://images.pokemontcg.io/sv6pt5/20_hires.png,Rare,0.110000,0.120000,Pokémon
+sv6pt5-21,Cresselia,https://images.pokemontcg.io/sv6pt5/21_hires.png,Rare,0.050000,0.100000,Pokémon
+sv6pt5-22,Sylveon,https://images.pokemontcg.io/sv6pt5/22_hires.png,Uncommon,0.050000,0.130000,Pokémon
+sv6pt5-23,Croagunk,https://images.pokemontcg.io/sv6pt5/23_hires.png,Common,0.030000,0.040000,Pokémon
+sv6pt5-24,Toxicroak,https://images.pokemontcg.io/sv6pt5/24_hires.png,Common,0.020000,0.080000,Pokémon
+sv6pt5-25,Bloodmoon Ursaluna,https://images.pokemontcg.io/sv6pt5/25_hires.png,Rare,0.050000,0.090000,Pokémon
+sv6pt5-26,Slither Wing,https://images.pokemontcg.io/sv6pt5/26_hires.png,Uncommon,0.040000,0.090000,Pokémon
+sv6pt5-27,Zubat,https://images.pokemontcg.io/sv6pt5/27_hires.png,Common,0.020000,0.050000,Pokémon
+sv6pt5-28,Golbat,https://images.pokemontcg.io/sv6pt5/28_hires.png,Common,0.030000,0.080000,Pokémon
+sv6pt5-29,Crobat,https://images.pokemontcg.io/sv6pt5/29_hires.png,Uncommon,0.030000,0.060000,Pokémon
+sv6pt5-30,Absol,https://images.pokemontcg.io/sv6pt5/30_hires.png,Common,0.030000,0.070000,Pokémon
+sv6pt5-31,Zorua,https://images.pokemontcg.io/sv6pt5/31_hires.png,Common,0.030000,0.060000,Pokémon
+sv6pt5-32,Zoroark,https://images.pokemontcg.io/sv6pt5/32_hires.png,Rare,0.050000,0.110000,Pokémon
+sv6pt5-33,Inkay,https://images.pokemontcg.io/sv6pt5/33_hires.png,Common,0.020000,0.080000,Pokémon
+sv6pt5-34,Malamar,https://images.pokemontcg.io/sv6pt5/34_hires.png,Uncommon,0.020000,0.050000,Pokémon
+sv6pt5-35,Yveltal,https://images.pokemontcg.io/sv6pt5/35_hires.png,Uncommon,0.030000,0.070000,Pokémon
+sv6pt5-36,Okidogi ex,https://images.pokemontcg.io/sv6pt5/36_hires.png,Double Rare,0.630000,0.550000,Pokémon
+sv6pt5-37,Munkidori ex,https://images.pokemontcg.io/sv6pt5/37_hires.png,Double Rare,0.540000,0.450000,Pokémon
+sv6pt5-38,Fezandipiti ex,https://images.pokemontcg.io/sv6pt5/38_hires.png,Double Rare,6.280000,16.870000,Pokémon
+sv6pt5-39,Pecharunt ex,https://images.pokemontcg.io/sv6pt5/39_hires.png,Double Rare,0.820000,0.730000,Pokémon
+sv6pt5-40,Genesect,https://images.pokemontcg.io/sv6pt5/40_hires.png,Uncommon,0.040000,0.100000,Pokémon
+sv6pt5-41,Cufant,https://images.pokemontcg.io/sv6pt5/41_hires.png,Common,0.020000,0.040000,Pokémon
+sv6pt5-42,Copperajah,https://images.pokemontcg.io/sv6pt5/42_hires.png,Rare,0.040000,0.090000,Pokémon
+sv6pt5-43,Varoom,https://images.pokemontcg.io/sv6pt5/43_hires.png,Common,0.040000,0.060000,Pokémon
+sv6pt5-44,Axew,https://images.pokemontcg.io/sv6pt5/44_hires.png,Common,0.020000,0.060000,Pokémon
+sv6pt5-45,Fraxure,https://images.pokemontcg.io/sv6pt5/45_hires.png,Common,0.030000,0.050000,Pokémon
+sv6pt5-46,Haxorus,https://images.pokemontcg.io/sv6pt5/46_hires.png,Rare,0.050000,0.120000,Pokémon
+sv6pt5-47,Kyurem,https://images.pokemontcg.io/sv6pt5/47_hires.png,Uncommon,0.030000,0.090000,Pokémon
+sv6pt5-48,Meowth,https://images.pokemontcg.io/sv6pt5/48_hires.png,Common,0.030000,0.060000,Pokémon
+sv6pt5-49,Persian,https://images.pokemontcg.io/sv6pt5/49_hires.png,Common,0.030000,0.070000,Pokémon
+sv6pt5-50,Eevee,https://images.pokemontcg.io/sv6pt5/50_hires.png,Common,0.040000,0.130000,Pokémon
+sv6pt5-51,Furfrou,https://images.pokemontcg.io/sv6pt5/51_hires.png,Common,0.020000,0.060000,Pokémon
+sv6pt5-52,Stufful,https://images.pokemontcg.io/sv6pt5/52_hires.png,Common,0.030000,0.060000,Pokémon
+sv6pt5-53,Bewear,https://images.pokemontcg.io/sv6pt5/53_hires.png,Common,0.030000,0.060000,Pokémon
+sv6pt5-54,Academy at Night,https://images.pokemontcg.io/sv6pt5/54_hires.png,Uncommon,0.050000,0.050000,Trainer
+sv6pt5-55,Binding Mochi,https://images.pokemontcg.io/sv6pt5/55_hires.png,Uncommon,0.050000,0.050000,Trainer
+sv6pt5-56,Cassiopeia,https://images.pokemontcg.io/sv6pt5/56_hires.png,Uncommon,0.020000,0.060000,Trainer
+sv6pt5-57,Colress's Tenacity,https://images.pokemontcg.io/sv6pt5/57_hires.png,Uncommon,0.080000,0.140000,Trainer
+sv6pt5-58,Dangerous Laser,https://images.pokemontcg.io/sv6pt5/58_hires.png,ACE SPEC Rare,0.620000,0.420000,Trainer
+sv6pt5-59,Janine's Secret Art,https://images.pokemontcg.io/sv6pt5/59_hires.png,Uncommon,0.070000,0.060000,Trainer
+sv6pt5-60,Neutralization Zone,https://images.pokemontcg.io/sv6pt5/60_hires.png,ACE SPEC Rare,0.760000,0.730000,Trainer
+sv6pt5-61,Night Stretcher,https://images.pokemontcg.io/sv6pt5/61_hires.png,Uncommon,1.050000,3.750000,Trainer
+sv6pt5-62,Poké Vital A,https://images.pokemontcg.io/sv6pt5/62_hires.png,ACE SPEC Rare,0.750000,0.600000,Trainer
+sv6pt5-63,Powerglass,https://images.pokemontcg.io/sv6pt5/63_hires.png,Uncommon,0.060000,0.140000,Trainer
+sv6pt5-64,Xerosic's Machinations,https://images.pokemontcg.io/sv6pt5/64_hires.png,Uncommon,0.070000,0.090000,Trainer
+sv6pt5-65,Tapu Bulu,https://images.pokemontcg.io/sv6pt5/65_hires.png,Illustration Rare,6.060000,5.020000,Pokémon
+sv6pt5-66,Houndoom,https://images.pokemontcg.io/sv6pt5/66_hires.png,Illustration Rare,27.540000,29.760000,Pokémon
+sv6pt5-67,Horsea,https://images.pokemontcg.io/sv6pt5/67_hires.png,Illustration Rare,15.910000,18.200000,Pokémon
+sv6pt5-68,Duskull,https://images.pokemontcg.io/sv6pt5/68_hires.png,Illustration Rare,18.760000,27.830000,Pokémon
+sv6pt5-69,Dusclops,https://images.pokemontcg.io/sv6pt5/69_hires.png,Illustration Rare,16.240000,19.100000,Pokémon
+sv6pt5-70,Dusknoir,https://images.pokemontcg.io/sv6pt5/70_hires.png,Illustration Rare,15.790000,19.170000,Pokémon
+sv6pt5-71,Cresselia,https://images.pokemontcg.io/sv6pt5/71_hires.png,Illustration Rare,15.880000,15.330000,Pokémon
+sv6pt5-72,Munkidori,https://images.pokemontcg.io/sv6pt5/72_hires.png,Illustration Rare,20.720000,28.400000,Pokémon
+sv6pt5-73,Fezandipiti,https://images.pokemontcg.io/sv6pt5/73_hires.png,Illustration Rare,8.510000,5.470000,Pokémon
+sv6pt5-74,Okidogi,https://images.pokemontcg.io/sv6pt5/74_hires.png,Illustration Rare,7.580000,6.020000,Pokémon
+sv6pt5-75,Zorua,https://images.pokemontcg.io/sv6pt5/75_hires.png,Illustration Rare,11.560000,10.830000,Pokémon
+sv6pt5-76,Cufant,https://images.pokemontcg.io/sv6pt5/76_hires.png,Illustration Rare,9.270000,8.460000,Pokémon
+sv6pt5-77,Fraxure,https://images.pokemontcg.io/sv6pt5/77_hires.png,Illustration Rare,7.810000,8,Pokémon
+sv6pt5-78,Persian,https://images.pokemontcg.io/sv6pt5/78_hires.png,Illustration Rare,40.890000,35.560000,Pokémon
+sv6pt5-79,Bewear,https://images.pokemontcg.io/sv6pt5/79_hires.png,Illustration Rare,5.850000,9.410000,Pokémon
+sv6pt5-80,Kingdra ex,https://images.pokemontcg.io/sv6pt5/80_hires.png,Ultra Rare,2.900000,2.230000,Pokémon
+sv6pt5-81,Revavroom ex,https://images.pokemontcg.io/sv6pt5/81_hires.png,Ultra Rare,1.540000,1.400000,Pokémon
+sv6pt5-82,Okidogi ex,https://images.pokemontcg.io/sv6pt5/82_hires.png,Ultra Rare,2.490000,2.210000,Pokémon
+sv6pt5-83,Munkidori ex,https://images.pokemontcg.io/sv6pt5/83_hires.png,Ultra Rare,1.970000,1.560000,Pokémon
+sv6pt5-84,Fezandipiti ex,https://images.pokemontcg.io/sv6pt5/84_hires.png,Ultra Rare,9.180000,19.080000,Pokémon
+sv6pt5-85,Pecharunt ex,https://images.pokemontcg.io/sv6pt5/85_hires.png,Ultra Rare,2.570000,2.450000,Pokémon
+sv6pt5-86,Cassiopeia,https://images.pokemontcg.io/sv6pt5/86_hires.png,Ultra Rare,2.960000,2.400000,Trainer
+sv6pt5-87,Colress's Tenacity,https://images.pokemontcg.io/sv6pt5/87_hires.png,Ultra Rare,3.270000,2.990000,Trainer
+sv6pt5-88,Janine's Secret Art,https://images.pokemontcg.io/sv6pt5/88_hires.png,Ultra Rare,2.610000,2.710000,Trainer
+sv6pt5-89,Xerosic's Machinations,https://images.pokemontcg.io/sv6pt5/89_hires.png,Ultra Rare,1.950000,2.010000,Trainer
+sv6pt5-90,Okidogi ex,https://images.pokemontcg.io/sv6pt5/90_hires.png,Special Illustration Rare,20.410000,18.100000,Pokémon
+sv6pt5-91,Munkidori ex,https://images.pokemontcg.io/sv6pt5/91_hires.png,Special Illustration Rare,17.440000,13.680000,Pokémon
+sv6pt5-92,Fezandipiti ex,https://images.pokemontcg.io/sv6pt5/92_hires.png,Special Illustration Rare,34.020000,42.500000,Pokémon
+sv6pt5-93,Pecharunt ex,https://images.pokemontcg.io/sv6pt5/93_hires.png,Special Illustration Rare,19.190000,16.790000,Pokémon
+sv6pt5-94,Cassiopeia,https://images.pokemontcg.io/sv6pt5/94_hires.png,Special Illustration Rare,31.780000,30.850000,Trainer
+sv6pt5-95,Pecharunt ex,https://images.pokemontcg.io/sv6pt5/95_hires.png,Hyper Rare,29.350000,22.480000,Pokémon
+sv6pt5-96,Earthen Vessel,https://images.pokemontcg.io/sv6pt5/96_hires.png,Hyper Rare,38.450000,45.380000,Trainer
+sv6pt5-97,Powerglass,https://images.pokemontcg.io/sv6pt5/97_hires.png,Hyper Rare,26.960000,19.040000,Trainer
+sv6pt5-98,Basic Darkness Energy,https://images.pokemontcg.io/sv6pt5/98_hires.png,Hyper Rare,36.480000,42.360000,Energy
+sv6pt5-99,Basic Metal Energy,https://images.pokemontcg.io/sv6pt5/99_hires.png,Hyper Rare,32.810000,27.720000,Energy
+",DefaulT,",,,,0,0,

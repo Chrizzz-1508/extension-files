@@ -1,0 +1,14 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+tk2b-1,Arcanine,https://images.pokemontcg.io/tk2b/1_hires.png,,0,0,Pokémon
+tk2b-2,Charmander,https://images.pokemontcg.io/tk2b/2_hires.png,,0,0,Pokémon
+tk2b-3,Charmeleon,https://images.pokemontcg.io/tk2b/3_hires.png,Uncommon,0,0,Pokémon
+tk2b-4,Growlithe,https://images.pokemontcg.io/tk2b/4_hires.png,,0,0,Pokémon
+tk2b-5,Mareep,https://images.pokemontcg.io/tk2b/5_hires.png,,0,0,Pokémon
+tk2b-6,Minun,https://images.pokemontcg.io/tk2b/6_hires.png,,0,0,Pokémon
+tk2b-7,Vulpix,https://images.pokemontcg.io/tk2b/7_hires.png,,0,0,Pokémon
+tk2b-8,Celio's Network,https://images.pokemontcg.io/tk2b/8_hires.png,,0,0,Trainer
+tk2b-9,Energy Search,https://images.pokemontcg.io/tk2b/9_hires.png,,0,0,Trainer
+tk2b-10,Potion,https://images.pokemontcg.io/tk2b/10_hires.png,,0,0,Trainer
+tk2b-11,Fire Energy,https://images.pokemontcg.io/tk2b/11_hires.png,,0,0,Energy
+tk2b-12,Lightning Energy,https://images.pokemontcg.io/tk2b/12_hires.png,,0,0,Energy
+",DefaulT,",,,,0,0,

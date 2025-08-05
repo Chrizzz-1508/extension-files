@@ -1,0 +1,14 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+mcd16-1,Vulpix,https://images.pokemontcg.io/mcd16/1_hires.png,,3.160000,0,Pokémon
+mcd16-2,Torchic,https://images.pokemontcg.io/mcd16/2_hires.png,,2,0,Pokémon
+mcd16-3,Fennekin,https://images.pokemontcg.io/mcd16/3_hires.png,,1.660000,0,Pokémon
+mcd16-4,Magikarp,https://images.pokemontcg.io/mcd16/4_hires.png,,2.290000,0,Pokémon
+mcd16-5,Totodile,https://images.pokemontcg.io/mcd16/5_hires.png,,3.140000,0,Pokémon
+mcd16-6,Pikachu,https://images.pokemontcg.io/mcd16/6_hires.png,,5.240000,0,Pokémon
+mcd16-7,Scraggy,https://images.pokemontcg.io/mcd16/7_hires.png,,1.400000,0,Pokémon
+mcd16-8,Jigglypuff,https://images.pokemontcg.io/mcd16/8_hires.png,,4.250000,0,Pokémon
+mcd16-9,Togepi,https://images.pokemontcg.io/mcd16/9_hires.png,,2.180000,0,Pokémon
+mcd16-10,Dedenne,https://images.pokemontcg.io/mcd16/10_hires.png,,2.670000,0,Pokémon
+mcd16-11,Meowth,https://images.pokemontcg.io/mcd16/11_hires.png,,3.980000,0,Pokémon
+mcd16-12,Eevee,https://images.pokemontcg.io/mcd16/12_hires.png,,4.610000,0,Pokémon
+",DefaulT,",,,,0,0,

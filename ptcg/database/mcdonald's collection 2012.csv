@@ -1,0 +1,14 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+mcd12-1,Servine,https://images.pokemontcg.io/mcd12/1_hires.png,,16,4.160000,Pokémon
+mcd12-2,Pansage,https://images.pokemontcg.io/mcd12/2_hires.png,,11.900000,3.550000,Pokémon
+mcd12-3,Dwebble,https://images.pokemontcg.io/mcd12/3_hires.png,,0,6.420000,Pokémon
+mcd12-4,Pignite,https://images.pokemontcg.io/mcd12/4_hires.png,,22.490000,6.440000,Pokémon
+mcd12-5,Dewott,https://images.pokemontcg.io/mcd12/5_hires.png,,10,4.790000,Pokémon
+mcd12-6,Emolga,https://images.pokemontcg.io/mcd12/6_hires.png,,20,7.270000,Pokémon
+mcd12-7,Woobat,https://images.pokemontcg.io/mcd12/7_hires.png,,30,5.320000,Pokémon
+mcd12-8,Drilbur,https://images.pokemontcg.io/mcd12/8_hires.png,,16.630000,2.890000,Pokémon
+mcd12-9,Purrloin,https://images.pokemontcg.io/mcd12/9_hires.png,,18,11.470000,Pokémon
+mcd12-10,Scraggy,https://images.pokemontcg.io/mcd12/10_hires.png,,17,8.970000,Pokémon
+mcd12-11,Klang,https://images.pokemontcg.io/mcd12/11_hires.png,,16.900000,4.070000,Pokémon
+mcd12-12,Axew,https://images.pokemontcg.io/mcd12/12_hires.png,,29.990000,5.260000,Pokémon
+",DefaulT,",,,,0,0,

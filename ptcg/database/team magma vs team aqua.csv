@@ -1,0 +1,99 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+ex4-1,Team Aqua's Cacturne,https://images.pokemontcg.io/ex4/1_hires.png,Rare Holo,7.120000,9.240000,Pokémon
+ex4-2,Team Aqua's Crawdaunt,https://images.pokemontcg.io/ex4/2_hires.png,Rare Holo,3.780000,11.560000,Pokémon
+ex4-3,Team Aqua's Kyogre,https://images.pokemontcg.io/ex4/3_hires.png,Rare Holo,7.330000,49.340000,Pokémon
+ex4-4,Team Aqua's Manectric,https://images.pokemontcg.io/ex4/4_hires.png,Rare Holo,6.620000,16.420000,Pokémon
+ex4-5,Team Aqua's Sharpedo,https://images.pokemontcg.io/ex4/5_hires.png,Rare Holo,4.980000,15.310000,Pokémon
+ex4-6,Team Aqua's Walrein,https://images.pokemontcg.io/ex4/6_hires.png,Rare Holo,3.510000,6.850000,Pokémon
+ex4-7,Team Magma's Aggron,https://images.pokemontcg.io/ex4/7_hires.png,Rare Holo,7.860000,10,Pokémon
+ex4-8,Team Magma's Claydol,https://images.pokemontcg.io/ex4/8_hires.png,Rare Holo,4.970000,6.460000,Pokémon
+ex4-9,Team Magma's Groudon,https://images.pokemontcg.io/ex4/9_hires.png,Rare Holo,56.100000,49.950000,Pokémon
+ex4-10,Team Magma's Houndoom,https://images.pokemontcg.io/ex4/10_hires.png,Rare Holo,17.500000,48.400000,Pokémon
+ex4-11,Team Magma's Rhydon,https://images.pokemontcg.io/ex4/11_hires.png,Rare Holo,8.450000,15.460000,Pokémon
+ex4-12,Team Magma's Torkoal,https://images.pokemontcg.io/ex4/12_hires.png,Rare Holo,5.670000,10.630000,Pokémon
+ex4-13,Raichu,https://images.pokemontcg.io/ex4/13_hires.png,Rare,2.010000,4.330000,Pokémon
+ex4-14,Team Aqua's Crawdaunt,https://images.pokemontcg.io/ex4/14_hires.png,Rare,1.140000,1.240000,Pokémon
+ex4-15,Team Aqua's Mightyena,https://images.pokemontcg.io/ex4/15_hires.png,Rare,1.620000,2.040000,Pokémon
+ex4-16,Team Aqua's Sealeo,https://images.pokemontcg.io/ex4/16_hires.png,Rare,0.720000,1.900000,Pokémon
+ex4-17,Team Aqua's Seviper,https://images.pokemontcg.io/ex4/17_hires.png,Rare,1.660000,2.190000,Pokémon
+ex4-18,Team Aqua's Sharpedo,https://images.pokemontcg.io/ex4/18_hires.png,Rare,1.430000,1.920000,Pokémon
+ex4-19,Team Magma's Camerupt,https://images.pokemontcg.io/ex4/19_hires.png,Rare,1.500000,2.430000,Pokémon
+ex4-20,Team Magma's Lairon,https://images.pokemontcg.io/ex4/20_hires.png,Rare,1.720000,2.270000,Pokémon
+ex4-21,Team Magma's Mightyena,https://images.pokemontcg.io/ex4/21_hires.png,Rare,1.180000,2.660000,Pokémon
+ex4-22,Team Magma's Rhydon,https://images.pokemontcg.io/ex4/22_hires.png,Rare,1.480000,2.180000,Pokémon
+ex4-23,Team Magma's Zangoose,https://images.pokemontcg.io/ex4/23_hires.png,Rare,3.230000,5.220000,Pokémon
+ex4-24,Team Aqua's Cacnea,https://images.pokemontcg.io/ex4/24_hires.png,Uncommon,1.300000,1.710000,Pokémon
+ex4-25,Team Aqua's Carvanha,https://images.pokemontcg.io/ex4/25_hires.png,Uncommon,1.030000,0.880000,Pokémon
+ex4-26,Team Aqua's Corphish,https://images.pokemontcg.io/ex4/26_hires.png,Uncommon,0.260000,0.990000,Pokémon
+ex4-27,Team Aqua's Electrike,https://images.pokemontcg.io/ex4/27_hires.png,Uncommon,0.780000,1.550000,Pokémon
+ex4-28,Team Aqua's Lanturn,https://images.pokemontcg.io/ex4/28_hires.png,Uncommon,0.560000,0.610000,Pokémon
+ex4-29,Team Aqua's Manectric,https://images.pokemontcg.io/ex4/29_hires.png,Uncommon,1.420000,1.330000,Pokémon
+ex4-30,Team Aqua's Mightyena,https://images.pokemontcg.io/ex4/30_hires.png,Uncommon,0.710000,1.090000,Pokémon
+ex4-31,Team Aqua's Sealeo,https://images.pokemontcg.io/ex4/31_hires.png,Uncommon,0.400000,0.730000,Pokémon
+ex4-32,Team Magma's Baltoy,https://images.pokemontcg.io/ex4/32_hires.png,Uncommon,0.830000,1.360000,Pokémon
+ex4-33,Team Magma's Claydol,https://images.pokemontcg.io/ex4/33_hires.png,Uncommon,0.780000,0.530000,Pokémon
+ex4-34,Team Magma's Houndoom,https://images.pokemontcg.io/ex4/34_hires.png,Uncommon,1.750000,2.020000,Pokémon
+ex4-35,Team Magma's Houndour,https://images.pokemontcg.io/ex4/35_hires.png,Uncommon,0.950000,14.210000,Pokémon
+ex4-36,Team Magma's Lairon,https://images.pokemontcg.io/ex4/36_hires.png,Uncommon,0.320000,0.700000,Pokémon
+ex4-37,Team Magma's Mightyena,https://images.pokemontcg.io/ex4/37_hires.png,Uncommon,1.430000,1.420000,Pokémon
+ex4-38,Team Magma's Rhyhorn,https://images.pokemontcg.io/ex4/38_hires.png,Uncommon,0.590000,1.760000,Pokémon
+ex4-39,Bulbasaur,https://images.pokemontcg.io/ex4/39_hires.png,Common,2.840000,7.210000,Pokémon
+ex4-40,Cubone,https://images.pokemontcg.io/ex4/40_hires.png,Common,0.790000,2.850000,Pokémon
+ex4-41,Jigglypuff,https://images.pokemontcg.io/ex4/41_hires.png,Common,0.690000,1.920000,Pokémon
+ex4-42,Meowth,https://images.pokemontcg.io/ex4/42_hires.png,Common,1.100000,1.700000,Pokémon
+ex4-43,Pikachu,https://images.pokemontcg.io/ex4/43_hires.png,Common,4.580000,5.030000,Pokémon
+ex4-44,Psyduck,https://images.pokemontcg.io/ex4/44_hires.png,Common,3.190000,3.830000,Pokémon
+ex4-45,Slowpoke,https://images.pokemontcg.io/ex4/45_hires.png,Common,0.740000,2.710000,Pokémon
+ex4-46,Squirtle,https://images.pokemontcg.io/ex4/46_hires.png,Common,3.940000,16.490000,Pokémon
+ex4-47,Team Aqua's Carvanha,https://images.pokemontcg.io/ex4/47_hires.png,Common,0.290000,0.510000,Pokémon
+ex4-48,Team Aqua's Carvanha,https://images.pokemontcg.io/ex4/48_hires.png,Common,0.180000,0.390000,Pokémon
+ex4-49,Team Aqua's Chinchou,https://images.pokemontcg.io/ex4/49_hires.png,Common,0.120000,0.350000,Pokémon
+ex4-50,Team Aqua's Corphish,https://images.pokemontcg.io/ex4/50_hires.png,Common,0.290000,0.640000,Pokémon
+ex4-51,Team Aqua's Corphish,https://images.pokemontcg.io/ex4/51_hires.png,Common,0.270000,0.490000,Pokémon
+ex4-52,Team Aqua's Electrike,https://images.pokemontcg.io/ex4/52_hires.png,Common,0.350000,0.450000,Pokémon
+ex4-53,Team Aqua's Electrike,https://images.pokemontcg.io/ex4/53_hires.png,Common,0.410000,0.710000,Pokémon
+ex4-54,Team Aqua's Poochyena,https://images.pokemontcg.io/ex4/54_hires.png,Common,0.190000,0.410000,Pokémon
+ex4-55,Team Aqua's Poochyena,https://images.pokemontcg.io/ex4/55_hires.png,Common,0.620000,1.380000,Pokémon
+ex4-56,Team Aqua's Spheal,https://images.pokemontcg.io/ex4/56_hires.png,Common,0.180000,0.910000,Pokémon
+ex4-57,Team Aqua's Spheal,https://images.pokemontcg.io/ex4/57_hires.png,Common,0.720000,1.310000,Pokémon
+ex4-58,Team Magma's Aron,https://images.pokemontcg.io/ex4/58_hires.png,Common,0.130000,0.450000,Pokémon
+ex4-59,Team Magma's Aron,https://images.pokemontcg.io/ex4/59_hires.png,Common,0.320000,0.570000,Pokémon
+ex4-60,Team Magma's Baltoy,https://images.pokemontcg.io/ex4/60_hires.png,Common,0.150000,0.390000,Pokémon
+ex4-61,Team Magma's Baltoy,https://images.pokemontcg.io/ex4/61_hires.png,Common,0.300000,0.480000,Pokémon
+ex4-62,Team Magma's Houndour,https://images.pokemontcg.io/ex4/62_hires.png,Common,0.300000,0.610000,Pokémon
+ex4-63,Team Magma's Houndour,https://images.pokemontcg.io/ex4/63_hires.png,Common,0.620000,1.430000,Pokémon
+ex4-64,Team Magma's Numel,https://images.pokemontcg.io/ex4/64_hires.png,Common,0.390000,0.800000,Pokémon
+ex4-65,Team Magma's Poochyena,https://images.pokemontcg.io/ex4/65_hires.png,Common,0.540000,0.940000,Pokémon
+ex4-66,Team Magma's Poochyena,https://images.pokemontcg.io/ex4/66_hires.png,Common,0.340000,0.970000,Pokémon
+ex4-67,Team Magma's Rhyhorn,https://images.pokemontcg.io/ex4/67_hires.png,Common,0.260000,0.630000,Pokémon
+ex4-68,Team Magma's Rhyhorn,https://images.pokemontcg.io/ex4/68_hires.png,Common,0.230000,0.470000,Pokémon
+ex4-69,Team Aqua Schemer,https://images.pokemontcg.io/ex4/69_hires.png,Common,0.140000,0.350000,Trainer
+ex4-70,Team Magma Schemer,https://images.pokemontcg.io/ex4/70_hires.png,Common,0.170000,0.350000,Trainer
+ex4-71,Archie,https://images.pokemontcg.io/ex4/71_hires.png,Uncommon,1.460000,2.500000,Trainer
+ex4-72,Dual Ball,https://images.pokemontcg.io/ex4/72_hires.png,Uncommon,1.080000,1.120000,Trainer
+ex4-73,Maxie,https://images.pokemontcg.io/ex4/73_hires.png,Uncommon,1.630000,3.680000,Trainer
+ex4-74,Strength Charm,https://images.pokemontcg.io/ex4/74_hires.png,Uncommon,0.700000,1.270000,Trainer
+ex4-75,Team Aqua Ball,https://images.pokemontcg.io/ex4/75_hires.png,Uncommon,0.430000,0.780000,Trainer
+ex4-76,Team Aqua Belt,https://images.pokemontcg.io/ex4/76_hires.png,Uncommon,1.160000,1.380000,Trainer
+ex4-77,Team Aqua Conspirator,https://images.pokemontcg.io/ex4/77_hires.png,Uncommon,0.440000,0.610000,Trainer
+ex4-78,Team Aqua Hideout,https://images.pokemontcg.io/ex4/78_hires.png,Uncommon,0.590000,1.030000,Trainer
+ex4-79,Team Aqua Technical Machine 01,https://images.pokemontcg.io/ex4/79_hires.png,Uncommon,0.960000,1.040000,Trainer
+ex4-80,Team Magma Ball,https://images.pokemontcg.io/ex4/80_hires.png,Uncommon,0.640000,0.900000,Trainer
+ex4-81,Team Magma Belt,https://images.pokemontcg.io/ex4/81_hires.png,Uncommon,0.700000,1.150000,Trainer
+ex4-82,Team Magma Conspirator,https://images.pokemontcg.io/ex4/82_hires.png,Uncommon,0.430000,0.880000,Trainer
+ex4-83,Team Magma Hideout,https://images.pokemontcg.io/ex4/83_hires.png,Uncommon,0.650000,0.580000,Trainer
+ex4-84,Team Magma Technical Machine 01,https://images.pokemontcg.io/ex4/84_hires.png,Uncommon,0.730000,1.810000,Trainer
+ex4-85,Warp Point,https://images.pokemontcg.io/ex4/85_hires.png,Uncommon,0.690000,1.210000,Trainer
+ex4-86,Aqua Energy,https://images.pokemontcg.io/ex4/86_hires.png,Uncommon,1.580000,1.270000,Energy
+ex4-87,Magma Energy,https://images.pokemontcg.io/ex4/87_hires.png,Uncommon,1.950000,10.180000,Energy
+ex4-88,Double Rainbow Energy,https://images.pokemontcg.io/ex4/88_hires.png,Rare,2.490000,6.470000,Energy
+ex4-89,Blaziken ex,https://images.pokemontcg.io/ex4/89_hires.png,Rare Holo EX,48.470000,210.640000,Pokémon
+ex4-90,Cradily ex,https://images.pokemontcg.io/ex4/90_hires.png,Rare Holo EX,60.690000,56.600000,Pokémon
+ex4-91,Entei ex,https://images.pokemontcg.io/ex4/91_hires.png,Rare Holo EX,74.940000,214.990000,Pokémon
+ex4-92,Raikou ex,https://images.pokemontcg.io/ex4/92_hires.png,Rare Holo EX,88.830000,144.990000,Pokémon
+ex4-93,Sceptile ex,https://images.pokemontcg.io/ex4/93_hires.png,Rare Holo EX,53.490000,222,Pokémon
+ex4-94,Suicune ex,https://images.pokemontcg.io/ex4/94_hires.png,Rare Holo EX,90.550000,243.280000,Pokémon
+ex4-95,Swampert ex,https://images.pokemontcg.io/ex4/95_hires.png,Rare Holo EX,66.210000,169.030000,Pokémon
+ex4-96,Absol,https://images.pokemontcg.io/ex4/96_hires.png,Rare Secret,78.330000,162.660000,Pokémon
+ex4-97,Jirachi,https://images.pokemontcg.io/ex4/97_hires.png,Rare Secret,28.450000,82.500000,Pokémon
+",DefaulT,",,,,0,0,

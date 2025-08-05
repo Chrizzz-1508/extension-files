@@ -1,0 +1,134 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+gym1-1,Blaine's Moltres,https://images.pokemontcg.io/gym1/1_hires.png,Rare Holo,52.990000,83.390000,Pokémon
+gym1-2,Brock's Rhydon,https://images.pokemontcg.io/gym1/2_hires.png,Rare Holo,19.040000,24.940000,Pokémon
+gym1-3,Erika's Clefable,https://images.pokemontcg.io/gym1/3_hires.png,Rare Holo,31.850000,29.560000,Pokémon
+gym1-4,Erika's Dragonair,https://images.pokemontcg.io/gym1/4_hires.png,Rare Holo,41.110000,52.310000,Pokémon
+gym1-5,Erika's Vileplume,https://images.pokemontcg.io/gym1/5_hires.png,Rare Holo,14.270000,15,Pokémon
+gym1-6,Lt. Surge's Electabuzz,https://images.pokemontcg.io/gym1/6_hires.png,Rare Holo,36.510000,29.280000,Pokémon
+gym1-7,Lt. Surge's Fearow,https://images.pokemontcg.io/gym1/7_hires.png,Rare Holo,23.320000,35.560000,Pokémon
+gym1-8,Lt. Surge's Magneton,https://images.pokemontcg.io/gym1/8_hires.png,Rare Holo,17.890000,20.510000,Pokémon
+gym1-9,Misty's Seadra,https://images.pokemontcg.io/gym1/9_hires.png,Rare Holo,25.950000,24.920000,Pokémon
+gym1-10,Misty's Tentacruel,https://images.pokemontcg.io/gym1/10_hires.png,Rare Holo,17.160000,19.820000,Pokémon
+gym1-11,Rocket's Hitmonchan,https://images.pokemontcg.io/gym1/11_hires.png,Rare Holo,34.210000,36.280000,Pokémon
+gym1-12,Rocket's Moltres,https://images.pokemontcg.io/gym1/12_hires.png,Rare Holo,54.890000,66.740000,Pokémon
+gym1-13,Rocket's Scyther,https://images.pokemontcg.io/gym1/13_hires.png,Rare Holo,70.330000,73.310000,Pokémon
+gym1-14,Sabrina's Gengar,https://images.pokemontcg.io/gym1/14_hires.png,Rare Holo,143.800000,229.440000,Pokémon
+gym1-15,Brock,https://images.pokemontcg.io/gym1/15_hires.png,Rare Holo,27.230000,24.830000,Trainer
+gym1-16,Erika,https://images.pokemontcg.io/gym1/16_hires.png,Rare Holo,29.710000,31.830000,Trainer
+gym1-17,Lt. Surge,https://images.pokemontcg.io/gym1/17_hires.png,Rare Holo,24.590000,31.380000,Trainer
+gym1-18,Misty,https://images.pokemontcg.io/gym1/18_hires.png,Rare Holo,55.040000,57.190000,Trainer
+gym1-19,The Rocket's Trap,https://images.pokemontcg.io/gym1/19_hires.png,Rare Holo,34.960000,20.880000,Trainer
+gym1-20,Brock's Golem,https://images.pokemontcg.io/gym1/20_hires.png,Rare,11.450000,9.250000,Pokémon
+gym1-21,Brock's Onix,https://images.pokemontcg.io/gym1/21_hires.png,Rare,5.120000,6.250000,Pokémon
+gym1-22,Brock's Rhyhorn,https://images.pokemontcg.io/gym1/22_hires.png,Rare,6.850000,8.230000,Pokémon
+gym1-23,Brock's Sandslash,https://images.pokemontcg.io/gym1/23_hires.png,Rare,9.160000,9.740000,Pokémon
+gym1-24,Brock's Zubat,https://images.pokemontcg.io/gym1/24_hires.png,Rare,7.840000,8.820000,Pokémon
+gym1-25,Erika's Clefairy,https://images.pokemontcg.io/gym1/25_hires.png,Rare,7.410000,5.550000,Pokémon
+gym1-26,Erika's Victreebel,https://images.pokemontcg.io/gym1/26_hires.png,Rare,8.190000,10.710000,Pokémon
+gym1-27,Lt. Surge's Electabuzz,https://images.pokemontcg.io/gym1/27_hires.png,Rare,6.800000,5.690000,Pokémon
+gym1-28,Lt. Surge's Raichu,https://images.pokemontcg.io/gym1/28_hires.png,Rare,15.550000,19.350000,Pokémon
+gym1-29,Misty's Cloyster,https://images.pokemontcg.io/gym1/29_hires.png,Rare,10.790000,9.600000,Pokémon
+gym1-30,Misty's Goldeen,https://images.pokemontcg.io/gym1/30_hires.png,Rare,6.320000,5.560000,Pokémon
+gym1-31,Misty's Poliwrath,https://images.pokemontcg.io/gym1/31_hires.png,Rare,10.180000,11.220000,Pokémon
+gym1-32,Misty's Tentacool,https://images.pokemontcg.io/gym1/32_hires.png,Rare,7.650000,9.290000,Pokémon
+gym1-33,Rocket's Snorlax,https://images.pokemontcg.io/gym1/33_hires.png,Rare,18.850000,28.610000,Pokémon
+gym1-34,Sabrina's Venomoth,https://images.pokemontcg.io/gym1/34_hires.png,Rare,5.760000,5.490000,Pokémon
+gym1-35,Blaine's Growlithe,https://images.pokemontcg.io/gym1/35_hires.png,Uncommon,2.720000,3.530000,Pokémon
+gym1-36,Blaine's Kangaskhan,https://images.pokemontcg.io/gym1/36_hires.png,Uncommon,2.730000,2.220000,Pokémon
+gym1-37,Blaine's Magmar,https://images.pokemontcg.io/gym1/37_hires.png,Uncommon,4.390000,2.210000,Pokémon
+gym1-38,Brock's Geodude,https://images.pokemontcg.io/gym1/38_hires.png,Uncommon,2.180000,1.920000,Pokémon
+gym1-39,Brock's Golbat,https://images.pokemontcg.io/gym1/39_hires.png,Uncommon,2.920000,2.020000,Pokémon
+gym1-40,Brock's Graveler,https://images.pokemontcg.io/gym1/40_hires.png,Uncommon,1.750000,1.300000,Pokémon
+gym1-41,Brock's Lickitung,https://images.pokemontcg.io/gym1/41_hires.png,Uncommon,2.330000,1.880000,Pokémon
+gym1-42,Erika's Dratini,https://images.pokemontcg.io/gym1/42_hires.png,Uncommon,2.350000,3.380000,Pokémon
+gym1-43,Erika's Exeggcute,https://images.pokemontcg.io/gym1/43_hires.png,Uncommon,2.110000,1.220000,Pokémon
+gym1-44,Erika's Exeggutor,https://images.pokemontcg.io/gym1/44_hires.png,Uncommon,2.010000,1.280000,Pokémon
+gym1-45,Erika's Gloom,https://images.pokemontcg.io/gym1/45_hires.png,Uncommon,2.160000,1.660000,Pokémon
+gym1-46,Erika's Gloom,https://images.pokemontcg.io/gym1/46_hires.png,Uncommon,3.330000,2.420000,Pokémon
+gym1-47,Erika's Oddish,https://images.pokemontcg.io/gym1/47_hires.png,Uncommon,3.020000,2.270000,Pokémon
+gym1-48,Erika's Weepinbell,https://images.pokemontcg.io/gym1/48_hires.png,Uncommon,4.980000,4.610000,Pokémon
+gym1-49,Erika's Weepinbell,https://images.pokemontcg.io/gym1/49_hires.png,Uncommon,1.690000,1.410000,Pokémon
+gym1-50,Lt. Surge's Magnemite,https://images.pokemontcg.io/gym1/50_hires.png,Uncommon,1.550000,1.480000,Pokémon
+gym1-51,Lt. Surge's Raticate,https://images.pokemontcg.io/gym1/51_hires.png,Uncommon,1.490000,1.090000,Pokémon
+gym1-52,Lt. Surge's Spearow,https://images.pokemontcg.io/gym1/52_hires.png,Uncommon,0.950000,0.880000,Pokémon
+gym1-53,Misty's Poliwhirl,https://images.pokemontcg.io/gym1/53_hires.png,Uncommon,2.340000,1.880000,Pokémon
+gym1-54,Misty's Psyduck,https://images.pokemontcg.io/gym1/54_hires.png,Uncommon,3.710000,2.560000,Pokémon
+gym1-55,Misty's Seaking,https://images.pokemontcg.io/gym1/55_hires.png,Uncommon,1.890000,2.130000,Pokémon
+gym1-56,Misty's Starmie,https://images.pokemontcg.io/gym1/56_hires.png,Uncommon,2.430000,2.410000,Pokémon
+gym1-57,Misty's Tentacool,https://images.pokemontcg.io/gym1/57_hires.png,Uncommon,1.950000,1.590000,Pokémon
+gym1-58,Sabrina's Haunter,https://images.pokemontcg.io/gym1/58_hires.png,Uncommon,6.360000,5.290000,Pokémon
+gym1-59,Sabrina's Jynx,https://images.pokemontcg.io/gym1/59_hires.png,Uncommon,2.290000,1.890000,Pokémon
+gym1-60,Sabrina's Slowbro,https://images.pokemontcg.io/gym1/60_hires.png,Uncommon,3.540000,2.740000,Pokémon
+gym1-61,Blaine's Charmander,https://images.pokemontcg.io/gym1/61_hires.png,Common,2.730000,1.840000,Pokémon
+gym1-62,Blaine's Growlithe,https://images.pokemontcg.io/gym1/62_hires.png,Common,1.310000,1.180000,Pokémon
+gym1-63,Blaine's Ponyta,https://images.pokemontcg.io/gym1/63_hires.png,Common,0.950000,1.020000,Pokémon
+gym1-64,Blaine's Tauros,https://images.pokemontcg.io/gym1/64_hires.png,Common,1.310000,0.930000,Pokémon
+gym1-65,Blaine's Vulpix,https://images.pokemontcg.io/gym1/65_hires.png,Common,1.470000,1.390000,Pokémon
+gym1-66,Brock's Geodude,https://images.pokemontcg.io/gym1/66_hires.png,Common,0.590000,0.670000,Pokémon
+gym1-67,Brock's Mankey,https://images.pokemontcg.io/gym1/67_hires.png,Common,0.530000,0.630000,Pokémon
+gym1-68,Brock's Mankey,https://images.pokemontcg.io/gym1/68_hires.png,Common,1.350000,1.060000,Pokémon
+gym1-69,Brock's Onix,https://images.pokemontcg.io/gym1/69_hires.png,Common,0.770000,0.880000,Pokémon
+gym1-70,Brock's Rhyhorn,https://images.pokemontcg.io/gym1/70_hires.png,Common,0.630000,0.520000,Pokémon
+gym1-71,Brock's Sandshrew,https://images.pokemontcg.io/gym1/71_hires.png,Common,0.830000,0.670000,Pokémon
+gym1-72,Brock's Sandshrew,https://images.pokemontcg.io/gym1/72_hires.png,Common,1.470000,1.560000,Pokémon
+gym1-73,Brock's Vulpix,https://images.pokemontcg.io/gym1/73_hires.png,Common,1.160000,1.280000,Pokémon
+gym1-74,Brock's Zubat,https://images.pokemontcg.io/gym1/74_hires.png,Common,1,0.750000,Pokémon
+gym1-75,Erika's Bellsprout,https://images.pokemontcg.io/gym1/75_hires.png,Common,0.890000,0.790000,Pokémon
+gym1-76,Erika's Bellsprout,https://images.pokemontcg.io/gym1/76_hires.png,Common,0.620000,0.510000,Pokémon
+gym1-77,Erika's Exeggcute,https://images.pokemontcg.io/gym1/77_hires.png,Common,0.630000,0.630000,Pokémon
+gym1-78,Erika's Oddish,https://images.pokemontcg.io/gym1/78_hires.png,Common,0.690000,0.580000,Pokémon
+gym1-79,Erika's Tangela,https://images.pokemontcg.io/gym1/79_hires.png,Common,0.650000,0.590000,Pokémon
+gym1-80,Lt. Surge's Magnemite,https://images.pokemontcg.io/gym1/80_hires.png,Common,0.550000,0.640000,Pokémon
+gym1-81,Lt. Surge's Pikachu,https://images.pokemontcg.io/gym1/81_hires.png,Common,4.600000,2.970000,Pokémon
+gym1-82,Lt. Surge's Rattata,https://images.pokemontcg.io/gym1/82_hires.png,Common,0.600000,0.560000,Pokémon
+gym1-83,Lt. Surge's Spearow,https://images.pokemontcg.io/gym1/83_hires.png,Common,0.680000,0.650000,Pokémon
+gym1-84,Lt. Surge's Voltorb,https://images.pokemontcg.io/gym1/84_hires.png,Common,0.480000,0.470000,Pokémon
+gym1-85,Misty's Goldeen,https://images.pokemontcg.io/gym1/85_hires.png,Common,0.900000,0.960000,Pokémon
+gym1-86,Misty's Horsea,https://images.pokemontcg.io/gym1/86_hires.png,Common,0.670000,1.010000,Pokémon
+gym1-87,Misty's Poliwag,https://images.pokemontcg.io/gym1/87_hires.png,Common,0.660000,0.790000,Pokémon
+gym1-88,Misty's Seel,https://images.pokemontcg.io/gym1/88_hires.png,Common,0.930000,0.630000,Pokémon
+gym1-89,Misty's Shellder,https://images.pokemontcg.io/gym1/89_hires.png,Common,0.910000,0.660000,Pokémon
+gym1-90,Misty's Staryu,https://images.pokemontcg.io/gym1/90_hires.png,Common,0.710000,0.810000,Pokémon
+gym1-91,Sabrina's Abra,https://images.pokemontcg.io/gym1/91_hires.png,Common,1.120000,1.040000,Pokémon
+gym1-92,Sabrina's Drowzee,https://images.pokemontcg.io/gym1/92_hires.png,Common,0.850000,0.930000,Pokémon
+gym1-93,Sabrina's Gastly,https://images.pokemontcg.io/gym1/93_hires.png,Common,1.510000,1.850000,Pokémon
+gym1-94,Sabrina's Mr. Mime,https://images.pokemontcg.io/gym1/94_hires.png,Common,2.180000,1.030000,Pokémon
+gym1-95,Sabrina's Slowpoke,https://images.pokemontcg.io/gym1/95_hires.png,Common,1.030000,1.440000,Pokémon
+gym1-96,Sabrina's Venonat,https://images.pokemontcg.io/gym1/96_hires.png,Common,0.780000,0.980000,Pokémon
+gym1-97,Blaine's Quiz #1,https://images.pokemontcg.io/gym1/97_hires.png,Rare,9.110000,8.080000,Trainer
+gym1-98,Brock,https://images.pokemontcg.io/gym1/98_hires.png,Rare,3.590000,4.120000,Trainer
+gym1-99,Charity,https://images.pokemontcg.io/gym1/99_hires.png,Rare,7.750000,7.170000,Trainer
+gym1-100,Erika,https://images.pokemontcg.io/gym1/100_hires.png,Rare,4.740000,4.840000,Trainer
+gym1-101,Lt. Surge,https://images.pokemontcg.io/gym1/101_hires.png,Rare,4.550000,3.950000,Trainer
+gym1-102,Misty,https://images.pokemontcg.io/gym1/102_hires.png,Rare,6.080000,3.730000,Trainer
+gym1-103,No Removal Gym,https://images.pokemontcg.io/gym1/103_hires.png,Rare,11.920000,6.950000,Trainer
+gym1-104,The Rocket's Training Gym,https://images.pokemontcg.io/gym1/104_hires.png,Rare,10.540000,10.060000,Trainer
+gym1-105,Blaine's Last Resort,https://images.pokemontcg.io/gym1/105_hires.png,Uncommon,1.480000,0.970000,Trainer
+gym1-106,Brock's Training Method,https://images.pokemontcg.io/gym1/106_hires.png,Uncommon,1.400000,0.760000,Trainer
+gym1-107,Celadon City Gym,https://images.pokemontcg.io/gym1/107_hires.png,Uncommon,0.950000,0.870000,Trainer
+gym1-108,Cerulean City Gym,https://images.pokemontcg.io/gym1/108_hires.png,Uncommon,1.210000,1.010000,Trainer
+gym1-109,Erika's Maids,https://images.pokemontcg.io/gym1/109_hires.png,Uncommon,2.090000,1.610000,Trainer
+gym1-110,Erika's Perfume,https://images.pokemontcg.io/gym1/110_hires.png,Uncommon,1.530000,1,Trainer
+gym1-111,Good Manners,https://images.pokemontcg.io/gym1/111_hires.png,Uncommon,3.650000,2.850000,Trainer
+gym1-112,Lt. Surge's Treaty,https://images.pokemontcg.io/gym1/112_hires.png,Uncommon,1.620000,1.200000,Trainer
+gym1-113,Minion of Team Rocket,https://images.pokemontcg.io/gym1/113_hires.png,Uncommon,5.300000,4.710000,Trainer
+gym1-114,Misty's Wrath,https://images.pokemontcg.io/gym1/114_hires.png,Uncommon,4.350000,4.380000,Trainer
+gym1-115,Pewter City Gym,https://images.pokemontcg.io/gym1/115_hires.png,Uncommon,1.390000,0.900000,Trainer
+gym1-116,Recall,https://images.pokemontcg.io/gym1/116_hires.png,Uncommon,5.950000,5.160000,Trainer
+gym1-117,Sabrina's ESP,https://images.pokemontcg.io/gym1/117_hires.png,Uncommon,2.510000,2.750000,Trainer
+gym1-118,Secret Mission,https://images.pokemontcg.io/gym1/118_hires.png,Uncommon,1.600000,1,Trainer
+gym1-119,Tickling Machine,https://images.pokemontcg.io/gym1/119_hires.png,Uncommon,3.460000,3.980000,Trainer
+gym1-120,Vermilion City Gym,https://images.pokemontcg.io/gym1/120_hires.png,Uncommon,1.110000,0.890000,Trainer
+gym1-121,Blaine's Gamble,https://images.pokemontcg.io/gym1/121_hires.png,Common,0.570000,0.430000,Trainer
+gym1-122,Energy Flow,https://images.pokemontcg.io/gym1/122_hires.png,Common,0.530000,0.460000,Trainer
+gym1-123,Misty's Duel,https://images.pokemontcg.io/gym1/123_hires.png,Common,1.590000,1.430000,Trainer
+gym1-124,Narrow Gym,https://images.pokemontcg.io/gym1/124_hires.png,Common,0.850000,0.890000,Trainer
+gym1-125,Sabrina's Gaze,https://images.pokemontcg.io/gym1/125_hires.png,Common,0.690000,0.590000,Trainer
+gym1-126,Trash Exchange,https://images.pokemontcg.io/gym1/126_hires.png,Common,1.070000,0.760000,Trainer
+gym1-127,Fighting Energy,https://images.pokemontcg.io/gym1/127_hires.png,,0.290000,0.390000,Energy
+gym1-128,Fire Energy,https://images.pokemontcg.io/gym1/128_hires.png,,1.180000,1.320000,Energy
+gym1-129,Grass Energy,https://images.pokemontcg.io/gym1/129_hires.png,,0.450000,0.410000,Energy
+gym1-130,Lightning Energy,https://images.pokemontcg.io/gym1/130_hires.png,,0.420000,0.440000,Energy
+gym1-131,Psychic Energy,https://images.pokemontcg.io/gym1/131_hires.png,,0.770000,0.640000,Energy
+gym1-132,Water Energy,https://images.pokemontcg.io/gym1/132_hires.png,,0.330000,0.510000,Energy
+",DefaulT,",,,,0,0,

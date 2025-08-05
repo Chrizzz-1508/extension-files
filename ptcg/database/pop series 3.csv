@@ -1,0 +1,19 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+pop3-1,Blastoise,https://images.pokemontcg.io/pop3/1_hires.png,Rare,54.980000,58.150000,Pokémon
+pop3-2,Flareon,https://images.pokemontcg.io/pop3/2_hires.png,Rare,11.490000,9.120000,Pokémon
+pop3-3,Jolteon,https://images.pokemontcg.io/pop3/3_hires.png,Rare,15.660000,9.540000,Pokémon
+pop3-4,Minun,https://images.pokemontcg.io/pop3/4_hires.png,Rare,7.700000,5.380000,Pokémon
+pop3-5,Plusle,https://images.pokemontcg.io/pop3/5_hires.png,Rare,6.400000,4.600000,Pokémon
+pop3-6,Vaporeon,https://images.pokemontcg.io/pop3/6_hires.png,Rare,12.600000,14.470000,Pokémon
+pop3-7,Combusken,https://images.pokemontcg.io/pop3/7_hires.png,Uncommon,8.940000,9.990000,Pokémon
+pop3-8,Donphan,https://images.pokemontcg.io/pop3/8_hires.png,Uncommon,12.620000,15.120000,Pokémon
+pop3-9,Forretress,https://images.pokemontcg.io/pop3/9_hires.png,Uncommon,2.200000,6.530000,Pokémon
+pop3-10,High Pressure System,https://images.pokemontcg.io/pop3/10_hires.png,Uncommon,0.500000,3.440000,Trainer
+pop3-11,Low Pressure System,https://images.pokemontcg.io/pop3/11_hires.png,Uncommon,2.180000,4.580000,Trainer
+pop3-12,Ditto,https://images.pokemontcg.io/pop3/12_hires.png,Common,6.470000,13.100000,Pokémon
+pop3-13,Eevee,https://images.pokemontcg.io/pop3/13_hires.png,Common,17.180000,13.010000,Pokémon
+pop3-14,Ivysaur,https://images.pokemontcg.io/pop3/14_hires.png,Common,2.420000,4.250000,Pokémon
+pop3-15,Marshtomp,https://images.pokemontcg.io/pop3/15_hires.png,Common,0.650000,2.290000,Pokémon
+pop3-16,Pichu Bros.,https://images.pokemontcg.io/pop3/16_hires.png,Common,11.680000,22.540000,Pokémon
+pop3-17,Ho-Oh ex,https://images.pokemontcg.io/pop3/17_hires.png,Rare,19.720000,59,Pokémon
+",DefaulT,",,,,0,0,

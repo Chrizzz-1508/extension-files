@@ -1,0 +1,19 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+pop2-1,Entei,https://images.pokemontcg.io/pop2/1_hires.png,Rare,39,16.720000,Pokémon
+pop2-2,Pidgeot,https://images.pokemontcg.io/pop2/2_hires.png,Rare,10.810000,4.100000,Pokémon
+pop2-3,Raikou,https://images.pokemontcg.io/pop2/3_hires.png,Rare,24.970000,19.130000,Pokémon
+pop2-4,Suicune,https://images.pokemontcg.io/pop2/4_hires.png,Rare,7.500000,13.720000,Pokémon
+pop2-5,Tauros,https://images.pokemontcg.io/pop2/5_hires.png,Rare,6.480000,1.870000,Pokémon
+pop2-6,Venusaur,https://images.pokemontcg.io/pop2/6_hires.png,Rare,199,15.110000,Pokémon
+pop2-7,Ivysaur,https://images.pokemontcg.io/pop2/7_hires.png,Uncommon,8.160000,13.810000,Pokémon
+pop2-8,Mr. Briney's Compassion,https://images.pokemontcg.io/pop2/8_hires.png,Uncommon,2.070000,4.420000,Trainer
+pop2-9,Multi Technical Machine 01,https://images.pokemontcg.io/pop2/9_hires.png,Uncommon,1.380000,2.150000,Trainer
+pop2-10,Pokémon Park,https://images.pokemontcg.io/pop2/10_hires.png,Uncommon,4.230000,6.920000,Trainer
+pop2-11,TV Reporter,https://images.pokemontcg.io/pop2/11_hires.png,Uncommon,1.250000,2.230000,Trainer
+pop2-12,Bulbasaur,https://images.pokemontcg.io/pop2/12_hires.png,Common,6.340000,10.010000,Pokémon
+pop2-13,Cacnea,https://images.pokemontcg.io/pop2/13_hires.png,Common,0.420000,0.580000,Pokémon
+pop2-14,Luvdisc,https://images.pokemontcg.io/pop2/14_hires.png,Common,0.410000,0.830000,Pokémon
+pop2-15,Phanpy,https://images.pokemontcg.io/pop2/15_hires.png,Common,2.300000,1.050000,Pokémon
+pop2-16,Pikachu,https://images.pokemontcg.io/pop2/16_hires.png,Common,8,11.550000,Pokémon
+pop2-17,Celebi ex,https://images.pokemontcg.io/pop2/17_hires.png,Rare,21.640000,39.990000,Pokémon
+",DefaulT,",,,,0,0,

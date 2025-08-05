@@ -1,0 +1,102 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+ex3-1,Absol,https://images.pokemontcg.io/ex3/1_hires.png,Rare Holo,20.710000,42.850000,Pokémon
+ex3-2,Altaria,https://images.pokemontcg.io/ex3/2_hires.png,Rare Holo,13.680000,18.010000,Pokémon
+ex3-3,Crawdaunt,https://images.pokemontcg.io/ex3/3_hires.png,Rare Holo,2.440000,4.870000,Pokémon
+ex3-4,Flygon,https://images.pokemontcg.io/ex3/4_hires.png,Rare Holo,17.200000,20.640000,Pokémon
+ex3-5,Golem,https://images.pokemontcg.io/ex3/5_hires.png,Rare Holo,10.200000,10.270000,Pokémon
+ex3-6,Grumpig,https://images.pokemontcg.io/ex3/6_hires.png,Rare Holo,9.930000,10.310000,Pokémon
+ex3-7,Minun,https://images.pokemontcg.io/ex3/7_hires.png,Rare Holo,10.610000,24.990000,Pokémon
+ex3-8,Plusle,https://images.pokemontcg.io/ex3/8_hires.png,Rare Holo,12.800000,22.650000,Pokémon
+ex3-9,Roselia,https://images.pokemontcg.io/ex3/9_hires.png,Rare Holo,3.780000,6.630000,Pokémon
+ex3-10,Salamence,https://images.pokemontcg.io/ex3/10_hires.png,Rare Holo,22.240000,33.970000,Pokémon
+ex3-11,Shedinja,https://images.pokemontcg.io/ex3/11_hires.png,Rare Holo,17.610000,17.770000,Pokémon
+ex3-12,Torkoal,https://images.pokemontcg.io/ex3/12_hires.png,Rare Holo,14,16.970000,Pokémon
+ex3-13,Crawdaunt,https://images.pokemontcg.io/ex3/13_hires.png,Rare,0.580000,0.770000,Pokémon
+ex3-14,Dragonair,https://images.pokemontcg.io/ex3/14_hires.png,Rare,1.570000,3.330000,Pokémon
+ex3-15,Flygon,https://images.pokemontcg.io/ex3/15_hires.png,Rare,6.990000,1.100000,Pokémon
+ex3-16,Girafarig,https://images.pokemontcg.io/ex3/16_hires.png,Rare,0.380000,0.960000,Pokémon
+ex3-17,Magneton,https://images.pokemontcg.io/ex3/17_hires.png,Rare,0.710000,1.250000,Pokémon
+ex3-18,Ninjask,https://images.pokemontcg.io/ex3/18_hires.png,Rare,0.590000,0.910000,Pokémon
+ex3-19,Salamence,https://images.pokemontcg.io/ex3/19_hires.png,Rare,24.310000,1.250000,Pokémon
+ex3-20,Shelgon,https://images.pokemontcg.io/ex3/20_hires.png,Rare,0.890000,1.730000,Pokémon
+ex3-21,Skarmory,https://images.pokemontcg.io/ex3/21_hires.png,Rare,1.080000,1.350000,Pokémon
+ex3-22,Vibrava,https://images.pokemontcg.io/ex3/22_hires.png,Rare,0.640000,0.880000,Pokémon
+ex3-23,Bagon,https://images.pokemontcg.io/ex3/23_hires.png,Uncommon,0.680000,1.800000,Pokémon
+ex3-24,Camerupt,https://images.pokemontcg.io/ex3/24_hires.png,Uncommon,0.260000,0.450000,Pokémon
+ex3-25,Combusken,https://images.pokemontcg.io/ex3/25_hires.png,Uncommon,0.770000,0.820000,Pokémon
+ex3-26,Dratini,https://images.pokemontcg.io/ex3/26_hires.png,Uncommon,1.240000,3.670000,Pokémon
+ex3-27,Flaaffy,https://images.pokemontcg.io/ex3/27_hires.png,Uncommon,1.240000,1.410000,Pokémon
+ex3-28,Forretress,https://images.pokemontcg.io/ex3/28_hires.png,Uncommon,0.980000,1.270000,Pokémon
+ex3-29,Graveler,https://images.pokemontcg.io/ex3/29_hires.png,Uncommon,0.880000,0.890000,Pokémon
+ex3-30,Graveler,https://images.pokemontcg.io/ex3/30_hires.png,Uncommon,1.140000,1.910000,Pokémon
+ex3-31,Grovyle,https://images.pokemontcg.io/ex3/31_hires.png,Uncommon,1.810000,1.490000,Pokémon
+ex3-32,Gyarados,https://images.pokemontcg.io/ex3/32_hires.png,Uncommon,1.630000,5.250000,Pokémon
+ex3-33,Horsea,https://images.pokemontcg.io/ex3/33_hires.png,Uncommon,0.810000,2.270000,Pokémon
+ex3-34,Houndoom,https://images.pokemontcg.io/ex3/34_hires.png,Uncommon,1.190000,2.920000,Pokémon
+ex3-35,Magneton,https://images.pokemontcg.io/ex3/35_hires.png,Uncommon,0.260000,0.390000,Pokémon
+ex3-36,Marshtomp,https://images.pokemontcg.io/ex3/36_hires.png,Uncommon,1.030000,1.430000,Pokémon
+ex3-37,Meditite,https://images.pokemontcg.io/ex3/37_hires.png,Uncommon,0.550000,0.830000,Pokémon
+ex3-38,Ninjask,https://images.pokemontcg.io/ex3/38_hires.png,Uncommon,0.220000,0.510000,Pokémon
+ex3-39,Seadra,https://images.pokemontcg.io/ex3/39_hires.png,Uncommon,0.850000,0.580000,Pokémon
+ex3-40,Seadra,https://images.pokemontcg.io/ex3/40_hires.png,Uncommon,0.380000,0.530000,Pokémon
+ex3-41,Shelgon,https://images.pokemontcg.io/ex3/41_hires.png,Uncommon,0.380000,0.870000,Pokémon
+ex3-42,Shelgon,https://images.pokemontcg.io/ex3/42_hires.png,Uncommon,1.120000,0.910000,Pokémon
+ex3-43,Shuppet,https://images.pokemontcg.io/ex3/43_hires.png,Uncommon,1.620000,3.490000,Pokémon
+ex3-44,Snorunt,https://images.pokemontcg.io/ex3/44_hires.png,Uncommon,0.840000,1.710000,Pokémon
+ex3-45,Swellow,https://images.pokemontcg.io/ex3/45_hires.png,Uncommon,0.380000,0.710000,Pokémon
+ex3-46,Vibrava,https://images.pokemontcg.io/ex3/46_hires.png,Uncommon,0.780000,0.980000,Pokémon
+ex3-47,Vibrava,https://images.pokemontcg.io/ex3/47_hires.png,Uncommon,0.320000,0.420000,Pokémon
+ex3-48,Whiscash,https://images.pokemontcg.io/ex3/48_hires.png,Uncommon,2.720000,2.340000,Pokémon
+ex3-49,Bagon,https://images.pokemontcg.io/ex3/49_hires.png,Common,0.130000,0.300000,Pokémon
+ex3-50,Bagon,https://images.pokemontcg.io/ex3/50_hires.png,Common,0.340000,0.730000,Pokémon
+ex3-51,Barboach,https://images.pokemontcg.io/ex3/51_hires.png,Common,0.480000,0.650000,Pokémon
+ex3-52,Corphish,https://images.pokemontcg.io/ex3/52_hires.png,Common,0.180000,0.290000,Pokémon
+ex3-53,Corphish,https://images.pokemontcg.io/ex3/53_hires.png,Common,0.500000,0.510000,Pokémon
+ex3-54,Corphish,https://images.pokemontcg.io/ex3/54_hires.png,Common,0.550000,0.640000,Pokémon
+ex3-55,Geodude,https://images.pokemontcg.io/ex3/55_hires.png,Common,0.160000,0.740000,Pokémon
+ex3-56,Geodude,https://images.pokemontcg.io/ex3/56_hires.png,Common,0.160000,0.580000,Pokémon
+ex3-57,Grimer,https://images.pokemontcg.io/ex3/57_hires.png,Common,0.210000,0.670000,Pokémon
+ex3-58,Horsea,https://images.pokemontcg.io/ex3/58_hires.png,Common,0.130000,0.360000,Pokémon
+ex3-59,Houndour,https://images.pokemontcg.io/ex3/59_hires.png,Common,0.360000,1.180000,Pokémon
+ex3-60,Magikarp,https://images.pokemontcg.io/ex3/60_hires.png,Common,0.620000,2.030000,Pokémon
+ex3-61,Magnemite,https://images.pokemontcg.io/ex3/61_hires.png,Common,0.190000,0.530000,Pokémon
+ex3-62,Magnemite,https://images.pokemontcg.io/ex3/62_hires.png,Common,2.420000,0.650000,Pokémon
+ex3-63,Magnemite,https://images.pokemontcg.io/ex3/63_hires.png,Common,0.490000,0.640000,Pokémon
+ex3-64,Mareep,https://images.pokemontcg.io/ex3/64_hires.png,Common,0.250000,0.660000,Pokémon
+ex3-65,Mudkip,https://images.pokemontcg.io/ex3/65_hires.png,Common,0.440000,2.330000,Pokémon
+ex3-66,Nincada,https://images.pokemontcg.io/ex3/66_hires.png,Common,0.120000,0.240000,Pokémon
+ex3-67,Nincada,https://images.pokemontcg.io/ex3/67_hires.png,Common,0.220000,0.580000,Pokémon
+ex3-68,Nincada,https://images.pokemontcg.io/ex3/68_hires.png,Common,0.140000,0.480000,Pokémon
+ex3-69,Numel,https://images.pokemontcg.io/ex3/69_hires.png,Common,0.220000,0.400000,Pokémon
+ex3-70,Numel,https://images.pokemontcg.io/ex3/70_hires.png,Common,0.200000,0.390000,Pokémon
+ex3-71,Pineco,https://images.pokemontcg.io/ex3/71_hires.png,Common,0.120000,0.490000,Pokémon
+ex3-72,Slugma,https://images.pokemontcg.io/ex3/72_hires.png,Common,0.200000,0.420000,Pokémon
+ex3-73,Spoink,https://images.pokemontcg.io/ex3/73_hires.png,Common,0.130000,0.270000,Pokémon
+ex3-74,Spoink,https://images.pokemontcg.io/ex3/74_hires.png,Common,0.350000,0.700000,Pokémon
+ex3-75,Swablu,https://images.pokemontcg.io/ex3/75_hires.png,Common,0.260000,0.910000,Pokémon
+ex3-76,Taillow,https://images.pokemontcg.io/ex3/76_hires.png,Common,0.260000,0.380000,Pokémon
+ex3-77,Torchic,https://images.pokemontcg.io/ex3/77_hires.png,Common,0.410000,0.730000,Pokémon
+ex3-78,Trapinch,https://images.pokemontcg.io/ex3/78_hires.png,Common,0.180000,0.600000,Pokémon
+ex3-79,Trapinch,https://images.pokemontcg.io/ex3/79_hires.png,Common,0.280000,0.550000,Pokémon
+ex3-80,Treecko,https://images.pokemontcg.io/ex3/80_hires.png,Common,0.380000,0.970000,Pokémon
+ex3-81,Wurmple,https://images.pokemontcg.io/ex3/81_hires.png,Common,0.200000,0.580000,Pokémon
+ex3-82,Balloon Berry,https://images.pokemontcg.io/ex3/82_hires.png,Uncommon,0.230000,0.290000,Trainer
+ex3-83,Buffer Piece,https://images.pokemontcg.io/ex3/83_hires.png,Uncommon,0.520000,0.390000,Trainer
+ex3-84,Energy Recycle System,https://images.pokemontcg.io/ex3/84_hires.png,Uncommon,0.230000,0.360000,Trainer
+ex3-85,High Pressure System,https://images.pokemontcg.io/ex3/85_hires.png,Uncommon,0.390000,0.490000,Trainer
+ex3-86,Low Pressure System,https://images.pokemontcg.io/ex3/86_hires.png,Uncommon,0.390000,0.340000,Trainer
+ex3-87,Mr. Briney's Compassion,https://images.pokemontcg.io/ex3/87_hires.png,Uncommon,1.720000,5.160000,Trainer
+ex3-88,TV Reporter,https://images.pokemontcg.io/ex3/88_hires.png,Uncommon,0.360000,0.320000,Trainer
+ex3-89,Ampharos ex,https://images.pokemontcg.io/ex3/89_hires.png,Rare Holo EX,38.420000,70.280000,Pokémon
+ex3-90,Dragonite ex,https://images.pokemontcg.io/ex3/90_hires.png,Rare Holo EX,104,275.980000,Pokémon
+ex3-91,Golem ex,https://images.pokemontcg.io/ex3/91_hires.png,Rare Holo EX,23.120000,45.830000,Pokémon
+ex3-92,Kingdra ex,https://images.pokemontcg.io/ex3/92_hires.png,Rare Holo EX,23.870000,57.810000,Pokémon
+ex3-93,Latias ex,https://images.pokemontcg.io/ex3/93_hires.png,Rare Holo EX,51.670000,120.760000,Pokémon
+ex3-94,Latios ex,https://images.pokemontcg.io/ex3/94_hires.png,Rare Holo EX,55.110000,133.060000,Pokémon
+ex3-95,Magcargo ex,https://images.pokemontcg.io/ex3/95_hires.png,Rare Holo EX,18.800000,45.330000,Pokémon
+ex3-96,Muk ex,https://images.pokemontcg.io/ex3/96_hires.png,Rare Holo EX,17.040000,39.630000,Pokémon
+ex3-97,Rayquaza ex,https://images.pokemontcg.io/ex3/97_hires.png,Rare Holo EX,111.580000,295.900000,Pokémon
+ex3-98,Charmander,https://images.pokemontcg.io/ex3/98_hires.png,Rare Secret,50.660000,109.460000,Pokémon
+ex3-99,Charmeleon,https://images.pokemontcg.io/ex3/99_hires.png,Rare Secret,122.500000,83.230000,Pokémon
+ex3-100,Charizard,https://images.pokemontcg.io/ex3/100_hires.png,Rare Secret,240,739.970000,Pokémon
+",DefaulT,",,,,0,0,

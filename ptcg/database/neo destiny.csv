@@ -1,0 +1,115 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+neo4-1,Dark Ampharos,https://images.pokemontcg.io/neo4/1_hires.png,Rare Holo,42.220000,57.660000,Pokémon
+neo4-2,Dark Crobat,https://images.pokemontcg.io/neo4/2_hires.png,Rare Holo,56.830000,83.880000,Pokémon
+neo4-3,Dark Donphan,https://images.pokemontcg.io/neo4/3_hires.png,Rare Holo,46.130000,44.690000,Pokémon
+neo4-4,Dark Espeon,https://images.pokemontcg.io/neo4/4_hires.png,Rare Holo,155.440000,240.020000,Pokémon
+neo4-5,Dark Feraligatr,https://images.pokemontcg.io/neo4/5_hires.png,Rare Holo,191.760000,149.280000,Pokémon
+neo4-6,Dark Gengar,https://images.pokemontcg.io/neo4/6_hires.png,Rare Holo,135.420000,286.950000,Pokémon
+neo4-7,Dark Houndoom,https://images.pokemontcg.io/neo4/7_hires.png,Rare Holo,61.680000,38.990000,Pokémon
+neo4-8,Dark Porygon2,https://images.pokemontcg.io/neo4/8_hires.png,Rare Holo,32.150000,61.420000,Pokémon
+neo4-9,Dark Scizor,https://images.pokemontcg.io/neo4/9_hires.png,Rare Holo,42,176.460000,Pokémon
+neo4-10,Dark Typhlosion,https://images.pokemontcg.io/neo4/10_hires.png,Rare Holo,19.920000,51.970000,Pokémon
+neo4-11,Dark Tyranitar,https://images.pokemontcg.io/neo4/11_hires.png,Rare Holo,130.580000,150,Pokémon
+neo4-12,Light Arcanine,https://images.pokemontcg.io/neo4/12_hires.png,Rare Holo,106.250000,249,Pokémon
+neo4-13,Light Azumarill,https://images.pokemontcg.io/neo4/13_hires.png,Rare Holo,12.330000,16.670000,Pokémon
+neo4-14,Light Dragonite,https://images.pokemontcg.io/neo4/14_hires.png,Rare Holo,90.450000,327.510000,Pokémon
+neo4-15,Light Togetic,https://images.pokemontcg.io/neo4/15_hires.png,Rare Holo,31.380000,55.830000,Pokémon
+neo4-16,Miracle Energy,https://images.pokemontcg.io/neo4/16_hires.png,Rare Holo,43.210000,23.020000,Energy
+neo4-17,Dark Ariados,https://images.pokemontcg.io/neo4/17_hires.png,Rare,6.930000,4.860000,Pokémon
+neo4-18,Dark Magcargo,https://images.pokemontcg.io/neo4/18_hires.png,Rare,3.820000,2.630000,Pokémon
+neo4-19,Dark Omastar,https://images.pokemontcg.io/neo4/19_hires.png,Rare,9.830000,10.200000,Pokémon
+neo4-20,Dark Slowking,https://images.pokemontcg.io/neo4/20_hires.png,Rare,9.230000,19.350000,Pokémon
+neo4-21,Dark Ursaring,https://images.pokemontcg.io/neo4/21_hires.png,Rare,7.300000,11.360000,Pokémon
+neo4-22,Light Dragonair,https://images.pokemontcg.io/neo4/22_hires.png,Rare,20.610000,18.980000,Pokémon
+neo4-23,Light Lanturn,https://images.pokemontcg.io/neo4/23_hires.png,Rare,4.360000,3.860000,Pokémon
+neo4-24,Light Ledian,https://images.pokemontcg.io/neo4/24_hires.png,Rare,5.240000,5.940000,Pokémon
+neo4-25,Light Machamp,https://images.pokemontcg.io/neo4/25_hires.png,Rare,5.220000,7.190000,Pokémon
+neo4-26,Light Piloswine,https://images.pokemontcg.io/neo4/26_hires.png,Rare,8.210000,8.510000,Pokémon
+neo4-27,Unown [G],https://images.pokemontcg.io/neo4/27_hires.png,Rare,5.130000,12.150000,Pokémon
+neo4-28,Unown [H],https://images.pokemontcg.io/neo4/28_hires.png,Rare,7.360000,11.740000,Pokémon
+neo4-29,Unown [W],https://images.pokemontcg.io/neo4/29_hires.png,Rare,7.230000,8.100000,Pokémon
+neo4-30,Unown [X],https://images.pokemontcg.io/neo4/30_hires.png,Rare,10.680000,15.380000,Pokémon
+neo4-31,Chansey,https://images.pokemontcg.io/neo4/31_hires.png,Uncommon,4.940000,7.440000,Pokémon
+neo4-32,Dark Croconaw,https://images.pokemontcg.io/neo4/32_hires.png,Uncommon,2.470000,4.070000,Pokémon
+neo4-33,Dark Exeggutor,https://images.pokemontcg.io/neo4/33_hires.png,Uncommon,4.810000,3.320000,Pokémon
+neo4-34,Dark Flaaffy,https://images.pokemontcg.io/neo4/34_hires.png,Uncommon,2.220000,3.060000,Pokémon
+neo4-35,Dark Forretress,https://images.pokemontcg.io/neo4/35_hires.png,Uncommon,4.820000,3.130000,Pokémon
+neo4-36,Dark Haunter,https://images.pokemontcg.io/neo4/36_hires.png,Uncommon,4.560000,5.540000,Pokémon
+neo4-37,Dark Omanyte,https://images.pokemontcg.io/neo4/37_hires.png,Uncommon,3.210000,3.020000,Pokémon
+neo4-38,Dark Pupitar,https://images.pokemontcg.io/neo4/38_hires.png,Uncommon,3.730000,2.890000,Pokémon
+neo4-39,Dark Quilava,https://images.pokemontcg.io/neo4/39_hires.png,Uncommon,2.220000,2.180000,Pokémon
+neo4-40,Dark Wigglytuff,https://images.pokemontcg.io/neo4/40_hires.png,Uncommon,4.090000,4.260000,Pokémon
+neo4-41,Heracross,https://images.pokemontcg.io/neo4/41_hires.png,Uncommon,3.600000,4.390000,Pokémon
+neo4-42,Hitmonlee,https://images.pokemontcg.io/neo4/42_hires.png,Uncommon,1.710000,1.960000,Pokémon
+neo4-43,Houndour,https://images.pokemontcg.io/neo4/43_hires.png,Uncommon,1.310000,2.580000,Pokémon
+neo4-44,Jigglypuff,https://images.pokemontcg.io/neo4/44_hires.png,Uncommon,4.340000,8.200000,Pokémon
+neo4-45,Light Dewgong,https://images.pokemontcg.io/neo4/45_hires.png,Uncommon,1.280000,1.620000,Pokémon
+neo4-46,Light Flareon,https://images.pokemontcg.io/neo4/46_hires.png,Uncommon,14.670000,17.500000,Pokémon
+neo4-47,Light Golduck,https://images.pokemontcg.io/neo4/47_hires.png,Uncommon,3.800000,2.360000,Pokémon
+neo4-48,Light Jolteon,https://images.pokemontcg.io/neo4/48_hires.png,Uncommon,19.490000,45.270000,Pokémon
+neo4-49,Light Machoke,https://images.pokemontcg.io/neo4/49_hires.png,Uncommon,2.550000,2.460000,Pokémon
+neo4-50,Light Ninetales,https://images.pokemontcg.io/neo4/50_hires.png,Uncommon,6.590000,8.850000,Pokémon
+neo4-51,Light Slowbro,https://images.pokemontcg.io/neo4/51_hires.png,Uncommon,7.690000,13.590000,Pokémon
+neo4-52,Light Vaporeon,https://images.pokemontcg.io/neo4/52_hires.png,Uncommon,8.960000,18.640000,Pokémon
+neo4-53,Light Venomoth,https://images.pokemontcg.io/neo4/53_hires.png,Uncommon,4.230000,3.370000,Pokémon
+neo4-54,Light Wigglytuff,https://images.pokemontcg.io/neo4/54_hires.png,Uncommon,5.640000,4.480000,Pokémon
+neo4-55,Scyther,https://images.pokemontcg.io/neo4/55_hires.png,Uncommon,4.460000,4.470000,Pokémon
+neo4-56,Togepi,https://images.pokemontcg.io/neo4/56_hires.png,Uncommon,4.820000,11.120000,Pokémon
+neo4-57,Unown [C],https://images.pokemontcg.io/neo4/57_hires.png,Uncommon,4.480000,6.330000,Pokémon
+neo4-58,Unown [P],https://images.pokemontcg.io/neo4/58_hires.png,Uncommon,2.490000,2.690000,Pokémon
+neo4-59,Unown [Q],https://images.pokemontcg.io/neo4/59_hires.png,Uncommon,3.510000,5.390000,Pokémon
+neo4-60,Unown [Z],https://images.pokemontcg.io/neo4/60_hires.png,Uncommon,2.930000,4.010000,Pokémon
+neo4-61,Cyndaquil,https://images.pokemontcg.io/neo4/61_hires.png,Common,0.930000,1.340000,Pokémon
+neo4-62,Dark Octillery,https://images.pokemontcg.io/neo4/62_hires.png,Common,1.350000,1.150000,Pokémon
+neo4-63,Dratini,https://images.pokemontcg.io/neo4/63_hires.png,Common,1.160000,2.300000,Pokémon
+neo4-64,Exeggcute,https://images.pokemontcg.io/neo4/64_hires.png,Common,0.630000,0.840000,Pokémon
+neo4-65,Gastly,https://images.pokemontcg.io/neo4/65_hires.png,Common,0.770000,1.330000,Pokémon
+neo4-66,Girafarig,https://images.pokemontcg.io/neo4/66_hires.png,Common,0.640000,1.160000,Pokémon
+neo4-67,Gligar,https://images.pokemontcg.io/neo4/67_hires.png,Common,0.340000,0.440000,Pokémon
+neo4-68,Growlithe,https://images.pokemontcg.io/neo4/68_hires.png,Common,1.190000,1.290000,Pokémon
+neo4-69,Hitmonchan,https://images.pokemontcg.io/neo4/69_hires.png,Common,0.870000,1.320000,Pokémon
+neo4-70,Larvitar,https://images.pokemontcg.io/neo4/70_hires.png,Common,0.690000,1.380000,Pokémon
+neo4-71,Ledyba,https://images.pokemontcg.io/neo4/71_hires.png,Common,0.780000,0.940000,Pokémon
+neo4-72,Light Sunflora,https://images.pokemontcg.io/neo4/72_hires.png,Common,0.740000,1.030000,Pokémon
+neo4-73,Machop,https://images.pokemontcg.io/neo4/73_hires.png,Common,0.510000,0.540000,Pokémon
+neo4-74,Mantine,https://images.pokemontcg.io/neo4/74_hires.png,Common,0.650000,0.780000,Pokémon
+neo4-75,Mareep,https://images.pokemontcg.io/neo4/75_hires.png,Common,0.870000,1.180000,Pokémon
+neo4-76,Phanpy,https://images.pokemontcg.io/neo4/76_hires.png,Common,0.540000,0.770000,Pokémon
+neo4-77,Pineco,https://images.pokemontcg.io/neo4/77_hires.png,Common,0.530000,0.570000,Pokémon
+neo4-78,Porygon,https://images.pokemontcg.io/neo4/78_hires.png,Common,1.310000,1.050000,Pokémon
+neo4-79,Psyduck,https://images.pokemontcg.io/neo4/79_hires.png,Common,2.650000,9.790000,Pokémon
+neo4-80,Remoraid,https://images.pokemontcg.io/neo4/80_hires.png,Common,1,0.510000,Pokémon
+neo4-81,Seel,https://images.pokemontcg.io/neo4/81_hires.png,Common,0.540000,0.430000,Pokémon
+neo4-82,Slugma,https://images.pokemontcg.io/neo4/82_hires.png,Common,0.530000,0.550000,Pokémon
+neo4-83,Sunkern,https://images.pokemontcg.io/neo4/83_hires.png,Common,0.590000,0.560000,Pokémon
+neo4-84,Swinub,https://images.pokemontcg.io/neo4/84_hires.png,Common,0.640000,0.880000,Pokémon
+neo4-85,Totodile,https://images.pokemontcg.io/neo4/85_hires.png,Common,1.050000,1.850000,Pokémon
+neo4-86,Unown [L],https://images.pokemontcg.io/neo4/86_hires.png,Common,0.570000,0.900000,Pokémon
+neo4-87,Unown [S],https://images.pokemontcg.io/neo4/87_hires.png,Common,0.640000,0.950000,Pokémon
+neo4-88,Unown [T],https://images.pokemontcg.io/neo4/88_hires.png,Common,0.730000,0.690000,Pokémon
+neo4-89,Unown [V],https://images.pokemontcg.io/neo4/89_hires.png,Common,0.900000,1.130000,Pokémon
+neo4-90,Venonat,https://images.pokemontcg.io/neo4/90_hires.png,Common,0.610000,0.710000,Pokémon
+neo4-91,Vulpix,https://images.pokemontcg.io/neo4/91_hires.png,Common,0.900000,1.550000,Pokémon
+neo4-92,Broken Ground Gym,https://images.pokemontcg.io/neo4/92_hires.png,Rare,7.380000,9.350000,Trainer
+neo4-93,EXP.ALL,https://images.pokemontcg.io/neo4/93_hires.png,Rare,4.950000,4.980000,Trainer
+neo4-94,Impostor Professor Oak's Invention,https://images.pokemontcg.io/neo4/94_hires.png,Rare,5.320000,3.810000,Trainer
+neo4-95,Radio Tower,https://images.pokemontcg.io/neo4/95_hires.png,Rare,5.360000,5.410000,Trainer
+neo4-96,Thought Wave Machine,https://images.pokemontcg.io/neo4/96_hires.png,Rare,6.380000,5.310000,Trainer
+neo4-97,Counterattack Claws,https://images.pokemontcg.io/neo4/97_hires.png,Uncommon,0.990000,0.800000,Trainer
+neo4-98,Energy Amplifier,https://images.pokemontcg.io/neo4/98_hires.png,Uncommon,1.880000,1.320000,Trainer
+neo4-99,Energy Stadium,https://images.pokemontcg.io/neo4/99_hires.png,Uncommon,1.210000,1.300000,Trainer
+neo4-100,Lucky Stadium,https://images.pokemontcg.io/neo4/100_hires.png,Uncommon,3.520000,2.770000,Trainer
+neo4-101,Magnifier,https://images.pokemontcg.io/neo4/101_hires.png,Uncommon,1.070000,1.300000,Trainer
+neo4-102,Pokémon Personality Test,https://images.pokemontcg.io/neo4/102_hires.png,Uncommon,4.130000,5.190000,Trainer
+neo4-103,Team Rocket's Evil Deeds,https://images.pokemontcg.io/neo4/103_hires.png,Uncommon,5.030000,2.650000,Trainer
+neo4-104,Heal Powder,https://images.pokemontcg.io/neo4/104_hires.png,Common,0.740000,0.390000,Trainer
+neo4-105,Mail from Bill,https://images.pokemontcg.io/neo4/105_hires.png,Common,0.390000,0.430000,Trainer
+neo4-106,Shining Celebi,https://images.pokemontcg.io/neo4/106_hires.png,Rare Shining,230.710000,150,Pokémon
+neo4-107,Shining Charizard,https://images.pokemontcg.io/neo4/107_hires.png,Rare Shining,1328,2000,Pokémon
+neo4-108,Shining Kabutops,https://images.pokemontcg.io/neo4/108_hires.png,Rare Shining,189.830000,292.920000,Pokémon
+neo4-109,Shining Mewtwo,https://images.pokemontcg.io/neo4/109_hires.png,Rare Shining,333.090000,749.740000,Pokémon
+neo4-110,Shining Noctowl,https://images.pokemontcg.io/neo4/110_hires.png,Rare Shining,152.200000,204.930000,Pokémon
+neo4-111,Shining Raichu,https://images.pokemontcg.io/neo4/111_hires.png,Rare Shining,246.270000,316.130000,Pokémon
+neo4-112,Shining Steelix,https://images.pokemontcg.io/neo4/112_hires.png,Rare Shining,205.060000,241.250000,Pokémon
+neo4-113,Shining Tyranitar,https://images.pokemontcg.io/neo4/113_hires.png,Rare Shining,464.420000,733.760000,Pokémon
+",DefaulT,",,,,0,0,

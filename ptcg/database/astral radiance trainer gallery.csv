@@ -1,0 +1,32 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+swsh10tg-TG01,Abomasnow,https://images.pokemontcg.io/swsh10tg/TG01_hires.png,Trainer Gallery Rare Holo,1.660000,1.360000,Pokémon
+swsh10tg-TG02,Flapple,https://images.pokemontcg.io/swsh10tg/TG02_hires.png,Trainer Gallery Rare Holo,1.530000,1.860000,Pokémon
+swsh10tg-TG03,Kingdra,https://images.pokemontcg.io/swsh10tg/TG03_hires.png,Trainer Gallery Rare Holo,5.230000,5.090000,Pokémon
+swsh10tg-TG04,Frosmoth,https://images.pokemontcg.io/swsh10tg/TG04_hires.png,Trainer Gallery Rare Holo,2.090000,1.880000,Pokémon
+swsh10tg-TG05,Gardevoir,https://images.pokemontcg.io/swsh10tg/TG05_hires.png,Trainer Gallery Rare Holo,3.770000,3.360000,Pokémon
+swsh10tg-TG06,Wyrdeer,https://images.pokemontcg.io/swsh10tg/TG06_hires.png,Trainer Gallery Rare Holo,1.510000,1.320000,Pokémon
+swsh10tg-TG07,Falinks,https://images.pokemontcg.io/swsh10tg/TG07_hires.png,Trainer Gallery Rare Holo,1.750000,1.650000,Pokémon
+swsh10tg-TG08,Kleavor,https://images.pokemontcg.io/swsh10tg/TG08_hires.png,Trainer Gallery Rare Holo,1.960000,1.650000,Pokémon
+swsh10tg-TG09,Mightyena,https://images.pokemontcg.io/swsh10tg/TG09_hires.png,Trainer Gallery Rare Holo,2.140000,2.620000,Pokémon
+swsh10tg-TG10,Galarian Obstagoon,https://images.pokemontcg.io/swsh10tg/TG10_hires.png,Trainer Gallery Rare Holo,1.580000,1.310000,Pokémon
+swsh10tg-TG11,Bronzong,https://images.pokemontcg.io/swsh10tg/TG11_hires.png,Trainer Gallery Rare Holo,1.850000,1.930000,Pokémon
+swsh10tg-TG12,Hoothoot,https://images.pokemontcg.io/swsh10tg/TG12_hires.png,Trainer Gallery Rare Holo,3.330000,2.770000,Pokémon
+swsh10tg-TG13,Starmie V,https://images.pokemontcg.io/swsh10tg/TG13_hires.png,Rare Holo V,97.670000,84.840000,Pokémon
+swsh10tg-TG14,Ice Rider Calyrex V,https://images.pokemontcg.io/swsh10tg/TG14_hires.png,Rare Holo V,9,6.650000,Pokémon
+swsh10tg-TG15,Ice Rider Calyrex VMAX,https://images.pokemontcg.io/swsh10tg/TG15_hires.png,Rare Holo VMAX,7.690000,5.280000,Pokémon
+swsh10tg-TG16,Galarian Articuno V,https://images.pokemontcg.io/swsh10tg/TG16_hires.png,Rare Holo V,10.460000,8.730000,Pokémon
+swsh10tg-TG17,Shadow Rider Calyrex V,https://images.pokemontcg.io/swsh10tg/TG17_hires.png,Rare Holo V,10.090000,7,Pokémon
+swsh10tg-TG18,Shadow Rider Calyrex VMAX,https://images.pokemontcg.io/swsh10tg/TG18_hires.png,Rare Holo VMAX,8.760000,6.870000,Pokémon
+swsh10tg-TG19,Galarian Zapdos V,https://images.pokemontcg.io/swsh10tg/TG19_hires.png,Rare Holo V,10.320000,8.930000,Pokémon
+swsh10tg-TG20,Galarian Moltres V,https://images.pokemontcg.io/swsh10tg/TG20_hires.png,Rare Holo V,17.310000,11.270000,Pokémon
+swsh10tg-TG21,Zacian V,https://images.pokemontcg.io/swsh10tg/TG21_hires.png,Rare Holo V,17.860000,14.110000,Pokémon
+swsh10tg-TG22,Zamazenta V,https://images.pokemontcg.io/swsh10tg/TG22_hires.png,Rare Holo V,8.510000,5.670000,Pokémon
+swsh10tg-TG23,Garchomp V,https://images.pokemontcg.io/swsh10tg/TG23_hires.png,Rare Holo V,67.180000,62.410000,Pokémon
+swsh10tg-TG24,Allister,https://images.pokemontcg.io/swsh10tg/TG24_hires.png,Rare Ultra,3.910000,3.850000,Trainer
+swsh10tg-TG25,Bea,https://images.pokemontcg.io/swsh10tg/TG25_hires.png,Rare Ultra,4.560000,4.780000,Trainer
+swsh10tg-TG26,Melony,https://images.pokemontcg.io/swsh10tg/TG26_hires.png,Rare Ultra,3.850000,3.150000,Trainer
+swsh10tg-TG27,Milo,https://images.pokemontcg.io/swsh10tg/TG27_hires.png,Rare Ultra,2.730000,1.760000,Trainer
+swsh10tg-TG28,Piers,https://images.pokemontcg.io/swsh10tg/TG28_hires.png,Rare Ultra,3.400000,2.530000,Trainer
+swsh10tg-TG29,Ice Rider Calyrex VMAX,https://images.pokemontcg.io/swsh10tg/TG29_hires.png,Rare Secret,2.230000,3.300000,Pokémon
+swsh10tg-TG30,Shadow Rider Calyrex VMAX,https://images.pokemontcg.io/swsh10tg/TG30_hires.png,Rare Secret,2.360000,3.300000,Pokémon
+",DefaulT,",,,,0,0,

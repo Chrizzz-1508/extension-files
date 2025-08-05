@@ -1,0 +1,23 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+dv1-1,Dratini,https://images.pokemontcg.io/dv1/1_hires.png,Rare Holo,1.360000,2.010000,Pokémon
+dv1-2,Dratini,https://images.pokemontcg.io/dv1/2_hires.png,Rare Holo,6.270000,4.910000,Pokémon
+dv1-3,Dragonair,https://images.pokemontcg.io/dv1/3_hires.png,Rare Holo,2.740000,3.080000,Pokémon
+dv1-4,Dragonair,https://images.pokemontcg.io/dv1/4_hires.png,Rare Holo,3.240000,6.460000,Pokémon
+dv1-5,Dragonite,https://images.pokemontcg.io/dv1/5_hires.png,Rare Holo,5.360000,9.610000,Pokémon
+dv1-6,Bagon,https://images.pokemontcg.io/dv1/6_hires.png,Rare Holo,8.500000,1.070000,Pokémon
+dv1-7,Shelgon,https://images.pokemontcg.io/dv1/7_hires.png,Rare Holo,1.050000,1.440000,Pokémon
+dv1-8,Salamence,https://images.pokemontcg.io/dv1/8_hires.png,Rare Holo,2.140000,4.450000,Pokémon
+dv1-9,Latias,https://images.pokemontcg.io/dv1/9_hires.png,Rare Holo,5.020000,6.720000,Pokémon
+dv1-10,Latios,https://images.pokemontcg.io/dv1/10_hires.png,Rare Holo,3.260000,5.470000,Pokémon
+dv1-11,Rayquaza,https://images.pokemontcg.io/dv1/11_hires.png,Rare Holo,14.290000,22.180000,Pokémon
+dv1-12,Axew,https://images.pokemontcg.io/dv1/12_hires.png,Rare Holo,1.200000,1.250000,Pokémon
+dv1-13,Axew,https://images.pokemontcg.io/dv1/13_hires.png,Rare Holo,1.020000,1.160000,Pokémon
+dv1-14,Fraxure,https://images.pokemontcg.io/dv1/14_hires.png,Rare Holo,1.030000,1.600000,Pokémon
+dv1-15,Fraxure,https://images.pokemontcg.io/dv1/15_hires.png,Rare Holo,1.500000,1.380000,Pokémon
+dv1-16,Haxorus,https://images.pokemontcg.io/dv1/16_hires.png,Rare Holo,7.490000,2.890000,Pokémon
+dv1-17,Druddigon,https://images.pokemontcg.io/dv1/17_hires.png,Rare Holo,2.090000,2.680000,Pokémon
+dv1-18,Exp. Share,https://images.pokemontcg.io/dv1/18_hires.png,,0.930000,1.590000,Trainer
+dv1-19,First Ticket,https://images.pokemontcg.io/dv1/19_hires.png,,0.900000,0.740000,Trainer
+dv1-20,Super Rod,https://images.pokemontcg.io/dv1/20_hires.png,Rare Holo,4,8.520000,Trainer
+dv1-21,Kyurem,https://images.pokemontcg.io/dv1/21_hires.png,,39.750000,55.150000,Pokémon
+",DefaulT,",,,,0,0,

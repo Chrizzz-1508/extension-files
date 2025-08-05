@@ -1,0 +1,58 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+dpp-DP01,Turtwig,https://images.pokemontcg.io/dpp/DP01_hires.png,Promo,0,18.930000,Pokémon
+dpp-DP02,Chimchar,https://images.pokemontcg.io/dpp/DP02_hires.png,Promo,0,6.490000,Pokémon
+dpp-DP03,Piplup,https://images.pokemontcg.io/dpp/DP03_hires.png,Promo,0,8.270000,Pokémon
+dpp-DP04,Pachirisu,https://images.pokemontcg.io/dpp/DP04_hires.png,Promo,0,5.190000,Pokémon
+dpp-DP05,Tropical Wind,https://images.pokemontcg.io/dpp/DP05_hires.png,Promo,0,0,Trainer
+dpp-DP06,Buneary,https://images.pokemontcg.io/dpp/DP06_hires.png,Promo,0,4.370000,Pokémon
+dpp-DP07,Cranidos,https://images.pokemontcg.io/dpp/DP07_hires.png,Promo,0,6.100000,Pokémon
+dpp-DP08,Shieldon,https://images.pokemontcg.io/dpp/DP08_hires.png,Promo,0,4.070000,Pokémon
+dpp-DP09,Torterra LV.X,https://images.pokemontcg.io/dpp/DP09_hires.png,Promo,0,26.030000,Pokémon
+dpp-DP10,Infernape LV.X,https://images.pokemontcg.io/dpp/DP10_hires.png,Promo,0,35.050000,Pokémon
+dpp-DP11,Empoleon LV.X,https://images.pokemontcg.io/dpp/DP11_hires.png,Promo,0,20.340000,Pokémon
+dpp-DP12,Lucario LV.X,https://images.pokemontcg.io/dpp/DP12_hires.png,Promo,0,54.760000,Pokémon
+dpp-DP13,Buizel,https://images.pokemontcg.io/dpp/DP13_hires.png,Promo,0,9.270000,Pokémon
+dpp-DP14,Chatot,https://images.pokemontcg.io/dpp/DP14_hires.png,Promo,0,13.160000,Pokémon
+dpp-DP15,Shinx,https://images.pokemontcg.io/dpp/DP15_hires.png,Promo,0,22.990000,Pokémon
+dpp-DP16,Pikachu,https://images.pokemontcg.io/dpp/DP16_hires.png,Promo,0,38.900000,Pokémon
+dpp-DP17,Dialga LV.X,https://images.pokemontcg.io/dpp/DP17_hires.png,Promo,0,32.900000,Pokémon
+dpp-DP18,Palkia LV.X,https://images.pokemontcg.io/dpp/DP18_hires.png,Promo,0,23.540000,Pokémon
+dpp-DP19,Darkrai LV.X,https://images.pokemontcg.io/dpp/DP19_hires.png,Promo,0,30.520000,Pokémon
+dpp-DP20,Magmortar,https://images.pokemontcg.io/dpp/DP20_hires.png,Promo,0,4.440000,Pokémon
+dpp-DP21,Raichu,https://images.pokemontcg.io/dpp/DP21_hires.png,Promo,0,11.350000,Pokémon
+dpp-DP22,Mime Jr.,https://images.pokemontcg.io/dpp/DP22_hires.png,Promo,0,7.040000,Pokémon
+dpp-DP23,Glameow,https://images.pokemontcg.io/dpp/DP23_hires.png,Promo,0,3.030000,Pokémon
+dpp-DP24,Darkrai,https://images.pokemontcg.io/dpp/DP24_hires.png,Promo,0,11.230000,Pokémon
+dpp-DP25,Tropical Wind,https://images.pokemontcg.io/dpp/DP25_hires.png,Promo,0,0,Trainer
+dpp-DP26,Dialga,https://images.pokemontcg.io/dpp/DP26_hires.png,Promo,0,5.850000,Pokémon
+dpp-DP27,Palkia,https://images.pokemontcg.io/dpp/DP27_hires.png,Promo,0,6.280000,Pokémon
+dpp-DP28,Mewtwo LV.X,https://images.pokemontcg.io/dpp/DP28_hires.png,Promo,0,40.420000,Pokémon
+dpp-DP29,Rhyperior LV.X,https://images.pokemontcg.io/dpp/DP29_hires.png,Promo,0,13.460000,Pokémon
+dpp-DP30,Regigigas LV.X,https://images.pokemontcg.io/dpp/DP30_hires.png,Promo,0,27.670000,Pokémon
+dpp-DP31,Heatran LV.X,https://images.pokemontcg.io/dpp/DP31_hires.png,Promo,0,20.680000,Pokémon
+dpp-DP32,Magnezone,https://images.pokemontcg.io/dpp/DP32_hires.png,Promo,0,2.530000,Pokémon
+dpp-DP33,Dusknoir,https://images.pokemontcg.io/dpp/DP33_hires.png,Promo,0,2.640000,Pokémon
+dpp-DP34,Drifblim,https://images.pokemontcg.io/dpp/DP34_hires.png,Promo,0,12.120000,Pokémon
+dpp-DP35,Porygon-Z,https://images.pokemontcg.io/dpp/DP35_hires.png,Promo,0,4.380000,Pokémon
+dpp-DP36,Gliscor,https://images.pokemontcg.io/dpp/DP36_hires.png,Promo,0,3.670000,Pokémon
+dpp-DP37,Dialga LV.X,https://images.pokemontcg.io/dpp/DP37_hires.png,Promo,0,25.860000,Pokémon
+dpp-DP38,Giratina LV.X,https://images.pokemontcg.io/dpp/DP38_hires.png,Promo,0,58.230000,Pokémon
+dpp-DP39,Shaymin LV.X,https://images.pokemontcg.io/dpp/DP39_hires.png,Promo,0,11.430000,Pokémon
+dpp-DP40,Regigigas,https://images.pokemontcg.io/dpp/DP40_hires.png,Promo,0,17.290000,Pokémon
+dpp-DP41,Toxicroak G,https://images.pokemontcg.io/dpp/DP41_hires.png,Promo,0,67.490000,Pokémon
+dpp-DP42,Carnivine G,https://images.pokemontcg.io/dpp/DP42_hires.png,Promo,0,3.440000,Pokémon
+dpp-DP43,Probopass G,https://images.pokemontcg.io/dpp/DP43_hires.png,Promo,0,4.230000,Pokémon
+dpp-DP44,Magnezone,https://images.pokemontcg.io/dpp/DP44_hires.png,Promo,0,2.690000,Pokémon
+dpp-DP45,Charizard G LV.X,https://images.pokemontcg.io/dpp/DP45_hires.png,Promo,0,99,Pokémon
+dpp-DP46,Garchomp C LV.X,https://images.pokemontcg.io/dpp/DP46_hires.png,Promo,0,21.930000,Pokémon
+dpp-DP47,Rayquaza C LV.X,https://images.pokemontcg.io/dpp/DP47_hires.png,Promo,0,80.660000,Pokémon
+dpp-DP48,Tropical Wind,https://images.pokemontcg.io/dpp/DP48_hires.png,Promo,0,0,Trainer
+dpp-DP49,Dialga,https://images.pokemontcg.io/dpp/DP49_hires.png,Promo,0,8.630000,Pokémon
+dpp-DP50,Arceus,https://images.pokemontcg.io/dpp/DP50_hires.png,Promo,0,14.720000,Pokémon
+dpp-DP51,Cresselia,https://images.pokemontcg.io/dpp/DP51_hires.png,Promo,0,4.950000,Pokémon
+dpp-DP52,Darkrai,https://images.pokemontcg.io/dpp/DP52_hires.png,Promo,0,7.020000,Pokémon
+dpp-DP53,Arceus LV.X,https://images.pokemontcg.io/dpp/DP53_hires.png,Promo,0,27.480000,Pokémon
+dpp-DP54,Beginning Door,https://images.pokemontcg.io/dpp/DP54_hires.png,Promo,0,0,Trainer
+dpp-DP55,Ultimate Zone,https://images.pokemontcg.io/dpp/DP55_hires.png,Promo,0,0,Trainer
+dpp-DP56,Arceus LV.X,https://images.pokemontcg.io/dpp/DP56_hires.png,Promo,0,36.380000,Pokémon
+",DefaulT,",,,,0,0,

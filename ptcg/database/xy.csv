@@ -1,0 +1,148 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+xy1-1,Venusaur-EX,https://images.pokemontcg.io/xy1/1_hires.png,Rare Holo EX,7.910000,4.600000,Pokémon
+xy1-2,M Venusaur-EX,https://images.pokemontcg.io/xy1/2_hires.png,Rare Holo EX,11.540000,19.980000,Pokémon
+xy1-3,Weedle,https://images.pokemontcg.io/xy1/3_hires.png,Common,0.160000,0.210000,Pokémon
+xy1-4,Kakuna,https://images.pokemontcg.io/xy1/4_hires.png,Uncommon,0.290000,0.230000,Pokémon
+xy1-5,Beedrill,https://images.pokemontcg.io/xy1/5_hires.png,Rare,0.630000,0.620000,Pokémon
+xy1-6,Ledyba,https://images.pokemontcg.io/xy1/6_hires.png,Common,0.080000,0.190000,Pokémon
+xy1-7,Ledian,https://images.pokemontcg.io/xy1/7_hires.png,Uncommon,0.170000,0.200000,Pokémon
+xy1-8,Volbeat,https://images.pokemontcg.io/xy1/8_hires.png,Uncommon,0.130000,0.230000,Pokémon
+xy1-9,Illumise,https://images.pokemontcg.io/xy1/9_hires.png,Uncommon,0.250000,0.230000,Pokémon
+xy1-10,Pansage,https://images.pokemontcg.io/xy1/10_hires.png,Common,0.190000,0.170000,Pokémon
+xy1-11,Simisage,https://images.pokemontcg.io/xy1/11_hires.png,Rare,0.550000,0.410000,Pokémon
+xy1-12,Chespin,https://images.pokemontcg.io/xy1/12_hires.png,Common,0.150000,0.400000,Pokémon
+xy1-13,Quilladin,https://images.pokemontcg.io/xy1/13_hires.png,Uncommon,0.990000,0.980000,Pokémon
+xy1-14,Chesnaught,https://images.pokemontcg.io/xy1/14_hires.png,Rare Holo,1.340000,2.090000,Pokémon
+xy1-15,Scatterbug,https://images.pokemontcg.io/xy1/15_hires.png,Common,0.200000,0.170000,Pokémon
+xy1-16,Spewpa,https://images.pokemontcg.io/xy1/16_hires.png,Uncommon,0.060000,0.240000,Pokémon
+xy1-17,Vivillon,https://images.pokemontcg.io/xy1/17_hires.png,Rare Holo,1.750000,2.260000,Pokémon
+xy1-18,Skiddo,https://images.pokemontcg.io/xy1/18_hires.png,Common,0.130000,0.180000,Pokémon
+xy1-19,Gogoat,https://images.pokemontcg.io/xy1/19_hires.png,Rare Holo,0.710000,0.750000,Pokémon
+xy1-20,Slugma,https://images.pokemontcg.io/xy1/20_hires.png,Common,0.130000,0.180000,Pokémon
+xy1-21,Magcargo,https://images.pokemontcg.io/xy1/21_hires.png,Rare,0.300000,0.450000,Pokémon
+xy1-22,Pansear,https://images.pokemontcg.io/xy1/22_hires.png,Common,0.160000,0.240000,Pokémon
+xy1-23,Simisear,https://images.pokemontcg.io/xy1/23_hires.png,Rare,0.410000,0.440000,Pokémon
+xy1-24,Fennekin,https://images.pokemontcg.io/xy1/24_hires.png,Common,0.150000,0.300000,Pokémon
+xy1-25,Braixen,https://images.pokemontcg.io/xy1/25_hires.png,Uncommon,0.150000,0.230000,Pokémon
+xy1-26,Delphox,https://images.pokemontcg.io/xy1/26_hires.png,Rare Holo,1.830000,1.540000,Pokémon
+xy1-27,Fletchinder,https://images.pokemontcg.io/xy1/27_hires.png,Uncommon,0.130000,0.240000,Pokémon
+xy1-28,Talonflame,https://images.pokemontcg.io/xy1/28_hires.png,Rare Holo,0.880000,1.130000,Pokémon
+xy1-29,Blastoise-EX,https://images.pokemontcg.io/xy1/29_hires.png,Rare Holo EX,7.090000,5.690000,Pokémon
+xy1-30,M Blastoise-EX,https://images.pokemontcg.io/xy1/30_hires.png,Rare Holo EX,15.690000,23.470000,Pokémon
+xy1-31,Shellder,https://images.pokemontcg.io/xy1/31_hires.png,Common,0.150000,0.120000,Pokémon
+xy1-32,Cloyster,https://images.pokemontcg.io/xy1/32_hires.png,Rare,0.480000,0.400000,Pokémon
+xy1-33,Staryu,https://images.pokemontcg.io/xy1/33_hires.png,Common,0.240000,0.150000,Pokémon
+xy1-34,Starmie,https://images.pokemontcg.io/xy1/34_hires.png,Rare,0.710000,0.490000,Pokémon
+xy1-35,Lapras,https://images.pokemontcg.io/xy1/35_hires.png,Rare Holo,4.980000,3.330000,Pokémon
+xy1-36,Corsola,https://images.pokemontcg.io/xy1/36_hires.png,Uncommon,0.290000,0.220000,Pokémon
+xy1-37,Panpour,https://images.pokemontcg.io/xy1/37_hires.png,Common,0.070000,0.130000,Pokémon
+xy1-38,Simipour,https://images.pokemontcg.io/xy1/38_hires.png,Rare,0.380000,0.390000,Pokémon
+xy1-39,Froakie,https://images.pokemontcg.io/xy1/39_hires.png,Common,0.110000,0.220000,Pokémon
+xy1-40,Frogadier,https://images.pokemontcg.io/xy1/40_hires.png,Uncommon,0.160000,0.460000,Pokémon
+xy1-41,Greninja,https://images.pokemontcg.io/xy1/41_hires.png,Rare Holo,6.490000,4.220000,Pokémon
+xy1-42,Pikachu,https://images.pokemontcg.io/xy1/42_hires.png,Common,5.930000,1.470000,Pokémon
+xy1-43,Raichu,https://images.pokemontcg.io/xy1/43_hires.png,Rare Holo,1.720000,1.060000,Pokémon
+xy1-44,Voltorb,https://images.pokemontcg.io/xy1/44_hires.png,Common,0.170000,0.210000,Pokémon
+xy1-45,Electrode,https://images.pokemontcg.io/xy1/45_hires.png,Uncommon,0.160000,0.200000,Pokémon
+xy1-46,Emolga-EX,https://images.pokemontcg.io/xy1/46_hires.png,Rare Holo EX,4.270000,6.050000,Pokémon
+xy1-47,Ekans,https://images.pokemontcg.io/xy1/47_hires.png,Common,0.160000,0.160000,Pokémon
+xy1-48,Arbok,https://images.pokemontcg.io/xy1/48_hires.png,Rare,0.900000,0.680000,Pokémon
+xy1-49,Spoink,https://images.pokemontcg.io/xy1/49_hires.png,Common,0.140000,0.140000,Pokémon
+xy1-50,Grumpig,https://images.pokemontcg.io/xy1/50_hires.png,Rare,0.350000,0.410000,Pokémon
+xy1-51,Venipede,https://images.pokemontcg.io/xy1/51_hires.png,Common,0.160000,0.150000,Pokémon
+xy1-52,Whirlipede,https://images.pokemontcg.io/xy1/52_hires.png,Uncommon,0.190000,0.170000,Pokémon
+xy1-53,Scolipede,https://images.pokemontcg.io/xy1/53_hires.png,Rare,0.360000,0.260000,Pokémon
+xy1-54,Phantump,https://images.pokemontcg.io/xy1/54_hires.png,Common,0.110000,0.220000,Pokémon
+xy1-55,Trevenant,https://images.pokemontcg.io/xy1/55_hires.png,Rare Holo,1.870000,4.750000,Pokémon
+xy1-56,Pumpkaboo,https://images.pokemontcg.io/xy1/56_hires.png,Common,0.050000,0.170000,Pokémon
+xy1-57,Gourgeist,https://images.pokemontcg.io/xy1/57_hires.png,Rare Holo,0,2.990000,Pokémon
+xy1-58,Diglett,https://images.pokemontcg.io/xy1/58_hires.png,Common,0.090000,0.210000,Pokémon
+xy1-59,Dugtrio,https://images.pokemontcg.io/xy1/59_hires.png,Rare,0.370000,0.320000,Pokémon
+xy1-60,Rhyhorn,https://images.pokemontcg.io/xy1/60_hires.png,Common,0.110000,0.180000,Pokémon
+xy1-61,Rhydon,https://images.pokemontcg.io/xy1/61_hires.png,Rare,0.290000,0.450000,Pokémon
+xy1-62,Rhyperior,https://images.pokemontcg.io/xy1/62_hires.png,Rare Holo,1.060000,0.760000,Pokémon
+xy1-63,Lunatone,https://images.pokemontcg.io/xy1/63_hires.png,Uncommon,0.180000,0.230000,Pokémon
+xy1-64,Solrock,https://images.pokemontcg.io/xy1/64_hires.png,Uncommon,0,0.180000,Pokémon
+xy1-65,Timburr,https://images.pokemontcg.io/xy1/65_hires.png,Common,0.100000,0.150000,Pokémon
+xy1-66,Gurdurr,https://images.pokemontcg.io/xy1/66_hires.png,Uncommon,0.210000,0.160000,Pokémon
+xy1-67,Conkeldurr,https://images.pokemontcg.io/xy1/67_hires.png,Rare,0.900000,0.580000,Pokémon
+xy1-68,Sableye,https://images.pokemontcg.io/xy1/68_hires.png,Uncommon,0.170000,0.500000,Pokémon
+xy1-69,Sandile,https://images.pokemontcg.io/xy1/69_hires.png,Common,0.100000,0.150000,Pokémon
+xy1-70,Krokorok,https://images.pokemontcg.io/xy1/70_hires.png,Uncommon,0.170000,0.180000,Pokémon
+xy1-71,Krookodile,https://images.pokemontcg.io/xy1/71_hires.png,Rare,0.390000,0.310000,Pokémon
+xy1-72,Zorua,https://images.pokemontcg.io/xy1/72_hires.png,Common,0.110000,0.290000,Pokémon
+xy1-73,Zoroark,https://images.pokemontcg.io/xy1/73_hires.png,Rare Holo,1.440000,0.620000,Pokémon
+xy1-74,Inkay,https://images.pokemontcg.io/xy1/74_hires.png,Uncommon,0.190000,0.400000,Pokémon
+xy1-75,Inkay,https://images.pokemontcg.io/xy1/75_hires.png,Common,0.090000,0.160000,Pokémon
+xy1-76,Malamar,https://images.pokemontcg.io/xy1/76_hires.png,Rare,0.490000,0.260000,Pokémon
+xy1-77,Malamar,https://images.pokemontcg.io/xy1/77_hires.png,Rare,0.250000,0.280000,Pokémon
+xy1-78,Yveltal,https://images.pokemontcg.io/xy1/78_hires.png,Rare,0.870000,0.580000,Pokémon
+xy1-79,Yveltal-EX,https://images.pokemontcg.io/xy1/79_hires.png,Rare Holo EX,7.380000,13.860000,Pokémon
+xy1-80,Skarmory-EX,https://images.pokemontcg.io/xy1/80_hires.png,Rare Holo EX,2.890000,4.550000,Pokémon
+xy1-81,Pawniard,https://images.pokemontcg.io/xy1/81_hires.png,Common,0.160000,0.160000,Pokémon
+xy1-82,Bisharp,https://images.pokemontcg.io/xy1/82_hires.png,Rare,0.330000,0.470000,Pokémon
+xy1-83,Honedge,https://images.pokemontcg.io/xy1/83_hires.png,Common,0.070000,0.190000,Pokémon
+xy1-84,Doublade,https://images.pokemontcg.io/xy1/84_hires.png,Uncommon,2.250000,0.210000,Pokémon
+xy1-85,Aegislash,https://images.pokemontcg.io/xy1/85_hires.png,Rare,0.490000,0.640000,Pokémon
+xy1-86,Aegislash,https://images.pokemontcg.io/xy1/86_hires.png,Rare Holo,0.990000,1.170000,Pokémon
+xy1-87,Jigglypuff,https://images.pokemontcg.io/xy1/87_hires.png,Common,0.370000,0.900000,Pokémon
+xy1-88,Jigglypuff,https://images.pokemontcg.io/xy1/88_hires.png,Common,0.380000,0.510000,Pokémon
+xy1-89,Wigglytuff,https://images.pokemontcg.io/xy1/89_hires.png,Rare,0.990000,0.930000,Pokémon
+xy1-90,Wigglytuff,https://images.pokemontcg.io/xy1/90_hires.png,Rare,1.470000,0.610000,Pokémon
+xy1-91,Mr. Mime,https://images.pokemontcg.io/xy1/91_hires.png,Uncommon,0.260000,0.290000,Pokémon
+xy1-92,Spritzee,https://images.pokemontcg.io/xy1/92_hires.png,Common,0.120000,0.210000,Pokémon
+xy1-93,Aromatisse,https://images.pokemontcg.io/xy1/93_hires.png,Rare Holo,1.820000,1.770000,Pokémon
+xy1-94,Swirlix,https://images.pokemontcg.io/xy1/94_hires.png,Common,0.140000,0.230000,Pokémon
+xy1-95,Slurpuff,https://images.pokemontcg.io/xy1/95_hires.png,Rare Holo,0.570000,0.770000,Pokémon
+xy1-96,Xerneas,https://images.pokemontcg.io/xy1/96_hires.png,Rare,0.870000,0.840000,Pokémon
+xy1-97,Xerneas-EX,https://images.pokemontcg.io/xy1/97_hires.png,Rare Holo EX,3.370000,6.040000,Pokémon
+xy1-98,Doduo,https://images.pokemontcg.io/xy1/98_hires.png,Common,0.110000,0.170000,Pokémon
+xy1-99,Dodrio,https://images.pokemontcg.io/xy1/99_hires.png,Uncommon,0.170000,0.240000,Pokémon
+xy1-100,Tauros,https://images.pokemontcg.io/xy1/100_hires.png,Rare,0.550000,0.530000,Pokémon
+xy1-101,Dunsparce,https://images.pokemontcg.io/xy1/101_hires.png,Uncommon,0.110000,0.170000,Pokémon
+xy1-102,Taillow,https://images.pokemontcg.io/xy1/102_hires.png,Common,0.110000,0.140000,Pokémon
+xy1-103,Swellow,https://images.pokemontcg.io/xy1/103_hires.png,Rare,0.630000,0.370000,Pokémon
+xy1-104,Skitty,https://images.pokemontcg.io/xy1/104_hires.png,Common,0.150000,0.220000,Pokémon
+xy1-105,Delcatty,https://images.pokemontcg.io/xy1/105_hires.png,Uncommon,0.260000,0.190000,Pokémon
+xy1-106,Bidoof,https://images.pokemontcg.io/xy1/106_hires.png,Common,0.150000,0.230000,Pokémon
+xy1-107,Bibarel,https://images.pokemontcg.io/xy1/107_hires.png,Rare,0.390000,0.520000,Pokémon
+xy1-108,Lillipup,https://images.pokemontcg.io/xy1/108_hires.png,Common,0.130000,0.180000,Pokémon
+xy1-109,Herdier,https://images.pokemontcg.io/xy1/109_hires.png,Uncommon,0.220000,0.330000,Pokémon
+xy1-110,Stoutland,https://images.pokemontcg.io/xy1/110_hires.png,Rare,0.640000,0.520000,Pokémon
+xy1-111,Bunnelby,https://images.pokemontcg.io/xy1/111_hires.png,Common,0.120000,0.140000,Pokémon
+xy1-112,Diggersby,https://images.pokemontcg.io/xy1/112_hires.png,Uncommon,0.190000,0.220000,Pokémon
+xy1-113,Fletchling,https://images.pokemontcg.io/xy1/113_hires.png,Common,0.100000,0.220000,Pokémon
+xy1-114,Furfrou,https://images.pokemontcg.io/xy1/114_hires.png,Rare Holo,0.910000,0.560000,Pokémon
+xy1-115,Cassius,https://images.pokemontcg.io/xy1/115_hires.png,Uncommon,0.150000,0.210000,Trainer
+xy1-116,Evosoda,https://images.pokemontcg.io/xy1/116_hires.png,Uncommon,0.550000,0.750000,Trainer
+xy1-117,Fairy Garden,https://images.pokemontcg.io/xy1/117_hires.png,Uncommon,0.140000,0.260000,Trainer
+xy1-118,Great Ball,https://images.pokemontcg.io/xy1/118_hires.png,Uncommon,0.110000,0.120000,Trainer
+xy1-119,Hard Charm,https://images.pokemontcg.io/xy1/119_hires.png,Uncommon,0.170000,0.220000,Trainer
+xy1-120,Max Revive,https://images.pokemontcg.io/xy1/120_hires.png,Uncommon,0.120000,0.210000,Trainer
+xy1-121,Muscle Band,https://images.pokemontcg.io/xy1/121_hires.png,Uncommon,3.540000,3.110000,Trainer
+xy1-122,Professor Sycamore,https://images.pokemontcg.io/xy1/122_hires.png,Uncommon,0.190000,0.170000,Trainer
+xy1-123,Professor's Letter,https://images.pokemontcg.io/xy1/123_hires.png,Uncommon,2.970000,0.310000,Trainer
+xy1-124,Red Card,https://images.pokemontcg.io/xy1/124_hires.png,Uncommon,0.260000,0.250000,Trainer
+xy1-125,Roller Skates,https://images.pokemontcg.io/xy1/125_hires.png,Uncommon,0.080000,0.120000,Trainer
+xy1-126,Shadow Circle,https://images.pokemontcg.io/xy1/126_hires.png,Uncommon,0.130000,0.200000,Trainer
+xy1-127,Shauna,https://images.pokemontcg.io/xy1/127_hires.png,Uncommon,0.090000,0.140000,Trainer
+xy1-128,Super Potion,https://images.pokemontcg.io/xy1/128_hires.png,Uncommon,0.130000,0.200000,Trainer
+xy1-129,Team Flare Grunt,https://images.pokemontcg.io/xy1/129_hires.png,Uncommon,0.470000,0.310000,Trainer
+xy1-130,Double Colorless Energy,https://images.pokemontcg.io/xy1/130_hires.png,Uncommon,0.550000,0.690000,Energy
+xy1-131,Rainbow Energy,https://images.pokemontcg.io/xy1/131_hires.png,Uncommon,0.320000,0.380000,Energy
+xy1-132,Grass Energy,https://images.pokemontcg.io/xy1/132_hires.png,Common,0.060000,0.650000,Energy
+xy1-133,Fire Energy,https://images.pokemontcg.io/xy1/133_hires.png,Common,0.150000,0.800000,Energy
+xy1-134,Water Energy,https://images.pokemontcg.io/xy1/134_hires.png,Common,0.170000,4.440000,Energy
+xy1-135,Lightning Energy,https://images.pokemontcg.io/xy1/135_hires.png,Common,0.130000,0.500000,Energy
+xy1-136,Psychic Energy,https://images.pokemontcg.io/xy1/136_hires.png,Common,0.120000,1.260000,Energy
+xy1-137,Fighting Energy,https://images.pokemontcg.io/xy1/137_hires.png,Common,0.070000,0.510000,Energy
+xy1-138,Darkness Energy,https://images.pokemontcg.io/xy1/138_hires.png,Common,0.110000,0.820000,Energy
+xy1-139,Metal Energy,https://images.pokemontcg.io/xy1/139_hires.png,Common,0.310000,0.860000,Energy
+xy1-140,Fairy Energy,https://images.pokemontcg.io/xy1/140_hires.png,Common,0.260000,1.020000,Energy
+xy1-141,Venusaur-EX,https://images.pokemontcg.io/xy1/141_hires.png,Rare Ultra,48.370000,53.960000,Pokémon
+xy1-142,Blastoise-EX,https://images.pokemontcg.io/xy1/142_hires.png,Rare Ultra,48.330000,81.310000,Pokémon
+xy1-143,Emolga-EX,https://images.pokemontcg.io/xy1/143_hires.png,Rare Ultra,14.350000,13.330000,Pokémon
+xy1-144,Yveltal-EX,https://images.pokemontcg.io/xy1/144_hires.png,Rare Ultra,25.610000,60.300000,Pokémon
+xy1-145,Skarmory-EX,https://images.pokemontcg.io/xy1/145_hires.png,Rare Ultra,13.840000,24.440000,Pokémon
+xy1-146,Xerneas-EX,https://images.pokemontcg.io/xy1/146_hires.png,Rare Ultra,28.720000,69.130000,Pokémon
+",DefaulT,",,,,0,0,

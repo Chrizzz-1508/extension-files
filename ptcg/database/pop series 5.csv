@@ -1,0 +1,19 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+pop5-1,Ho-Oh,https://images.pokemontcg.io/pop5/1_hires.png,Rare,71.990000,17.230000,Pokémon
+pop5-2,Lugia,https://images.pokemontcg.io/pop5/2_hires.png,Rare,44,61.500000,Pokémon
+pop5-3,Mew δ,https://images.pokemontcg.io/pop5/3_hires.png,Rare,296.330000,134.990000,Pokémon
+pop5-4,Double Rainbow Energy,https://images.pokemontcg.io/pop5/4_hires.png,Rare,0,26.250000,Energy
+pop5-5,Charmeleon δ,https://images.pokemontcg.io/pop5/5_hires.png,Uncommon,0,26.060000,Pokémon
+pop5-6,Bill's Maintenance,https://images.pokemontcg.io/pop5/6_hires.png,Uncommon,1.750000,4.380000,Trainer
+pop5-7,Rare Candy,https://images.pokemontcg.io/pop5/7_hires.png,Uncommon,6.500000,12.990000,Trainer
+pop5-8,Boost Energy,https://images.pokemontcg.io/pop5/8_hires.png,Uncommon,1.790000,3.230000,Energy
+pop5-9,δ Rainbow Energy,https://images.pokemontcg.io/pop5/9_hires.png,Uncommon,2.730000,4.110000,Energy
+pop5-10,Charmander δ,https://images.pokemontcg.io/pop5/10_hires.png,Common,6.820000,13,Pokémon
+pop5-11,Meowth δ,https://images.pokemontcg.io/pop5/11_hires.png,Common,2.950000,3.970000,Pokémon
+pop5-12,Pikachu,https://images.pokemontcg.io/pop5/12_hires.png,Common,19.080000,26.330000,Pokémon
+pop5-13,Pikachu δ,https://images.pokemontcg.io/pop5/13_hires.png,Common,13.160000,18.510000,Pokémon
+pop5-14,Pelipper δ,https://images.pokemontcg.io/pop5/14_hires.png,Common,1.400000,1.090000,Pokémon
+pop5-15,Zangoose δ,https://images.pokemontcg.io/pop5/15_hires.png,Common,1.370000,1.680000,Pokémon
+pop5-16,Espeon ★,https://images.pokemontcg.io/pop5/16_hires.png,Rare,3800,0,Pokémon
+pop5-17,Umbreon ★,https://images.pokemontcg.io/pop5/17_hires.png,Rare,3790,0,Pokémon
+",DefaulT,",,,,0,0,

@@ -1,0 +1,19 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+pop1-1,Blaziken,https://images.pokemontcg.io/pop1/1_hires.png,Rare,29.620000,7.810000,Pokémon
+pop1-2,Metagross,https://images.pokemontcg.io/pop1/2_hires.png,Rare,10.620000,3.620000,Pokémon
+pop1-3,Rayquaza,https://images.pokemontcg.io/pop1/3_hires.png,Rare,10.600000,16.060000,Pokémon
+pop1-4,Sceptile,https://images.pokemontcg.io/pop1/4_hires.png,Rare,4.340000,9.220000,Pokémon
+pop1-5,Swampert,https://images.pokemontcg.io/pop1/5_hires.png,Rare,6.870000,5.900000,Pokémon
+pop1-6,Beautifly,https://images.pokemontcg.io/pop1/6_hires.png,Uncommon,2.090000,5.180000,Pokémon
+pop1-7,Masquerain,https://images.pokemontcg.io/pop1/7_hires.png,Uncommon,1.160000,4.050000,Pokémon
+pop1-8,Murkrow,https://images.pokemontcg.io/pop1/8_hires.png,Uncommon,4,5.830000,Pokémon
+pop1-9,Pupitar,https://images.pokemontcg.io/pop1/9_hires.png,Uncommon,1.980000,5.280000,Pokémon
+pop1-10,Torkoal,https://images.pokemontcg.io/pop1/10_hires.png,Uncommon,3.940000,6.200000,Pokémon
+pop1-11,Larvitar,https://images.pokemontcg.io/pop1/11_hires.png,Common,0.280000,0.810000,Pokémon
+pop1-12,Minun,https://images.pokemontcg.io/pop1/12_hires.png,Common,0.420000,1.330000,Pokémon
+pop1-13,Plusle,https://images.pokemontcg.io/pop1/13_hires.png,Common,0.430000,1.010000,Pokémon
+pop1-14,Surskit,https://images.pokemontcg.io/pop1/14_hires.png,Common,0.180000,0.510000,Pokémon
+pop1-15,Swellow,https://images.pokemontcg.io/pop1/15_hires.png,Common,0.190000,0.640000,Pokémon
+pop1-16,Armaldo ex,https://images.pokemontcg.io/pop1/16_hires.png,Rare,31.330000,17.100000,Pokémon
+pop1-17,Tyranitar ex,https://images.pokemontcg.io/pop1/17_hires.png,Rare,22.890000,40.450000,Pokémon
+",DefaulT,",,,,0,0,

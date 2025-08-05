@@ -1,0 +1,82 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+sm75-1,Charmander,https://images.pokemontcg.io/sm75/1_hires.png,Common,1.300000,1.200000,Pokémon
+sm75-2,Charmeleon,https://images.pokemontcg.io/sm75/2_hires.png,Uncommon,1.180000,0.820000,Pokémon
+sm75-3,Charizard,https://images.pokemontcg.io/sm75/3_hires.png,Rare Holo,4.910000,5.410000,Pokémon
+sm75-4,Torchic,https://images.pokemontcg.io/sm75/4_hires.png,Common,0.220000,0.230000,Pokémon
+sm75-5,Combusken,https://images.pokemontcg.io/sm75/5_hires.png,Uncommon,0.260000,0.340000,Pokémon
+sm75-6,Blaziken,https://images.pokemontcg.io/sm75/6_hires.png,Rare Holo,1.460000,1.560000,Pokémon
+sm75-7,Victini ◇,https://images.pokemontcg.io/sm75/7_hires.png,Rare Prism Star,2.630000,2.630000,Pokémon
+sm75-8,Darumaka,https://images.pokemontcg.io/sm75/8_hires.png,Common,0.100000,0.160000,Pokémon
+sm75-9,Darmanitan,https://images.pokemontcg.io/sm75/9_hires.png,Uncommon,0.270000,0.290000,Pokémon
+sm75-10,Heatmor,https://images.pokemontcg.io/sm75/10_hires.png,Uncommon,0.200000,0.170000,Pokémon
+sm75-11,Reshiram-GX,https://images.pokemontcg.io/sm75/11_hires.png,Rare Holo GX,7.360000,5.190000,Pokémon
+sm75-12,Litten,https://images.pokemontcg.io/sm75/12_hires.png,Common,0.110000,0.260000,Pokémon
+sm75-13,Salandit,https://images.pokemontcg.io/sm75/13_hires.png,Common,0.110000,0.280000,Pokémon
+sm75-14,Salazzle,https://images.pokemontcg.io/sm75/14_hires.png,Uncommon,0.250000,0.230000,Pokémon
+sm75-15,Horsea,https://images.pokemontcg.io/sm75/15_hires.png,Common,0.150000,0.200000,Pokémon
+sm75-16,Horsea,https://images.pokemontcg.io/sm75/16_hires.png,Common,0.100000,0.200000,Pokémon
+sm75-17,Seadra,https://images.pokemontcg.io/sm75/17_hires.png,Uncommon,0.290000,0.320000,Pokémon
+sm75-18,Kingdra-GX,https://images.pokemontcg.io/sm75/18_hires.png,Rare Holo GX,5.010000,3,Pokémon
+sm75-19,Magikarp,https://images.pokemontcg.io/sm75/19_hires.png,Common,0.300000,0.380000,Pokémon
+sm75-20,Gyarados,https://images.pokemontcg.io/sm75/20_hires.png,Rare Holo,1.070000,1.480000,Pokémon
+sm75-21,Lapras,https://images.pokemontcg.io/sm75/21_hires.png,Uncommon,0.740000,0.440000,Pokémon
+sm75-22,Totodile,https://images.pokemontcg.io/sm75/22_hires.png,Common,0.230000,0.300000,Pokémon
+sm75-23,Croconaw,https://images.pokemontcg.io/sm75/23_hires.png,Uncommon,0.190000,0.350000,Pokémon
+sm75-24,Feraligatr,https://images.pokemontcg.io/sm75/24_hires.png,Rare Holo,1.120000,0.770000,Pokémon
+sm75-25,Wooper,https://images.pokemontcg.io/sm75/25_hires.png,Common,0.290000,0.650000,Pokémon
+sm75-26,Quagsire,https://images.pokemontcg.io/sm75/26_hires.png,Uncommon,0.780000,0.580000,Pokémon
+sm75-27,Corsola,https://images.pokemontcg.io/sm75/27_hires.png,Common,0.180000,0.220000,Pokémon
+sm75-28,Feebas,https://images.pokemontcg.io/sm75/28_hires.png,Common,0.230000,0.300000,Pokémon
+sm75-29,Milotic,https://images.pokemontcg.io/sm75/29_hires.png,Uncommon,0.360000,0.330000,Pokémon
+sm75-30,Phione,https://images.pokemontcg.io/sm75/30_hires.png,Uncommon,0.270000,0.310000,Pokémon
+sm75-31,Wishiwashi,https://images.pokemontcg.io/sm75/31_hires.png,Common,0.190000,0.200000,Pokémon
+sm75-32,Trapinch,https://images.pokemontcg.io/sm75/32_hires.png,Common,0.130000,0.190000,Pokémon
+sm75-33,Hydreigon,https://images.pokemontcg.io/sm75/33_hires.png,Rare Holo,0.710000,0.520000,Pokémon
+sm75-34,Dratini,https://images.pokemontcg.io/sm75/34_hires.png,Common,0.280000,0.240000,Pokémon
+sm75-35,Dratini,https://images.pokemontcg.io/sm75/35_hires.png,Common,0.170000,0.210000,Pokémon
+sm75-36,Dragonair,https://images.pokemontcg.io/sm75/36_hires.png,Uncommon,0.690000,0.510000,Pokémon
+sm75-37,Dragonite-GX,https://images.pokemontcg.io/sm75/37_hires.png,Rare Holo GX,8.600000,14.490000,Pokémon
+sm75-38,Vibrava,https://images.pokemontcg.io/sm75/38_hires.png,Common,0.100000,0.190000,Pokémon
+sm75-39,Flygon,https://images.pokemontcg.io/sm75/39_hires.png,Uncommon,0.250000,0.340000,Pokémon
+sm75-40,Altaria,https://images.pokemontcg.io/sm75/40_hires.png,Rare Holo,1.070000,0.760000,Pokémon
+sm75-40a,Altaria,https://images.pokemontcg.io/sm75/40a_hires.png,Rare Holo,1.860000,0,Pokémon
+sm75-41,Altaria-GX,https://images.pokemontcg.io/sm75/41_hires.png,Rare Holo GX,3.530000,2.900000,Pokémon
+sm75-42,Bagon,https://images.pokemontcg.io/sm75/42_hires.png,Common,0.210000,0.190000,Pokémon
+sm75-43,Shelgon,https://images.pokemontcg.io/sm75/43_hires.png,Uncommon,0.280000,0.440000,Pokémon
+sm75-44,Salamence-GX,https://images.pokemontcg.io/sm75/44_hires.png,Rare Holo GX,5.270000,5.570000,Pokémon
+sm75-45,Druddigon,https://images.pokemontcg.io/sm75/45_hires.png,Uncommon,0.240000,0.360000,Pokémon
+sm75-46,Zekrom,https://images.pokemontcg.io/sm75/46_hires.png,Rare Holo,1.190000,0.730000,Pokémon
+sm75-47,Kyurem,https://images.pokemontcg.io/sm75/47_hires.png,Rare Holo,0.890000,0.560000,Pokémon
+sm75-48,White Kyurem-GX,https://images.pokemontcg.io/sm75/48_hires.png,Rare Holo GX,6.470000,4.170000,Pokémon
+sm75-49,Zygarde,https://images.pokemontcg.io/sm75/49_hires.png,Uncommon,0.290000,0.340000,Pokémon
+sm75-50,Turtonator,https://images.pokemontcg.io/sm75/50_hires.png,Uncommon,0,0.210000,Pokémon
+sm75-51,Drampa,https://images.pokemontcg.io/sm75/51_hires.png,Uncommon,0.160000,0.270000,Pokémon
+sm75-52,Jangmo-o,https://images.pokemontcg.io/sm75/52_hires.png,Common,0.190000,0.150000,Pokémon
+sm75-53,Hakamo-o,https://images.pokemontcg.io/sm75/53_hires.png,Common,0.240000,0.230000,Pokémon
+sm75-54,Kommo-o,https://images.pokemontcg.io/sm75/54_hires.png,Rare Holo,0.660000,0.720000,Pokémon
+sm75-55,Kangaskhan,https://images.pokemontcg.io/sm75/55_hires.png,Common,0.150000,0.190000,Pokémon
+sm75-56,Swablu,https://images.pokemontcg.io/sm75/56_hires.png,Common,0.210000,0.180000,Pokémon
+sm75-57,Swablu,https://images.pokemontcg.io/sm75/57_hires.png,Common,0.310000,0.330000,Pokémon
+sm75-58,Blaine's Last Stand,https://images.pokemontcg.io/sm75/58_hires.png,Rare Holo,0.270000,0.250000,Trainer
+sm75-59,Dragon Talon,https://images.pokemontcg.io/sm75/59_hires.png,Uncommon,0.260000,0.320000,Trainer
+sm75-60,Fiery Flint,https://images.pokemontcg.io/sm75/60_hires.png,Uncommon,0,0.540000,Trainer
+sm75-60a,Fiery Flint,https://images.pokemontcg.io/sm75/60a_hires.png,Uncommon,0.260000,0,Trainer
+sm75-61,Lance ◇,https://images.pokemontcg.io/sm75/61_hires.png,Rare Prism Star,0.970000,1.780000,Trainer
+sm75-62,Switch Raft,https://images.pokemontcg.io/sm75/62_hires.png,Uncommon,0.440000,2.110000,Trainer
+sm75-63,Wela Volcano Park,https://images.pokemontcg.io/sm75/63_hires.png,Uncommon,0.220000,0.300000,Trainer
+sm75-64,Zinnia,https://images.pokemontcg.io/sm75/64_hires.png,Uncommon,0.240000,0.260000,Trainer
+sm75-65,Reshiram-GX,https://images.pokemontcg.io/sm75/65_hires.png,Rare Ultra,15.980000,26.470000,Pokémon
+sm75-66,Kingdra-GX,https://images.pokemontcg.io/sm75/66_hires.png,Rare Ultra,9.410000,6.030000,Pokémon
+sm75-67,Dragonite-GX,https://images.pokemontcg.io/sm75/67_hires.png,Rare Ultra,36.330000,30.690000,Pokémon
+sm75-68,Altaria-GX,https://images.pokemontcg.io/sm75/68_hires.png,Rare Ultra,10.480000,8.730000,Pokémon
+sm75-69,Blaine's Last Stand,https://images.pokemontcg.io/sm75/69_hires.png,Rare Ultra,19.430000,22.540000,Trainer
+sm75-70,Zinnia,https://images.pokemontcg.io/sm75/70_hires.png,Rare Ultra,54.120000,71.570000,Trainer
+sm75-71,Reshiram-GX,https://images.pokemontcg.io/sm75/71_hires.png,Rare Rainbow,35.150000,61.280000,Pokémon
+sm75-72,Altaria-GX,https://images.pokemontcg.io/sm75/72_hires.png,Rare Rainbow,21.490000,24.650000,Pokémon
+sm75-73,Salamence-GX,https://images.pokemontcg.io/sm75/73_hires.png,Rare Rainbow,19.990000,41.250000,Pokémon
+sm75-74,White Kyurem-GX,https://images.pokemontcg.io/sm75/74_hires.png,Rare Rainbow,42.660000,30.180000,Pokémon
+sm75-75,Dragon Talon,https://images.pokemontcg.io/sm75/75_hires.png,Rare Secret,16.210000,7.840000,Trainer
+sm75-76,Fiery Flint,https://images.pokemontcg.io/sm75/76_hires.png,Rare Secret,20.340000,10.540000,Trainer
+sm75-77,Switch Raft,https://images.pokemontcg.io/sm75/77_hires.png,Rare Secret,13.680000,14.370000,Trainer
+sm75-78,Ultra Necrozma-GX,https://images.pokemontcg.io/sm75/78_hires.png,Rare Secret,118.710000,81.080000,Pokémon
+",DefaulT,",,,,0,0,

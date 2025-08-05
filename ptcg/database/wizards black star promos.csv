@@ -1,0 +1,55 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+basep-1,Pikachu,https://images.pokemontcg.io/basep/1_hires.png,Promo,10.410000,0,Pokémon
+basep-2,Electabuzz,https://images.pokemontcg.io/basep/2_hires.png,Promo,3.250000,5.160000,Pokémon
+basep-3,Mewtwo,https://images.pokemontcg.io/basep/3_hires.png,Promo,14.970000,20.670000,Pokémon
+basep-4,Pikachu,https://images.pokemontcg.io/basep/4_hires.png,Promo,9.040000,16.730000,Pokémon
+basep-5,Dragonite,https://images.pokemontcg.io/basep/5_hires.png,Promo,12.500000,25.710000,Pokémon
+basep-6,Arcanine,https://images.pokemontcg.io/basep/6_hires.png,Promo,9.380000,15.020000,Pokémon
+basep-7,Jigglypuff,https://images.pokemontcg.io/basep/7_hires.png,Promo,6.690000,9.120000,Pokémon
+basep-8,Mew,https://images.pokemontcg.io/basep/8_hires.png,Promo,4.300000,4.530000,Pokémon
+basep-9,Mew,https://images.pokemontcg.io/basep/9_hires.png,Promo,35.190000,53.160000,Pokémon
+basep-10,Meowth,https://images.pokemontcg.io/basep/10_hires.png,Promo,6.770000,26.810000,Pokémon
+basep-11,Eevee,https://images.pokemontcg.io/basep/11_hires.png,Promo,67.540000,33.500000,Pokémon
+basep-12,Mewtwo,https://images.pokemontcg.io/basep/12_hires.png,Promo,96.920000,47.360000,Pokémon
+basep-13,Venusaur,https://images.pokemontcg.io/basep/13_hires.png,Promo,101.860000,124.970000,Pokémon
+basep-14,Mewtwo,https://images.pokemontcg.io/basep/14_hires.png,Promo,4.090000,11.420000,Pokémon
+basep-15,Cool Porygon,https://images.pokemontcg.io/basep/15_hires.png,Promo,29.960000,46.890000,Pokémon
+basep-16,Computer Error,https://images.pokemontcg.io/basep/16_hires.png,Promo,2.570000,3.280000,Trainer
+basep-17,Dark Persian,https://images.pokemontcg.io/basep/17_hires.png,Promo,41.460000,54.530000,Pokémon
+basep-18,Team Rocket's Meowth,https://images.pokemontcg.io/basep/18_hires.png,Promo,19.830000,10.540000,Pokémon
+basep-19,Sabrina's Abra,https://images.pokemontcg.io/basep/19_hires.png,Promo,9.640000,35.290000,Pokémon
+basep-20,Psyduck,https://images.pokemontcg.io/basep/20_hires.png,Promo,22.950000,24.440000,Pokémon
+basep-21,Moltres,https://images.pokemontcg.io/basep/21_hires.png,Promo,8.640000,9.550000,Pokémon
+basep-22,Articuno,https://images.pokemontcg.io/basep/22_hires.png,Promo,8.330000,10.590000,Pokémon
+basep-23,Zapdos,https://images.pokemontcg.io/basep/23_hires.png,Promo,9.070000,10.340000,Pokémon
+basep-24,_____'s Pikachu,https://images.pokemontcg.io/basep/24_hires.png,Promo,126.610000,142.860000,Pokémon
+basep-25,Flying Pikachu,https://images.pokemontcg.io/basep/25_hires.png,Promo,17.200000,43.130000,Pokémon
+basep-26,Pikachu,https://images.pokemontcg.io/basep/26_hires.png,Promo,19.240000,37.320000,Pokémon
+basep-27,Pikachu,https://images.pokemontcg.io/basep/27_hires.png,Promo,10.710000,9.800000,Pokémon
+basep-28,Surfing Pikachu,https://images.pokemontcg.io/basep/28_hires.png,Promo,21.240000,22.430000,Pokémon
+basep-29,Marill,https://images.pokemontcg.io/basep/29_hires.png,Promo,11.320000,3.310000,Pokémon
+basep-30,Togepi,https://images.pokemontcg.io/basep/30_hires.png,Promo,5.620000,6.700000,Pokémon
+basep-31,Cleffa,https://images.pokemontcg.io/basep/31_hires.png,Promo,5.290000,5.950000,Pokémon
+basep-32,Smeargle,https://images.pokemontcg.io/basep/32_hires.png,Promo,5.190000,0,Pokémon
+basep-33,Scizor,https://images.pokemontcg.io/basep/33_hires.png,Promo,7.050000,9.930000,Pokémon
+basep-34,Entei,https://images.pokemontcg.io/basep/34_hires.png,Promo,17.930000,12.440000,Pokémon
+basep-35,Pichu,https://images.pokemontcg.io/basep/35_hires.png,Promo,38.910000,38.800000,Pokémon
+basep-36,Igglybuff,https://images.pokemontcg.io/basep/36_hires.png,Promo,5.840000,6.600000,Pokémon
+basep-37,Hitmontop,https://images.pokemontcg.io/basep/37_hires.png,Promo,8.330000,4.560000,Pokémon
+basep-38,Unown [J],https://images.pokemontcg.io/basep/38_hires.png,Promo,7.710000,16.840000,Pokémon
+basep-39,Misdreavus,https://images.pokemontcg.io/basep/39_hires.png,Promo,5.420000,3.670000,Pokémon
+basep-40,Pokémon Center,https://images.pokemontcg.io/basep/40_hires.png,Promo,493.330000,800.950000,Trainer
+basep-41,Lucky Stadium,https://images.pokemontcg.io/basep/41_hires.png,Promo,533.330000,625.410000,Trainer
+basep-42,Pokémon Tower,https://images.pokemontcg.io/basep/42_hires.png,Promo,9.710000,10.770000,Trainer
+basep-43,Machamp,https://images.pokemontcg.io/basep/43_hires.png,Promo,23.560000,29.130000,Pokémon
+basep-44,Magmar,https://images.pokemontcg.io/basep/44_hires.png,Promo,6.570000,12.670000,Pokémon
+basep-45,Scyther,https://images.pokemontcg.io/basep/45_hires.png,Promo,28.110000,24.980000,Pokémon
+basep-46,Electabuzz,https://images.pokemontcg.io/basep/46_hires.png,Promo,31.310000,19.420000,Pokémon
+basep-47,Mew,https://images.pokemontcg.io/basep/47_hires.png,Promo,96.100000,52.770000,Pokémon
+basep-48,Articuno,https://images.pokemontcg.io/basep/48_hires.png,Promo,24.990000,33.120000,Pokémon
+basep-49,Snorlax,https://images.pokemontcg.io/basep/49_hires.png,Promo,99.710000,108.430000,Pokémon
+basep-50,Celebi,https://images.pokemontcg.io/basep/50_hires.png,Promo,40.980000,30.020000,Pokémon
+basep-51,Rapidash,https://images.pokemontcg.io/basep/51_hires.png,Promo,43.320000,19.290000,Pokémon
+basep-52,Ho-oh,https://images.pokemontcg.io/basep/52_hires.png,Promo,56.140000,24.080000,Pokémon
+basep-53,Suicune,https://images.pokemontcg.io/basep/53_hires.png,Promo,47.990000,30.360000,Pokémon
+",DefaulT,",,,,0,0,

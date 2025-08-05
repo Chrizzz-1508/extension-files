@@ -1,0 +1,202 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+svp-1,Sprigatito,https://images.pokemontcg.io/svp/1_hires.png,Promo,3.190000,4.840000,Pokémon
+svp-2,Fuecoco,https://images.pokemontcg.io/svp/2_hires.png,Promo,2.400000,3.630000,Pokémon
+svp-6,Pawmot,https://images.pokemontcg.io/svp/6_hires.png,Promo,3.580000,1.620000,Pokémon
+svp-10,Espathra,https://images.pokemontcg.io/svp/10_hires.png,Promo,0.750000,0.190000,Pokémon
+svp-7,Hawlucha,https://images.pokemontcg.io/svp/7_hires.png,Promo,3.670000,3.110000,Pokémon
+svp-13,Miraidon,https://images.pokemontcg.io/svp/13_hires.png,Promo,109.310000,4.420000,Pokémon
+svp-8,Revavroom,https://images.pokemontcg.io/svp/8_hires.png,Promo,3.210000,2.380000,Pokémon
+svp-9,Spidops,https://images.pokemontcg.io/svp/9_hires.png,Promo,0.880000,0.280000,Pokémon
+svp-11,Arcanine,https://images.pokemontcg.io/svp/11_hires.png,Promo,0.750000,0.590000,Pokémon
+svp-3,Quaxly,https://images.pokemontcg.io/svp/3_hires.png,Promo,2.020000,1.960000,Pokémon
+svp-5,Quaquaval,https://images.pokemontcg.io/svp/5_hires.png,Promo,2.920000,1.470000,Pokémon
+svp-4,Mimikyu ex,https://images.pokemontcg.io/svp/4_hires.png,Promo,1.010000,0.740000,Pokémon
+svp-14,Koraidon,https://images.pokemontcg.io/svp/14_hires.png,Promo,6.310000,3.890000,Pokémon
+svp-12,Dondozo,https://images.pokemontcg.io/svp/12_hires.png,Promo,0.280000,0.180000,Pokémon
+svp-15,Flaaffy,https://images.pokemontcg.io/svp/15_hires.png,Promo,3.080000,1.690000,Pokémon
+svp-17,Lucario ex,https://images.pokemontcg.io/svp/17_hires.png,Promo,6.430000,6.040000,Pokémon
+svp-16,Ampharos ex,https://images.pokemontcg.io/svp/16_hires.png,Promo,5.630000,4.090000,Pokémon
+svp-18,Cyclizar ex,https://images.pokemontcg.io/svp/18_hires.png,Promo,0.520000,0.480000,Pokémon
+svp-22,Pelipper,https://images.pokemontcg.io/svp/22_hires.png,Promo,2.650000,1.040000,Pokémon
+svp-19,Baxcalibur,https://images.pokemontcg.io/svp/19_hires.png,Promo,2.620000,1.980000,Pokémon
+svp-20,Tinkaton,https://images.pokemontcg.io/svp/20_hires.png,Promo,2.340000,1.710000,Pokémon
+svp-21,Murkrow,https://images.pokemontcg.io/svp/21_hires.png,Promo,2.100000,1.680000,Pokémon
+svp-23,Smoliv,https://images.pokemontcg.io/svp/23_hires.png,Promo,0.440000,0.210000,Pokémon
+svp-25,Tinkatink,https://images.pokemontcg.io/svp/25_hires.png,Promo,0.190000,0.290000,Pokémon
+svp-27,Pikachu,https://images.pokemontcg.io/svp/27_hires.png,Promo,9.960000,10.180000,Pokémon
+svp-29,Koraidon ex,https://images.pokemontcg.io/svp/29_hires.png,Promo,0.860000,0.430000,Pokémon
+svp-24,Growlithe,https://images.pokemontcg.io/svp/24_hires.png,Promo,0.740000,0.310000,Pokémon
+svp-26,Varoom,https://images.pokemontcg.io/svp/26_hires.png,Promo,0.160000,0.310000,Pokémon
+svp-28,Miraidon ex,https://images.pokemontcg.io/svp/28_hires.png,Promo,0.950000,0.620000,Pokémon
+svp-30,Chien-Pao ex,https://images.pokemontcg.io/svp/30_hires.png,Promo,3.780000,4.070000,Pokémon
+svp-31,Tinkaton ex,https://images.pokemontcg.io/svp/31_hires.png,Promo,5.730000,9.200000,Pokémon
+svp-32,Annihilape ex,https://images.pokemontcg.io/svp/32_hires.png,Promo,0.800000,0.600000,Pokémon
+svp-36,Palafin,https://images.pokemontcg.io/svp/36_hires.png,Promo,5,3.330000,Pokémon
+svp-37,Cleffa,https://images.pokemontcg.io/svp/37_hires.png,Promo,10.510000,6.200000,Pokémon
+svp-38,Togekiss,https://images.pokemontcg.io/svp/38_hires.png,Promo,5.220000,1.820000,Pokémon
+svp-39,Mawile,https://images.pokemontcg.io/svp/39_hires.png,Promo,4.840000,2.610000,Pokémon
+svp-40,Pawmi,https://images.pokemontcg.io/svp/40_hires.png,Promo,0.670000,0.400000,Pokémon
+svp-41,Paldean Wooper,https://images.pokemontcg.io/svp/41_hires.png,Promo,0.650000,0.320000,Pokémon
+svp-42,Houndstone,https://images.pokemontcg.io/svp/42_hires.png,Promo,0.230000,0.440000,Pokémon
+svp-43,Eevee,https://images.pokemontcg.io/svp/43_hires.png,Promo,0.780000,1.130000,Pokémon
+svp-44,Charmander,https://images.pokemontcg.io/svp/44_hires.png,Promo,26.370000,24.660000,Pokémon
+svp-45,Paradise Resort,https://images.pokemontcg.io/svp/45_hires.png,Promo,78.560000,600,Trainer
+svp-33,Meowscarada ex,https://images.pokemontcg.io/svp/33_hires.png,Promo,1.020000,0.490000,Pokémon
+svp-34,Skeledirge ex,https://images.pokemontcg.io/svp/34_hires.png,Promo,1.140000,0.590000,Pokémon
+svp-46,Bulbasaur,https://images.pokemontcg.io/svp/46_hires.png,Promo,0.440000,0.490000,Pokémon
+svp-47,Charmander,https://images.pokemontcg.io/svp/47_hires.png,Promo,0.430000,0.440000,Pokémon
+svp-52,Mewtwo,https://images.pokemontcg.io/svp/52_hires.png,Promo,26.600000,24.660000,Pokémon
+svp-48,Squirtle,https://images.pokemontcg.io/svp/48_hires.png,Promo,0.420000,0.470000,Pokémon
+svp-53,Mew ex,https://images.pokemontcg.io/svp/53_hires.png,Promo,45.780000,39.510000,Pokémon
+svp-54,Greninja ex,https://images.pokemontcg.io/svp/54_hires.png,Promo,3.590000,4.190000,Pokémon
+svp-101,Pikachu,https://images.pokemontcg.io/svp/101_hires.png,Promo,28.500000,22.260000,Pokémon
+svp-35,Quaquaval ex,https://images.pokemontcg.io/svp/35_hires.png,Promo,1.060000,0.490000,Pokémon
+svp-50,Alakazam ex,https://images.pokemontcg.io/svp/50_hires.png,Promo,0.750000,0.770000,Pokémon
+svp-55,Kangaskhan ex,https://images.pokemontcg.io/svp/55_hires.png,Promo,8.040000,5.560000,Pokémon
+svp-49,Zapdos ex,https://images.pokemontcg.io/svp/49_hires.png,Promo,0.730000,0.600000,Pokémon
+svp-51,Snorlax,https://images.pokemontcg.io/svp/51_hires.png,Promo,9.160000,8.620000,Pokémon
+svp-57,Chi-Yu,https://images.pokemontcg.io/svp/57_hires.png,Promo,2.970000,1.380000,Pokémon
+svp-61,Pineco,https://images.pokemontcg.io/svp/61_hires.png,Promo,0.230000,0.200000,Pokémon
+svp-59,Xatu,https://images.pokemontcg.io/svp/59_hires.png,Promo,3.110000,1.420000,Pokémon
+svp-62,Sinistea,https://images.pokemontcg.io/svp/62_hires.png,Promo,0.430000,0.280000,Pokémon
+svp-56,Charizard ex,https://images.pokemontcg.io/svp/56_hires.png,Promo,6.950000,7.700000,Pokémon
+svp-58,Iron Bundle,https://images.pokemontcg.io/svp/58_hires.png,Promo,3.550000,2.090000,Pokémon
+svp-60,Aegislash,https://images.pokemontcg.io/svp/60_hires.png,Promo,2.540000,0.790000,Pokémon
+svp-63,Cetitan,https://images.pokemontcg.io/svp/63_hires.png,Promo,0.200000,0.340000,Pokémon
+svp-70,Greavard,https://images.pokemontcg.io/svp/70_hires.png,Promo,0.290000,0.530000,Pokémon
+svp-65,Scream Tail,https://images.pokemontcg.io/svp/65_hires.png,Promo,61.460000,4.950000,Pokémon
+svp-75,Mimikyu,https://images.pokemontcg.io/svp/75_hires.png,Promo,4.020000,6.220000,Pokémon
+svp-67,Roaring Moon ex,https://images.pokemontcg.io/svp/67_hires.png,Promo,1.260000,1.210000,Pokémon
+svp-64,Arctibax,https://images.pokemontcg.io/svp/64_hires.png,Promo,0.210000,0.530000,Pokémon
+svp-68,Iron Valiant ex,https://images.pokemontcg.io/svp/68_hires.png,Promo,0.990000,0.760000,Pokémon
+svp-66,Iron Bundle,https://images.pokemontcg.io/svp/66_hires.png,Promo,2.390000,2.410000,Pokémon
+svp-69,Fidough,https://images.pokemontcg.io/svp/69_hires.png,Promo,0.280000,0.670000,Pokémon
+svp-71,Maschiff,https://images.pokemontcg.io/svp/71_hires.png,Promo,0.260000,0.450000,Pokémon
+svp-85,Pikachu with Grey Felt Hat,https://images.pokemontcg.io/svp/85_hires.png,Promo,295.980000,396.190000,Pokémon
+svp-102,Oddish,https://images.pokemontcg.io/svp/102_hires.png,Promo,6.820000,2.210000,Pokémon
+svp-76,Sprigatito,https://images.pokemontcg.io/svp/76_hires.png,Promo,0.920000,3.340000,Pokémon
+svp-77,Floragato,https://images.pokemontcg.io/svp/77_hires.png,Promo,0.620000,1.230000,Pokémon
+svp-78,Meowscarada ex,https://images.pokemontcg.io/svp/78_hires.png,Promo,1.340000,2.960000,Pokémon
+svp-79,Fuecoco,https://images.pokemontcg.io/svp/79_hires.png,Promo,0.970000,2.400000,Pokémon
+svp-80,Crocalor,https://images.pokemontcg.io/svp/80_hires.png,Promo,0.750000,1.290000,Pokémon
+svp-81,Skeledirge ex,https://images.pokemontcg.io/svp/81_hires.png,Promo,1.190000,2.230000,Pokémon
+svp-82,Quaxly,https://images.pokemontcg.io/svp/82_hires.png,Promo,0.610000,1.140000,Pokémon
+svp-83,Quaxwell,https://images.pokemontcg.io/svp/83_hires.png,Promo,0.530000,0.780000,Pokémon
+svp-84,Quaquaval ex,https://images.pokemontcg.io/svp/84_hires.png,Promo,1.080000,1.580000,Pokémon
+svp-86,Mabosstiff ex,https://images.pokemontcg.io/svp/86_hires.png,Promo,0.800000,0.560000,Pokémon
+svp-87,Sprigatito ex,https://images.pokemontcg.io/svp/87_hires.png,Promo,0.910000,0.650000,Pokémon
+svp-88,Pikachu,https://images.pokemontcg.io/svp/88_hires.png,Promo,13.160000,13.370000,Pokémon
+svp-89,Feraligatr,https://images.pokemontcg.io/svp/89_hires.png,Promo,9.830000,5.680000,Pokémon
+svp-90,Metang,https://images.pokemontcg.io/svp/90_hires.png,Promo,10.980000,2.150000,Pokémon
+svp-91,Koraidon,https://images.pokemontcg.io/svp/91_hires.png,Promo,10.100000,2.320000,Pokémon
+svp-92,Miraidon,https://images.pokemontcg.io/svp/92_hires.png,Promo,5.710000,3.670000,Pokémon
+svp-96,Cyclizar,https://images.pokemontcg.io/svp/96_hires.png,Promo,0.170000,0.240000,Pokémon
+svp-95,Cleffa,https://images.pokemontcg.io/svp/95_hires.png,Promo,0.280000,0.510000,Pokémon
+svp-93,Carvanha,https://images.pokemontcg.io/svp/93_hires.png,Promo,0.660000,0.210000,Pokémon
+svp-94,Bellibolt,https://images.pokemontcg.io/svp/94_hires.png,Promo,0.560000,0.220000,Pokémon
+svp-97,Flutter Mane,https://images.pokemontcg.io/svp/97_hires.png,Promo,26.620000,2.060000,Pokémon
+svp-98,Iron Thorns,https://images.pokemontcg.io/svp/98_hires.png,Promo,39.990000,1.380000,Pokémon
+svp-124,Iono,https://images.pokemontcg.io/svp/124_hires.png,Promo,10.890000,16.130000,Trainer
+svp-72,Great Tusk ex,https://images.pokemontcg.io/svp/72_hires.png,Promo,0.670000,0.790000,Pokémon
+svp-73,Iron Treads ex,https://images.pokemontcg.io/svp/73_hires.png,Promo,0.640000,0.550000,Pokémon
+svp-74,Charizard ex,https://images.pokemontcg.io/svp/74_hires.png,Promo,8.420000,14.510000,Pokémon
+svp-99,Shroodle,https://images.pokemontcg.io/svp/99_hires.png,Promo,0.300000,0.390000,Pokémon
+svp-100,Grafaiai ex,https://images.pokemontcg.io/svp/100_hires.png,Promo,0.630000,0.720000,Pokémon
+svp-103,Houndoom ex,https://images.pokemontcg.io/svp/103_hires.png,Promo,7.670000,3.980000,Pokémon
+svp-104,Melmetal ex,https://images.pokemontcg.io/svp/104_hires.png,Promo,8.030000,3.270000,Pokémon
+svp-105,Armarouge ex,https://images.pokemontcg.io/svp/105_hires.png,Promo,6.840000,0,Pokémon
+svp-106,Pikachu ex,https://images.pokemontcg.io/svp/106_hires.png,Promo,15.400000,0,Pokémon
+svp-107,Mareep,https://images.pokemontcg.io/svp/107_hires.png,Promo,0.630000,0,Pokémon
+svp-108,Flaaffy,https://images.pokemontcg.io/svp/108_hires.png,Promo,0.860000,0,Pokémon
+svp-109,Ampharos,https://images.pokemontcg.io/svp/109_hires.png,Promo,1.450000,0,Pokémon
+svp-110,Darkrai ex,https://images.pokemontcg.io/svp/110_hires.png,Promo,11.190000,0,Pokémon
+svp-111,Pawniard,https://images.pokemontcg.io/svp/111_hires.png,Promo,0.500000,0,Pokémon
+svp-112,Bisharp,https://images.pokemontcg.io/svp/112_hires.png,Promo,0.760000,0,Pokémon
+svp-113,Kingambit,https://images.pokemontcg.io/svp/113_hires.png,Promo,1.270000,0,Pokémon
+svp-114,Picnicker,https://images.pokemontcg.io/svp/114_hires.png,Promo,0.390000,0.310000,Trainer
+svp-115,Thwackey,https://images.pokemontcg.io/svp/115_hires.png,Promo,3.590000,1.610000,Pokémon
+svp-116,Infernape,https://images.pokemontcg.io/svp/116_hires.png,Promo,6.030000,2.320000,Pokémon
+svp-117,Froslass,https://images.pokemontcg.io/svp/117_hires.png,Promo,5.020000,4.190000,Pokémon
+svp-118,Tatsugiri,https://images.pokemontcg.io/svp/118_hires.png,Promo,14.430000,3.040000,Pokémon
+svp-119,Toxel,https://images.pokemontcg.io/svp/119_hires.png,Promo,1.410000,0.330000,Pokémon
+svp-120,Pupitar,https://images.pokemontcg.io/svp/120_hires.png,Promo,1.520000,0.290000,Pokémon
+svp-121,Revavroom,https://images.pokemontcg.io/svp/121_hires.png,Promo,0.150000,0.350000,Pokémon
+svp-122,Snorlax,https://images.pokemontcg.io/svp/122_hires.png,Promo,0.530000,2.330000,Pokémon
+svp-123,Teal Mask Ogerpon,https://images.pokemontcg.io/svp/123_hires.png,Promo,18.750000,0.580000,Pokémon
+svp-125,Armarouge ex,https://images.pokemontcg.io/svp/125_hires.png,Promo,1.400000,0.960000,Pokémon
+svp-126,Palafin ex,https://images.pokemontcg.io/svp/126_hires.png,Promo,0.530000,0.500000,Pokémon
+svp-127,Walking Wake ex,https://images.pokemontcg.io/svp/127_hires.png,Promo,0.590000,0.610000,Pokémon
+svp-128,Iron Leaves ex,https://images.pokemontcg.io/svp/128_hires.png,Promo,0.810000,0.850000,Pokémon
+svp-148,Miraidon,https://images.pokemontcg.io/svp/148_hires.png,Promo,5.960000,6.040000,Pokémon
+svp-130,Kingambit,https://images.pokemontcg.io/svp/130_hires.png,Promo,1.520000,2.340000,Pokémon
+svp-131,Kingdra ex,https://images.pokemontcg.io/svp/131_hires.png,Promo,20.030000,39.750000,Pokémon
+svp-132,Greninja ex,https://images.pokemontcg.io/svp/132_hires.png,Promo,22.220000,44.120000,Pokémon
+svp-129,Pecharunt,https://images.pokemontcg.io/svp/129_hires.png,Promo,30,1.110000,Pokémon
+svp-135,Drifblim,https://images.pokemontcg.io/svp/135_hires.png,Promo,4.190000,2.100000,Pokémon
+svp-134,Crabominable,https://images.pokemontcg.io/svp/134_hires.png,Promo,4.490000,1.810000,Pokémon
+svp-136,Bouffalant,https://images.pokemontcg.io/svp/136_hires.png,Promo,7.080000,3.270000,Pokémon
+svp-133,Ledian,https://images.pokemontcg.io/svp/133_hires.png,Promo,6.730000,1.840000,Pokémon
+svp-137,Horsea,https://images.pokemontcg.io/svp/137_hires.png,Promo,1.570000,0.790000,Pokémon
+svp-139,Latias,https://images.pokemontcg.io/svp/139_hires.png,Promo,0.360000,1.230000,Pokémon
+svp-142,Victini ex,https://images.pokemontcg.io/svp/142_hires.png,Promo,8.290000,10.020000,Pokémon
+svp-140,Tinkaton,https://images.pokemontcg.io/svp/140_hires.png,Promo,0.260000,0.880000,Pokémon
+svp-138,Porygon2,https://images.pokemontcg.io/svp/138_hires.png,Promo,1.650000,1.450000,Pokémon
+svp-141,Noctowl,https://images.pokemontcg.io/svp/141_hires.png,Promo,80.500000,3.440000,Pokémon
+svp-143,Miraidon ex,https://images.pokemontcg.io/svp/143_hires.png,Promo,9.480000,9.100000,Pokémon
+svp-144,Gouging Fire ex,https://images.pokemontcg.io/svp/144_hires.png,Promo,1.370000,0.820000,Pokémon
+svp-145,Raging Bolt ex,https://images.pokemontcg.io/svp/145_hires.png,Promo,3.100000,3.530000,Pokémon
+svp-146,Iron Crown ex,https://images.pokemontcg.io/svp/146_hires.png,Promo,1.100000,0.820000,Pokémon
+svp-147,Iron Boulder ex,https://images.pokemontcg.io/svp/147_hires.png,Promo,0.840000,0.610000,Pokémon
+svp-149,Pecharunt,https://images.pokemontcg.io/svp/149_hires.png,Promo,0.240000,0.720000,Pokémon
+svp-150,Paradise Resort,https://images.pokemontcg.io/svp/150_hires.png,Promo,400,497.490000,Trainer
+svp-151,Gouging Fire,https://images.pokemontcg.io/svp/151_hires.png,Promo,6.860000,3.990000,Pokémon
+svp-152,Chien-Pao,https://images.pokemontcg.io/svp/152_hires.png,Promo,13.200000,3.460000,Pokémon
+svp-153,Magneton,https://images.pokemontcg.io/svp/153_hires.png,Promo,8.310000,3.520000,Pokémon
+svp-154,Indeedee,https://images.pokemontcg.io/svp/154_hires.png,Promo,3.840000,1.800000,Pokémon
+svp-155,Wooper,https://images.pokemontcg.io/svp/155_hires.png,Promo,0.760000,2.540000,Pokémon
+svp-156,Quagsire,https://images.pokemontcg.io/svp/156_hires.png,Promo,0.270000,0.650000,Pokémon
+svp-157,Zapdos,https://images.pokemontcg.io/svp/157_hires.png,Promo,0.340000,0.560000,Pokémon
+svp-158,Pachirisu,https://images.pokemontcg.io/svp/158_hires.png,Promo,0.480000,0.660000,Pokémon
+svp-159,Magneton,https://images.pokemontcg.io/svp/159_hires.png,Promo,76.300000,7.900000,Pokémon
+svp-160,Squawkabilly ex,https://images.pokemontcg.io/svp/160_hires.png,Promo,1.420000,1.100000,Pokémon
+svp-161,Charizard ex,https://images.pokemontcg.io/svp/161_hires.png,Promo,4.990000,2.950000,Pokémon
+svp-162,Houndstone ex,https://images.pokemontcg.io/svp/162_hires.png,Promo,0.520000,0.450000,Pokémon
+svp-163,Cinderace ex,https://images.pokemontcg.io/svp/163_hires.png,Promo,3.350000,2.710000,Pokémon
+svp-164,Lapras ex,https://images.pokemontcg.io/svp/164_hires.png,Promo,4.710000,4.490000,Pokémon
+svp-165,Terapagos ex,https://images.pokemontcg.io/svp/165_hires.png,Promo,4.050000,3.460000,Pokémon
+svp-166,Teal Mask Ogerpon ex,https://images.pokemontcg.io/svp/166_hires.png,Promo,2.890000,2.600000,Pokémon
+svp-167,Flareon,https://images.pokemontcg.io/svp/167_hires.png,Promo,0.370000,0.470000,Pokémon
+svp-168,Vaporeon,https://images.pokemontcg.io/svp/168_hires.png,Promo,0.350000,0.480000,Pokémon
+svp-169,Jolteon,https://images.pokemontcg.io/svp/169_hires.png,Promo,0.450000,0.510000,Pokémon
+svp-170,Leafeon,https://images.pokemontcg.io/svp/170_hires.png,Promo,0.660000,1.360000,Pokémon
+svp-171,Glaceon,https://images.pokemontcg.io/svp/171_hires.png,Promo,0.590000,1.040000,Pokémon
+svp-172,Sylveon,https://images.pokemontcg.io/svp/172_hires.png,Promo,0.680000,2.300000,Pokémon
+svp-173,Eevee,https://images.pokemontcg.io/svp/173_hires.png,Promo,92.610000,7.260000,Pokémon
+svp-174,Eevee ex,https://images.pokemontcg.io/svp/174_hires.png,Promo,18.310000,24.680000,Pokémon
+svp-177,Bloodmoon Ursaluna ex,https://images.pokemontcg.io/svp/177_hires.png,Promo,0.860000,1.420000,Pokémon
+svp-178,Kyogre ex,https://images.pokemontcg.io/svp/178_hires.png,Promo,0.960000,0.960000,Pokémon
+svp-179,Xerneas ex,https://images.pokemontcg.io/svp/179_hires.png,Promo,0.840000,0.700000,Pokémon
+svp-180,Dialga ex,https://images.pokemontcg.io/svp/180_hires.png,Promo,0.880000,0.680000,Pokémon
+svp-181,N's Darmanitan,https://images.pokemontcg.io/svp/181_hires.png,Promo,27.010000,10.750000,Pokémon
+svp-182,Iono's Kilowattrel,https://images.pokemontcg.io/svp/182_hires.png,Promo,15.640000,6.470000,Pokémon
+svp-183,Lillie's Ribombee,https://images.pokemontcg.io/svp/183_hires.png,Promo,18.670000,7.110000,Pokémon
+svp-184,Hop's Snorlax,https://images.pokemontcg.io/svp/184_hires.png,Promo,24.500000,16.260000,Pokémon
+svp-185,Yanma,https://images.pokemontcg.io/svp/185_hires.png,Promo,1.830000,8.820000,Pokémon
+svp-186,Scraggy,https://images.pokemontcg.io/svp/186_hires.png,Promo,2.390000,11.630000,Pokémon
+svp-187,Yanmega,https://images.pokemontcg.io/svp/187_hires.png,Promo,0.220000,0.380000,Pokémon
+svp-188,Scrafty,https://images.pokemontcg.io/svp/188_hires.png,Promo,0.260000,0.510000,Pokémon
+svp-189,N's Zorua,https://images.pokemontcg.io/svp/189_hires.png,Promo,4.480000,3.830000,Pokémon
+svp-193,Hop's Zacian ex,https://images.pokemontcg.io/svp/193_hires.png,Promo,0.600000,0,Pokémon
+svp-194,Iono's Bellibolt ex,https://images.pokemontcg.io/svp/194_hires.png,Promo,3.540000,2.130000,Pokémon
+svp-195,Lillie's Clefairy ex,https://images.pokemontcg.io/svp/195_hires.png,Promo,13.220000,9.270000,Pokémon
+svp-196,Charizard ex,https://images.pokemontcg.io/svp/196_hires.png,Promo,3.820000,0,Pokémon
+svp-197,Koraidon ex,https://images.pokemontcg.io/svp/197_hires.png,Promo,0.710000,0.660000,Pokémon
+svp-198,Zacian ex,https://images.pokemontcg.io/svp/198_hires.png,Promo,0.720000,0.550000,Pokémon
+svp-199,Zarude,https://images.pokemontcg.io/svp/199_hires.png,Promo,1.030000,0,Pokémon
+svp-200,Eevee,https://images.pokemontcg.io/svp/200_hires.png,Promo,3.430000,0,Pokémon
+svp-201,Zebstrika,https://images.pokemontcg.io/svp/201_hires.png,Promo,0.240000,0,Pokémon
+svp-202,Kangaskhan,https://images.pokemontcg.io/svp/202_hires.png,Promo,0.250000,0,Pokémon
+svp-203,Team Rocket's Wobbuffet,https://images.pokemontcg.io/svp/203_hires.png,Promo,4.820000,0,Pokémon
+svp-206,Marnie's Morpeko,https://images.pokemontcg.io/svp/206_hires.png,Promo,19.680000,24.770000,Pokémon
+svp-207,Steven's Beldum,https://images.pokemontcg.io/svp/207_hires.png,Promo,19.600000,16.300000,Pokémon
+",DefaulT,",,,,0,0,

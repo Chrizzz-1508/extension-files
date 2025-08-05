@@ -1,0 +1,12 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+tk1b-1,Electrike,https://images.pokemontcg.io/tk1b/1_hires.png,,0,0,Pokémon
+tk1b-2,Latios,https://images.pokemontcg.io/tk1b/2_hires.png,,0,0,Pokémon
+tk1b-3,Linoone,https://images.pokemontcg.io/tk1b/3_hires.png,,0,0,Pokémon
+tk1b-4,Magnemite,https://images.pokemontcg.io/tk1b/4_hires.png,,0,0,Pokémon
+tk1b-5,Magneton,https://images.pokemontcg.io/tk1b/5_hires.png,,0,0,Pokémon
+tk1b-6,Pikachu,https://images.pokemontcg.io/tk1b/6_hires.png,,0,0,Pokémon
+tk1b-7,Zigzagoon,https://images.pokemontcg.io/tk1b/7_hires.png,,0,0,Pokémon
+tk1b-8,Potion,https://images.pokemontcg.io/tk1b/8_hires.png,,0,0,Trainer
+tk1b-9,Energy Search,https://images.pokemontcg.io/tk1b/9_hires.png,,0,0,Trainer
+tk1b-10,Lightning Energy,https://images.pokemontcg.io/tk1b/10_hires.png,,0,0,Energy
+",DefaulT,",,,,0,0,

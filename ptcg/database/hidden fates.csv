@@ -1,0 +1,71 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+sm115-1,Caterpie,https://images.pokemontcg.io/sm115/1_hires.png,Common,0.030000,0.090000,Pokémon
+sm115-2,Metapod,https://images.pokemontcg.io/sm115/2_hires.png,Uncommon,0.050000,0.110000,Pokémon
+sm115-3,Butterfree,https://images.pokemontcg.io/sm115/3_hires.png,Rare,0.180000,0.200000,Pokémon
+sm115-4,Paras,https://images.pokemontcg.io/sm115/4_hires.png,Common,0.060000,0.080000,Pokémon
+sm115-5,Scyther,https://images.pokemontcg.io/sm115/5_hires.png,Uncommon,0.060000,0.130000,Pokémon
+sm115-6,Pinsir-GX,https://images.pokemontcg.io/sm115/6_hires.png,Rare Holo GX,1.260000,1.060000,Pokémon
+sm115-7,Charmander,https://images.pokemontcg.io/sm115/7_hires.png,Common,0.080000,0.180000,Pokémon
+sm115-8,Charmeleon,https://images.pokemontcg.io/sm115/8_hires.png,Uncommon,0.070000,0.140000,Pokémon
+sm115-9,Charizard-GX,https://images.pokemontcg.io/sm115/9_hires.png,Rare Holo GX,10.950000,5.980000,Pokémon
+sm115-10,Magmar,https://images.pokemontcg.io/sm115/10_hires.png,Uncommon,0.060000,0.100000,Pokémon
+sm115-11,Psyduck,https://images.pokemontcg.io/sm115/11_hires.png,Common,0.090000,0.160000,Pokémon
+sm115-12,Slowpoke,https://images.pokemontcg.io/sm115/12_hires.png,Common,0.060000,0.130000,Pokémon
+sm115-13,Staryu,https://images.pokemontcg.io/sm115/13_hires.png,Common,0.060000,0.050000,Pokémon
+sm115-14,Starmie-GX,https://images.pokemontcg.io/sm115/14_hires.png,Rare Holo GX,1.480000,1.430000,Pokémon
+sm115-15,Magikarp,https://images.pokemontcg.io/sm115/15_hires.png,Common,0.090000,0.160000,Pokémon
+sm115-16,Gyarados-GX,https://images.pokemontcg.io/sm115/16_hires.png,Rare Holo GX,2.730000,3.430000,Pokémon
+sm115-17,Lapras,https://images.pokemontcg.io/sm115/17_hires.png,Rare,0.260000,0.240000,Pokémon
+sm115-18,Vaporeon,https://images.pokemontcg.io/sm115/18_hires.png,Rare Holo,0.750000,0.630000,Pokémon
+sm115-19,Pikachu,https://images.pokemontcg.io/sm115/19_hires.png,Common,0.330000,0.230000,Pokémon
+sm115-20,Raichu-GX,https://images.pokemontcg.io/sm115/20_hires.png,Rare Holo GX,1.860000,1.580000,Pokémon
+sm115-21,Voltorb,https://images.pokemontcg.io/sm115/21_hires.png,Common,0.040000,0.050000,Pokémon
+sm115-22,Electrode,https://images.pokemontcg.io/sm115/22_hires.png,Rare,0.160000,0.160000,Pokémon
+sm115-23,Jolteon,https://images.pokemontcg.io/sm115/23_hires.png,Rare,0.360000,0.380000,Pokémon
+sm115-24,Zapdos,https://images.pokemontcg.io/sm115/24_hires.png,Rare Holo,0.560000,0.460000,Pokémon
+sm115-25,Ekans,https://images.pokemontcg.io/sm115/25_hires.png,Common,0.050000,0.120000,Pokémon
+sm115-26,Ekans,https://images.pokemontcg.io/sm115/26_hires.png,Common,0.060000,0.100000,Pokémon
+sm115-27,Arbok,https://images.pokemontcg.io/sm115/27_hires.png,Rare,0.190000,0.240000,Pokémon
+sm115-28,Koffing,https://images.pokemontcg.io/sm115/28_hires.png,Common,0.050000,0.120000,Pokémon
+sm115-29,Weezing,https://images.pokemontcg.io/sm115/29_hires.png,Rare,0.230000,0.250000,Pokémon
+sm115-30,Jynx,https://images.pokemontcg.io/sm115/30_hires.png,Uncommon,0.070000,0.090000,Pokémon
+sm115-31,Mewtwo-GX,https://images.pokemontcg.io/sm115/31_hires.png,Rare Holo GX,3.980000,3.110000,Pokémon
+sm115-32,Mew,https://images.pokemontcg.io/sm115/32_hires.png,Rare,1.370000,1,Pokémon
+sm115-33,Geodude,https://images.pokemontcg.io/sm115/33_hires.png,Common,0.050000,0.070000,Pokémon
+sm115-34,Graveler,https://images.pokemontcg.io/sm115/34_hires.png,Uncommon,0.060000,0.080000,Pokémon
+sm115-35,Golem,https://images.pokemontcg.io/sm115/35_hires.png,Rare,0.230000,0.200000,Pokémon
+sm115-36,Onix-GX,https://images.pokemontcg.io/sm115/36_hires.png,Rare Holo GX,1.570000,1.320000,Pokémon
+sm115-37,Cubone,https://images.pokemontcg.io/sm115/37_hires.png,Common,0.060000,0.100000,Pokémon
+sm115-38,Clefairy,https://images.pokemontcg.io/sm115/38_hires.png,Common,0.110000,0.170000,Pokémon
+sm115-39,Clefairy,https://images.pokemontcg.io/sm115/39_hires.png,Common,0.110000,0.180000,Pokémon
+sm115-40,Clefable,https://images.pokemontcg.io/sm115/40_hires.png,Rare,0.170000,0.240000,Pokémon
+sm115-41,Jigglypuff,https://images.pokemontcg.io/sm115/41_hires.png,Common,0.060000,0.180000,Pokémon
+sm115-42,Wigglytuff-GX,https://images.pokemontcg.io/sm115/42_hires.png,Rare Holo GX,1.710000,1.930000,Pokémon
+sm115-43,Mr. Mime,https://images.pokemontcg.io/sm115/43_hires.png,Rare,0.210000,0.220000,Pokémon
+sm115-44,Moltres & Zapdos & Articuno-GX,https://images.pokemontcg.io/sm115/44_hires.png,Rare Holo GX,33.250000,34.670000,Pokémon
+sm115-45,Farfetch'd,https://images.pokemontcg.io/sm115/45_hires.png,Uncommon,0.070000,0.090000,Pokémon
+sm115-46,Chansey,https://images.pokemontcg.io/sm115/46_hires.png,Uncommon,0.130000,0.110000,Pokémon
+sm115-47,Kangaskhan,https://images.pokemontcg.io/sm115/47_hires.png,Rare,0.190000,0.180000,Pokémon
+sm115-48,Eevee,https://images.pokemontcg.io/sm115/48_hires.png,Rare Holo,1,1.020000,Pokémon
+sm115-49,Eevee,https://images.pokemontcg.io/sm115/49_hires.png,Common,0.510000,0.190000,Pokémon
+sm115-50,Snorlax,https://images.pokemontcg.io/sm115/50_hires.png,Rare,1.020000,0.550000,Pokémon
+sm115-51,Bill's Analysis,https://images.pokemontcg.io/sm115/51_hires.png,Rare,0.200000,0.170000,Trainer
+sm115-52,Blaine's Last Stand,https://images.pokemontcg.io/sm115/52_hires.png,Rare,0.160000,0.150000,Trainer
+sm115-53,Brock's Grit,https://images.pokemontcg.io/sm115/53_hires.png,Uncommon,0.120000,0.110000,Trainer
+sm115-54,Brock's Pewter City Gym,https://images.pokemontcg.io/sm115/54_hires.png,Uncommon,0.090000,0.090000,Trainer
+sm115-55,Brock's Training,https://images.pokemontcg.io/sm115/55_hires.png,Rare Holo,0.290000,0.260000,Trainer
+sm115-56,Erika's Hospitality,https://images.pokemontcg.io/sm115/56_hires.png,Rare,0.140000,0.230000,Trainer
+sm115-57,Giovanni's Exile,https://images.pokemontcg.io/sm115/57_hires.png,Uncommon,0.080000,0.120000,Trainer
+sm115-58,Jessie & James,https://images.pokemontcg.io/sm115/58_hires.png,Rare Holo,0.550000,1.050000,Trainer
+sm115-59,Koga's Trap,https://images.pokemontcg.io/sm115/59_hires.png,Uncommon,0.080000,0.150000,Trainer
+sm115-60,Lt. Surge's Strategy,https://images.pokemontcg.io/sm115/60_hires.png,Uncommon,0.110000,0.130000,Trainer
+sm115-61,Misty's Cerulean City Gym,https://images.pokemontcg.io/sm115/61_hires.png,Uncommon,0.080000,0.100000,Trainer
+sm115-62,Misty's Determination,https://images.pokemontcg.io/sm115/62_hires.png,Uncommon,0.130000,0.460000,Trainer
+sm115-63,Misty's Water Command,https://images.pokemontcg.io/sm115/63_hires.png,Rare Holo,0.400000,0.690000,Trainer
+sm115-64,Pokémon Center Lady,https://images.pokemontcg.io/sm115/64_hires.png,Uncommon,0.110000,0.140000,Trainer
+sm115-65,Sabrina's Suggestion,https://images.pokemontcg.io/sm115/65_hires.png,Uncommon,0.060000,0.130000,Trainer
+sm115-66,Moltres & Zapdos & Articuno-GX,https://images.pokemontcg.io/sm115/66_hires.png,Rare Ultra,22.380000,41.770000,Pokémon
+sm115-67,Giovanni's Exile,https://images.pokemontcg.io/sm115/67_hires.png,Rare Ultra,7.650000,4.610000,Trainer
+sm115-68,Jessie & James,https://images.pokemontcg.io/sm115/68_hires.png,Rare Ultra,43.710000,47.620000,Trainer
+sm115-69,Moltres & Zapdos & Articuno-GX,https://images.pokemontcg.io/sm115/69_hires.png,Rare Rainbow,20.140000,45.810000,Pokémon
+",DefaulT,",,,,0,0,

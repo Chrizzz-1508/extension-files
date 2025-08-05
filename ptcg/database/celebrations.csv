@@ -1,0 +1,27 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+cel25-1,Ho-Oh,https://images.pokemontcg.io/cel25/1_hires.png,Rare,0.100000,0.170000,Pokémon
+cel25-4,Palkia,https://images.pokemontcg.io/cel25/4_hires.png,Rare,0.080000,0.150000,Pokémon
+cel25-2,Reshiram,https://images.pokemontcg.io/cel25/2_hires.png,Rare,0.100000,0.170000,Pokémon
+cel25-7,Flying Pikachu VMAX,https://images.pokemontcg.io/cel25/7_hires.png,Rare Holo VMAX,2.890000,4.280000,Pokémon
+cel25-3,Kyogre,https://images.pokemontcg.io/cel25/3_hires.png,Rare,0.100000,0.200000,Pokémon
+cel25-12,Xerneas,https://images.pokemontcg.io/cel25/12_hires.png,Rare,0.080000,0.130000,Pokémon
+cel25-8,Surfing Pikachu V,https://images.pokemontcg.io/cel25/8_hires.png,Rare Holo V,1.520000,1.900000,Pokémon
+cel25-14,Cosmoem,https://images.pokemontcg.io/cel25/14_hires.png,Rare,0.080000,0.140000,Pokémon
+cel25-9,Surfing Pikachu VMAX,https://images.pokemontcg.io/cel25/9_hires.png,Rare Holo VMAX,2.870000,3.800000,Pokémon
+cel25-15,Lunala,https://images.pokemontcg.io/cel25/15_hires.png,Rare Holo,0.140000,0.150000,Pokémon
+cel25-10,Zekrom,https://images.pokemontcg.io/cel25/10_hires.png,Rare,0.090000,0.190000,Pokémon
+cel25-17,Groudon,https://images.pokemontcg.io/cel25/17_hires.png,Rare,0.090000,0.200000,Pokémon
+cel25-23,Professor's Research (Professor Oak),https://images.pokemontcg.io/cel25/23_hires.png,Rare Holo,0.150000,0.210000,Trainer
+cel25-21,Solgaleo,https://images.pokemontcg.io/cel25/21_hires.png,Rare Holo,0.130000,0.180000,Pokémon
+cel25-13,Cosmog,https://images.pokemontcg.io/cel25/13_hires.png,Rare,0.090000,0.170000,Pokémon
+cel25-5,Pikachu,https://images.pokemontcg.io/cel25/5_hires.png,Rare Holo,2.980000,6.350000,Pokémon
+cel25-6,Flying Pikachu V,https://images.pokemontcg.io/cel25/6_hires.png,Rare Holo V,1.360000,1.700000,Pokémon
+cel25-11,Mew,https://images.pokemontcg.io/cel25/11_hires.png,Rare Holo,0.470000,1.010000,Pokémon
+cel25-20,Dialga,https://images.pokemontcg.io/cel25/20_hires.png,Rare,0.090000,0.160000,Pokémon
+cel25-22,Lugia,https://images.pokemontcg.io/cel25/22_hires.png,Rare,0.120000,0.240000,Pokémon
+cel25-24,Professor's Research (Professor Oak),https://images.pokemontcg.io/cel25/24_hires.png,Rare Ultra,1.480000,1.510000,Trainer
+cel25-16,Zacian V,https://images.pokemontcg.io/cel25/16_hires.png,Rare Holo V,0.710000,0.590000,Pokémon
+cel25-18,Zamazenta V,https://images.pokemontcg.io/cel25/18_hires.png,Rare Holo V,0.610000,0.680000,Pokémon
+cel25-19,Yveltal,https://images.pokemontcg.io/cel25/19_hires.png,Rare,0.080000,0.170000,Pokémon
+cel25-25,Mew,https://images.pokemontcg.io/cel25/25_hires.png,Rare Holo,48.230000,35.710000,Pokémon
+",DefaulT,",,,,0,0,

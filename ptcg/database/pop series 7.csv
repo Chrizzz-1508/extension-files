@@ -1,0 +1,19 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+pop7-1,Ampharos,https://images.pokemontcg.io/pop7/1_hires.png,Rare,13.450000,7.070000,Pokémon
+pop7-2,Gallade,https://images.pokemontcg.io/pop7/2_hires.png,Rare,6.830000,8.070000,Pokémon
+pop7-3,Latias,https://images.pokemontcg.io/pop7/3_hires.png,Rare,5.980000,9.990000,Pokémon
+pop7-4,Latios,https://images.pokemontcg.io/pop7/4_hires.png,Rare,6.190000,8.120000,Pokémon
+pop7-5,Mothim,https://images.pokemontcg.io/pop7/5_hires.png,Rare,2.490000,0.660000,Pokémon
+pop7-6,Delibird,https://images.pokemontcg.io/pop7/6_hires.png,Uncommon,4.250000,14.330000,Pokémon
+pop7-7,Flaaffy,https://images.pokemontcg.io/pop7/7_hires.png,Uncommon,6.750000,6.060000,Pokémon
+pop7-8,Kirlia,https://images.pokemontcg.io/pop7/8_hires.png,Uncommon,2.980000,5.480000,Pokémon
+pop7-9,Stantler,https://images.pokemontcg.io/pop7/9_hires.png,Uncommon,6.300000,3.660000,Pokémon
+pop7-10,Wormadam Sandy Cloak,https://images.pokemontcg.io/pop7/10_hires.png,Uncommon,4.500000,2.970000,Pokémon
+pop7-11,Burmy Plant Cloak,https://images.pokemontcg.io/pop7/11_hires.png,Common,0.500000,0.790000,Pokémon
+pop7-12,Burmy Sandy Cloak,https://images.pokemontcg.io/pop7/12_hires.png,Common,0.830000,0.510000,Pokémon
+pop7-13,Corsola,https://images.pokemontcg.io/pop7/13_hires.png,Common,0.500000,0.910000,Pokémon
+pop7-14,Mareep,https://images.pokemontcg.io/pop7/14_hires.png,Common,1.130000,1,Pokémon
+pop7-15,Ralts,https://images.pokemontcg.io/pop7/15_hires.png,Common,1.580000,1.180000,Pokémon
+pop7-16,Sentret,https://images.pokemontcg.io/pop7/16_hires.png,Common,0.590000,0.830000,Pokémon
+pop7-17,Spinda,https://images.pokemontcg.io/pop7/17_hires.png,Common,1.480000,1.070000,Pokémon
+",DefaulT,",,,,0,0,

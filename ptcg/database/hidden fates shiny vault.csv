@@ -1,0 +1,96 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+sma-SV1,Scyther,https://images.pokemontcg.io/sma/SV1_hires.png,Rare Shiny,7.340000,4.560000,Pokémon
+sma-SV2,Rowlet,https://images.pokemontcg.io/sma/SV2_hires.png,Rare Shiny,2.520000,2.490000,Pokémon
+sma-SV3,Dartrix,https://images.pokemontcg.io/sma/SV3_hires.png,Rare Shiny,1.970000,1.440000,Pokémon
+sma-SV4,Wimpod,https://images.pokemontcg.io/sma/SV4_hires.png,Rare Shiny,1.490000,1.310000,Pokémon
+sma-SV5,Pheromosa,https://images.pokemontcg.io/sma/SV5_hires.png,Rare Shiny,2.650000,4.420000,Pokémon
+sma-SV6,Charmander,https://images.pokemontcg.io/sma/SV6_hires.png,Rare Shiny,15,14.900000,Pokémon
+sma-SV7,Charmeleon,https://images.pokemontcg.io/sma/SV7_hires.png,Rare Shiny,16.720000,8.600000,Pokémon
+sma-SV8,Alolan Vulpix,https://images.pokemontcg.io/sma/SV8_hires.png,Rare Shiny,3.860000,6.030000,Pokémon
+sma-SV9,Wooper,https://images.pokemontcg.io/sma/SV9_hires.png,Rare Shiny,3.350000,7.530000,Pokémon
+sma-SV10,Quagsire,https://images.pokemontcg.io/sma/SV10_hires.png,Rare Shiny,3.480000,6.550000,Pokémon
+sma-SV11,Froakie,https://images.pokemontcg.io/sma/SV11_hires.png,Rare Shiny,1.940000,2.420000,Pokémon
+sma-SV12,Frogadier,https://images.pokemontcg.io/sma/SV12_hires.png,Rare Shiny,2.260000,2.650000,Pokémon
+sma-SV13,Voltorb,https://images.pokemontcg.io/sma/SV13_hires.png,Rare Shiny,3.290000,2.280000,Pokémon
+sma-SV14,Xurkitree,https://images.pokemontcg.io/sma/SV14_hires.png,Rare Shiny,2.240000,2.290000,Pokémon
+sma-SV15,Seviper,https://images.pokemontcg.io/sma/SV15_hires.png,Rare Shiny,3.400000,1.280000,Pokémon
+sma-SV16,Shuppet,https://images.pokemontcg.io/sma/SV16_hires.png,Rare Shiny,1.980000,1.760000,Pokémon
+sma-SV17,Inkay,https://images.pokemontcg.io/sma/SV17_hires.png,Rare Shiny,2.150000,1.660000,Pokémon
+sma-SV18,Malamar,https://images.pokemontcg.io/sma/SV18_hires.png,Rare Shiny,1.820000,1.650000,Pokémon
+sma-SV19,Poipole,https://images.pokemontcg.io/sma/SV19_hires.png,Rare Shiny,2.510000,2.600000,Pokémon
+sma-SV20,Sudowoodo,https://images.pokemontcg.io/sma/SV20_hires.png,Rare Shiny,1.940000,2.220000,Pokémon
+sma-SV21,Riolu,https://images.pokemontcg.io/sma/SV21_hires.png,Rare Shiny,6.690000,4.460000,Pokémon
+sma-SV22,Lucario,https://images.pokemontcg.io/sma/SV22_hires.png,Rare Shiny,7.510000,9.720000,Pokémon
+sma-SV23,Rockruff,https://images.pokemontcg.io/sma/SV23_hires.png,Rare Shiny,2.250000,2.300000,Pokémon
+sma-SV24,Buzzwole,https://images.pokemontcg.io/sma/SV24_hires.png,Rare Shiny,2.280000,2.360000,Pokémon
+sma-SV25,Zorua,https://images.pokemontcg.io/sma/SV25_hires.png,Rare Shiny,5.990000,7.550000,Pokémon
+sma-SV26,Guzzlord,https://images.pokemontcg.io/sma/SV26_hires.png,Rare Shiny,2.650000,2.500000,Pokémon
+sma-SV27,Magnemite,https://images.pokemontcg.io/sma/SV27_hires.png,Rare Shiny,1.870000,1.660000,Pokémon
+sma-SV28,Magneton,https://images.pokemontcg.io/sma/SV28_hires.png,Rare Shiny,3.110000,2.310000,Pokémon
+sma-SV29,Magnezone,https://images.pokemontcg.io/sma/SV29_hires.png,Rare Shiny,2.220000,2.250000,Pokémon
+sma-SV30,Beldum,https://images.pokemontcg.io/sma/SV30_hires.png,Rare Shiny,1.570000,1.420000,Pokémon
+sma-SV31,Metang,https://images.pokemontcg.io/sma/SV31_hires.png,Rare Shiny,3.140000,2.090000,Pokémon
+sma-SV32,Celesteela,https://images.pokemontcg.io/sma/SV32_hires.png,Rare Shiny,2.510000,2.050000,Pokémon
+sma-SV33,Kartana,https://images.pokemontcg.io/sma/SV33_hires.png,Rare Shiny,1.840000,2.140000,Pokémon
+sma-SV34,Ralts,https://images.pokemontcg.io/sma/SV34_hires.png,Rare Shiny,1.640000,2.370000,Pokémon
+sma-SV35,Kirlia,https://images.pokemontcg.io/sma/SV35_hires.png,Rare Shiny,3.590000,3.170000,Pokémon
+sma-SV36,Diancie,https://images.pokemontcg.io/sma/SV36_hires.png,Rare Shiny,2.210000,2.110000,Pokémon
+sma-SV37,Altaria,https://images.pokemontcg.io/sma/SV37_hires.png,Rare Shiny,5.270000,3.520000,Pokémon
+sma-SV38,Gible,https://images.pokemontcg.io/sma/SV38_hires.png,Rare Shiny,2.030000,2.800000,Pokémon
+sma-SV39,Gabite,https://images.pokemontcg.io/sma/SV39_hires.png,Rare Shiny,2.530000,2.660000,Pokémon
+sma-SV40,Garchomp,https://images.pokemontcg.io/sma/SV40_hires.png,Rare Shiny,5.240000,5.310000,Pokémon
+sma-SV41,Eevee,https://images.pokemontcg.io/sma/SV41_hires.png,Rare Shiny,25.640000,32.140000,Pokémon
+sma-SV42,Swablu,https://images.pokemontcg.io/sma/SV42_hires.png,Rare Shiny,2.570000,2.920000,Pokémon
+sma-SV43,Noibat,https://images.pokemontcg.io/sma/SV43_hires.png,Rare Shiny,2.090000,2.010000,Pokémon
+sma-SV44,Oranguru,https://images.pokemontcg.io/sma/SV44_hires.png,Rare Shiny,2.950000,1.310000,Pokémon
+sma-SV45,Type: Null,https://images.pokemontcg.io/sma/SV45_hires.png,Rare Shiny,2.900000,2.530000,Pokémon
+sma-SV46,Leafeon-GX,https://images.pokemontcg.io/sma/SV46_hires.png,Rare Shiny GX,53.470000,54.140000,Pokémon
+sma-SV47,Decidueye-GX,https://images.pokemontcg.io/sma/SV47_hires.png,Rare Shiny GX,10.030000,13.650000,Pokémon
+sma-SV48,Golisopod-GX,https://images.pokemontcg.io/sma/SV48_hires.png,Rare Shiny GX,7.460000,7.380000,Pokémon
+sma-SV49,Charizard-GX,https://images.pokemontcg.io/sma/SV49_hires.png,Rare Shiny GX,519.570000,523.490000,Pokémon
+sma-SV50,Ho-Oh-GX,https://images.pokemontcg.io/sma/SV50_hires.png,Rare Shiny GX,24.500000,30.020000,Pokémon
+sma-SV51,Reshiram-GX,https://images.pokemontcg.io/sma/SV51_hires.png,Rare Shiny GX,38.720000,52.010000,Pokémon
+sma-SV52,Turtonator-GX,https://images.pokemontcg.io/sma/SV52_hires.png,Rare Shiny GX,5.400000,5.540000,Pokémon
+sma-SV53,Alolan Ninetales-GX,https://images.pokemontcg.io/sma/SV53_hires.png,Rare Shiny GX,24.950000,28.020000,Pokémon
+sma-SV54,Articuno-GX,https://images.pokemontcg.io/sma/SV54_hires.png,Rare Shiny GX,27.210000,31.460000,Pokémon
+sma-SV55,Glaceon-GX,https://images.pokemontcg.io/sma/SV55_hires.png,Rare Shiny GX,42.120000,39.790000,Pokémon
+sma-SV56,Greninja-GX,https://images.pokemontcg.io/sma/SV56_hires.png,Rare Shiny GX,34.090000,57.250000,Pokémon
+sma-SV57,Electrode-GX,https://images.pokemontcg.io/sma/SV57_hires.png,Rare Shiny GX,8.390000,10.730000,Pokémon
+sma-SV58,Xurkitree-GX,https://images.pokemontcg.io/sma/SV58_hires.png,Rare Shiny GX,9.690000,13.920000,Pokémon
+sma-SV59,Mewtwo-GX,https://images.pokemontcg.io/sma/SV59_hires.png,Rare Shiny GX,79.530000,67.950000,Pokémon
+sma-SV60,Espeon-GX,https://images.pokemontcg.io/sma/SV60_hires.png,Rare Shiny GX,89.130000,104.230000,Pokémon
+sma-SV61,Banette-GX,https://images.pokemontcg.io/sma/SV61_hires.png,Rare Shiny GX,5.190000,9.440000,Pokémon
+sma-SV62,Nihilego-GX,https://images.pokemontcg.io/sma/SV62_hires.png,Rare Shiny GX,8.210000,14.840000,Pokémon
+sma-SV63,Naganadel-GX,https://images.pokemontcg.io/sma/SV63_hires.png,Rare Shiny GX,6.620000,8.710000,Pokémon
+sma-SV64,Lucario-GX,https://images.pokemontcg.io/sma/SV64_hires.png,Rare Shiny GX,47.310000,48.160000,Pokémon
+sma-SV65,Zygarde-GX,https://images.pokemontcg.io/sma/SV65_hires.png,Rare Shiny GX,14.390000,20.910000,Pokémon
+sma-SV66,Lycanroc-GX,https://images.pokemontcg.io/sma/SV66_hires.png,Rare Shiny GX,9.530000,10.010000,Pokémon
+sma-SV67,Lycanroc-GX,https://images.pokemontcg.io/sma/SV67_hires.png,Rare Shiny GX,7.890000,12.180000,Pokémon
+sma-SV68,Buzzwole-GX,https://images.pokemontcg.io/sma/SV68_hires.png,Rare Shiny GX,6.370000,8.100000,Pokémon
+sma-SV69,Umbreon-GX,https://images.pokemontcg.io/sma/SV69_hires.png,Rare Shiny GX,214.480000,222.560000,Pokémon
+sma-SV70,Darkrai-GX,https://images.pokemontcg.io/sma/SV70_hires.png,Rare Shiny GX,38.420000,43.410000,Pokémon
+sma-SV71,Guzzlord-GX,https://images.pokemontcg.io/sma/SV71_hires.png,Rare Shiny GX,5.590000,10.290000,Pokémon
+sma-SV72,Scizor-GX,https://images.pokemontcg.io/sma/SV72_hires.png,Rare Shiny GX,27.340000,47.750000,Pokémon
+sma-SV73,Kartana-GX,https://images.pokemontcg.io/sma/SV73_hires.png,Rare Shiny GX,5.680000,7,Pokémon
+sma-SV74,Stakataka-GX,https://images.pokemontcg.io/sma/SV74_hires.png,Rare Shiny GX,8.210000,7.910000,Pokémon
+sma-SV75,Gardevoir-GX,https://images.pokemontcg.io/sma/SV75_hires.png,Rare Shiny GX,34.250000,34.880000,Pokémon
+sma-SV76,Sylveon-GX,https://images.pokemontcg.io/sma/SV76_hires.png,Rare Shiny GX,111.030000,143.920000,Pokémon
+sma-SV77,Altaria-GX,https://images.pokemontcg.io/sma/SV77_hires.png,Rare Shiny GX,14.940000,14.930000,Pokémon
+sma-SV78,Noivern-GX,https://images.pokemontcg.io/sma/SV78_hires.png,Rare Shiny GX,9.380000,10.450000,Pokémon
+sma-SV79,Silvally-GX,https://images.pokemontcg.io/sma/SV79_hires.png,Rare Shiny GX,8.430000,8.970000,Pokémon
+sma-SV80,Drampa-GX,https://images.pokemontcg.io/sma/SV80_hires.png,Rare Shiny GX,4.760000,7.980000,Pokémon
+sma-SV81,Aether Foundation Employee,https://images.pokemontcg.io/sma/SV81_hires.png,Rare Ultra,13.260000,8.950000,Trainer
+sma-SV82,Cynthia,https://images.pokemontcg.io/sma/SV82_hires.png,Rare Ultra,147.420000,162.850000,Trainer
+sma-SV83,Fisherman,https://images.pokemontcg.io/sma/SV83_hires.png,Rare Ultra,6.860000,4.720000,Trainer
+sma-SV84,Guzma,https://images.pokemontcg.io/sma/SV84_hires.png,Rare Ultra,15.910000,22.510000,Trainer
+sma-SV85,Hiker,https://images.pokemontcg.io/sma/SV85_hires.png,Rare Ultra,4.520000,3.070000,Trainer
+sma-SV86,Lady,https://images.pokemontcg.io/sma/SV86_hires.png,Rare Ultra,16.410000,14.570000,Trainer
+sma-SV87,Aether Paradise Conservation Area,https://images.pokemontcg.io/sma/SV87_hires.png,Rare Secret,9.950000,6.680000,Trainer
+sma-SV88,Brooklet Hill,https://images.pokemontcg.io/sma/SV88_hires.png,Rare Secret,14.490000,13.300000,Trainer
+sma-SV89,Mt. Coronet,https://images.pokemontcg.io/sma/SV89_hires.png,Rare Secret,9.480000,8.470000,Trainer
+sma-SV90,Shrine of Punishment,https://images.pokemontcg.io/sma/SV90_hires.png,Rare Secret,8.330000,4.530000,Trainer
+sma-SV91,Tapu Bulu-GX,https://images.pokemontcg.io/sma/SV91_hires.png,Rare Secret,15.310000,10.220000,Pokémon
+sma-SV92,Tapu Fini-GX,https://images.pokemontcg.io/sma/SV92_hires.png,Rare Secret,14.380000,11.130000,Pokémon
+sma-SV93,Tapu Koko-GX,https://images.pokemontcg.io/sma/SV93_hires.png,Rare Secret,19.620000,14.430000,Pokémon
+sma-SV94,Tapu Lele-GX,https://images.pokemontcg.io/sma/SV94_hires.png,Rare Secret,18.510000,14.330000,Pokémon
+",DefaulT,",,,,0,0,

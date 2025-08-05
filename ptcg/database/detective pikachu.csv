@@ -1,0 +1,20 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+det1-1,Bulbasaur,https://images.pokemontcg.io/det1/1_hires.png,Common,0.820000,0.590000,Pokémon
+det1-2,Ludicolo,https://images.pokemontcg.io/det1/2_hires.png,Rare,1.560000,0.710000,Pokémon
+det1-3,Morelull,https://images.pokemontcg.io/det1/3_hires.png,Common,0.220000,0.170000,Pokémon
+det1-4,Charmander,https://images.pokemontcg.io/det1/4_hires.png,Common,0.470000,0.210000,Pokémon
+det1-5,Charizard,https://images.pokemontcg.io/det1/5_hires.png,Rare Ultra,10.860000,8.630000,Pokémon
+det1-6,Arcanine,https://images.pokemontcg.io/det1/6_hires.png,Rare,2.260000,1.810000,Pokémon
+det1-7,Psyduck,https://images.pokemontcg.io/det1/7_hires.png,Common,0.390000,0.250000,Pokémon
+det1-8,Magikarp,https://images.pokemontcg.io/det1/8_hires.png,Common,0.270000,0.300000,Pokémon
+det1-9,Greninja,https://images.pokemontcg.io/det1/9_hires.png,Rare Ultra,5.960000,3.810000,Pokémon
+det1-10,Detective Pikachu,https://images.pokemontcg.io/det1/10_hires.png,Rare,7.580000,4.640000,Pokémon
+det1-11,Mr. Mime,https://images.pokemontcg.io/det1/11_hires.png,Rare,1.820000,1.280000,Pokémon
+det1-12,Mewtwo,https://images.pokemontcg.io/det1/12_hires.png,Rare Ultra,6.100000,4.810000,Pokémon
+det1-13,Machamp,https://images.pokemontcg.io/det1/13_hires.png,Rare,1.450000,1.060000,Pokémon
+det1-14,Jigglypuff,https://images.pokemontcg.io/det1/14_hires.png,Common,0.230000,0.220000,Pokémon
+det1-15,Snubbull,https://images.pokemontcg.io/det1/15_hires.png,Common,0.260000,0.250000,Pokémon
+det1-16,Lickitung,https://images.pokemontcg.io/det1/16_hires.png,Common,0.210000,0.200000,Pokémon
+det1-17,Ditto,https://images.pokemontcg.io/det1/17_hires.png,Rare Ultra,4.750000,3.470000,Pokémon
+det1-18,Slaking,https://images.pokemontcg.io/det1/18_hires.png,Rare,1.710000,0.820000,Pokémon
+",DefaulT,",,,,0,0,

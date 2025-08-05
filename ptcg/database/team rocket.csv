@@ -1,0 +1,85 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+base5-1,Dark Alakazam,https://images.pokemontcg.io/base5/1_hires.png,Rare Holo,62.240000,52.870000,Pokémon
+base5-2,Dark Arbok,https://images.pokemontcg.io/base5/2_hires.png,Rare Holo,10.340000,14.590000,Pokémon
+base5-3,Dark Blastoise,https://images.pokemontcg.io/base5/3_hires.png,Rare Holo,92.430000,124.220000,Pokémon
+base5-4,Dark Charizard,https://images.pokemontcg.io/base5/4_hires.png,Rare Holo,192.210000,264.070000,Pokémon
+base5-5,Dark Dragonite,https://images.pokemontcg.io/base5/5_hires.png,Rare Holo,79.190000,142.650000,Pokémon
+base5-6,Dark Dugtrio,https://images.pokemontcg.io/base5/6_hires.png,Rare Holo,23.060000,31.540000,Pokémon
+base5-7,Dark Golbat,https://images.pokemontcg.io/base5/7_hires.png,Rare Holo,22.420000,24.040000,Pokémon
+base5-8,Dark Gyarados,https://images.pokemontcg.io/base5/8_hires.png,Rare Holo,22.870000,67.840000,Pokémon
+base5-9,Dark Hypno,https://images.pokemontcg.io/base5/9_hires.png,Rare Holo,28.290000,33.830000,Pokémon
+base5-10,Dark Machamp,https://images.pokemontcg.io/base5/10_hires.png,Rare Holo,46.010000,49.560000,Pokémon
+base5-11,Dark Magneton,https://images.pokemontcg.io/base5/11_hires.png,Rare Holo,22.110000,43.590000,Pokémon
+base5-12,Dark Slowbro,https://images.pokemontcg.io/base5/12_hires.png,Rare Holo,32.640000,35.350000,Pokémon
+base5-13,Dark Vileplume,https://images.pokemontcg.io/base5/13_hires.png,Rare Holo,24.550000,28.700000,Pokémon
+base5-14,Dark Weezing,https://images.pokemontcg.io/base5/14_hires.png,Rare Holo,9.410000,7.830000,Pokémon
+base5-15,Here Comes Team Rocket!,https://images.pokemontcg.io/base5/15_hires.png,Rare Holo,32.170000,32.710000,Trainer
+base5-16,Rocket's Sneak Attack,https://images.pokemontcg.io/base5/16_hires.png,Rare Holo,25.310000,20.620000,Trainer
+base5-17,Rainbow Energy,https://images.pokemontcg.io/base5/17_hires.png,Rare Holo,21.330000,24.980000,Energy
+base5-18,Dark Alakazam,https://images.pokemontcg.io/base5/18_hires.png,Rare,11.570000,11.840000,Pokémon
+base5-19,Dark Arbok,https://images.pokemontcg.io/base5/19_hires.png,Rare,9.100000,6.210000,Pokémon
+base5-20,Dark Blastoise,https://images.pokemontcg.io/base5/20_hires.png,Rare,19.320000,26.390000,Pokémon
+base5-21,Dark Charizard,https://images.pokemontcg.io/base5/21_hires.png,Rare,42.030000,57.090000,Pokémon
+base5-22,Dark Dragonite,https://images.pokemontcg.io/base5/22_hires.png,Rare,17.800000,20.380000,Pokémon
+base5-23,Dark Dugtrio,https://images.pokemontcg.io/base5/23_hires.png,Rare,8.670000,6,Pokémon
+base5-24,Dark Golbat,https://images.pokemontcg.io/base5/24_hires.png,Rare,5.240000,6.200000,Pokémon
+base5-25,Dark Gyarados,https://images.pokemontcg.io/base5/25_hires.png,Rare,15.780000,14.220000,Pokémon
+base5-26,Dark Hypno,https://images.pokemontcg.io/base5/26_hires.png,Rare,7.370000,7.160000,Pokémon
+base5-27,Dark Machamp,https://images.pokemontcg.io/base5/27_hires.png,Rare,7.200000,6.380000,Pokémon
+base5-28,Dark Magneton,https://images.pokemontcg.io/base5/28_hires.png,Rare,7.760000,5.730000,Pokémon
+base5-29,Dark Slowbro,https://images.pokemontcg.io/base5/29_hires.png,Rare,7.030000,9.870000,Pokémon
+base5-30,Dark Vileplume,https://images.pokemontcg.io/base5/30_hires.png,Rare,7.690000,6.220000,Pokémon
+base5-31,Dark Weezing,https://images.pokemontcg.io/base5/31_hires.png,Rare,7,5.130000,Pokémon
+base5-32,Dark Charmeleon,https://images.pokemontcg.io/base5/32_hires.png,Uncommon,5.390000,5.190000,Pokémon
+base5-33,Dark Dragonair,https://images.pokemontcg.io/base5/33_hires.png,Uncommon,6.270000,3.860000,Pokémon
+base5-34,Dark Electrode,https://images.pokemontcg.io/base5/34_hires.png,Uncommon,2.070000,1.310000,Pokémon
+base5-35,Dark Flareon,https://images.pokemontcg.io/base5/35_hires.png,Uncommon,7.580000,5.780000,Pokémon
+base5-36,Dark Gloom,https://images.pokemontcg.io/base5/36_hires.png,Uncommon,2.460000,1.150000,Pokémon
+base5-37,Dark Golduck,https://images.pokemontcg.io/base5/37_hires.png,Uncommon,4.320000,1.600000,Pokémon
+base5-38,Dark Jolteon,https://images.pokemontcg.io/base5/38_hires.png,Uncommon,6.420000,6.130000,Pokémon
+base5-39,Dark Kadabra,https://images.pokemontcg.io/base5/39_hires.png,Uncommon,1.850000,1.370000,Pokémon
+base5-40,Dark Machoke,https://images.pokemontcg.io/base5/40_hires.png,Uncommon,3,2.040000,Pokémon
+base5-41,Dark Muk,https://images.pokemontcg.io/base5/41_hires.png,Uncommon,2.040000,1.220000,Pokémon
+base5-42,Dark Persian,https://images.pokemontcg.io/base5/42_hires.png,Uncommon,3.810000,1.590000,Pokémon
+base5-43,Dark Primeape,https://images.pokemontcg.io/base5/43_hires.png,Uncommon,2.860000,1.390000,Pokémon
+base5-44,Dark Rapidash,https://images.pokemontcg.io/base5/44_hires.png,Uncommon,2.800000,1.690000,Pokémon
+base5-45,Dark Vaporeon,https://images.pokemontcg.io/base5/45_hires.png,Uncommon,4.950000,3.460000,Pokémon
+base5-46,Dark Wartortle,https://images.pokemontcg.io/base5/46_hires.png,Uncommon,3.100000,2.130000,Pokémon
+base5-47,Magikarp,https://images.pokemontcg.io/base5/47_hires.png,Uncommon,2.680000,2.100000,Pokémon
+base5-48,Porygon,https://images.pokemontcg.io/base5/48_hires.png,Uncommon,1.890000,1.390000,Pokémon
+base5-49,Abra,https://images.pokemontcg.io/base5/49_hires.png,Common,0.750000,0.520000,Pokémon
+base5-50,Charmander,https://images.pokemontcg.io/base5/50_hires.png,Common,2.400000,1.980000,Pokémon
+base5-51,Dark Raticate,https://images.pokemontcg.io/base5/51_hires.png,Common,1.860000,0.430000,Pokémon
+base5-52,Diglett,https://images.pokemontcg.io/base5/52_hires.png,Common,0.670000,0.440000,Pokémon
+base5-53,Dratini,https://images.pokemontcg.io/base5/53_hires.png,Common,1.180000,0.760000,Pokémon
+base5-54,Drowzee,https://images.pokemontcg.io/base5/54_hires.png,Common,0.560000,0.400000,Pokémon
+base5-55,Eevee,https://images.pokemontcg.io/base5/55_hires.png,Common,2.070000,1.230000,Pokémon
+base5-56,Ekans,https://images.pokemontcg.io/base5/56_hires.png,Common,0.400000,0.360000,Pokémon
+base5-57,Grimer,https://images.pokemontcg.io/base5/57_hires.png,Common,1.010000,0.560000,Pokémon
+base5-58,Koffing,https://images.pokemontcg.io/base5/58_hires.png,Common,0.430000,0.380000,Pokémon
+base5-59,Machop,https://images.pokemontcg.io/base5/59_hires.png,Common,0.590000,0.470000,Pokémon
+base5-60,Magnemite,https://images.pokemontcg.io/base5/60_hires.png,Common,0.910000,0.500000,Pokémon
+base5-61,Mankey,https://images.pokemontcg.io/base5/61_hires.png,Common,0.580000,0.420000,Pokémon
+base5-62,Meowth,https://images.pokemontcg.io/base5/62_hires.png,Common,0.700000,0.460000,Pokémon
+base5-63,Oddish,https://images.pokemontcg.io/base5/63_hires.png,Common,0.530000,0.370000,Pokémon
+base5-64,Ponyta,https://images.pokemontcg.io/base5/64_hires.png,Common,0.570000,0.430000,Pokémon
+base5-65,Psyduck,https://images.pokemontcg.io/base5/65_hires.png,Common,1.190000,0.860000,Pokémon
+base5-66,Rattata,https://images.pokemontcg.io/base5/66_hires.png,Common,0.670000,0.490000,Pokémon
+base5-67,Slowpoke,https://images.pokemontcg.io/base5/67_hires.png,Common,0.780000,0.560000,Pokémon
+base5-68,Squirtle,https://images.pokemontcg.io/base5/68_hires.png,Common,2.650000,1.460000,Pokémon
+base5-69,Voltorb,https://images.pokemontcg.io/base5/69_hires.png,Common,0.840000,0.480000,Pokémon
+base5-70,Zubat,https://images.pokemontcg.io/base5/70_hires.png,Common,0.710000,0.380000,Pokémon
+base5-71,Here Comes Team Rocket!,https://images.pokemontcg.io/base5/71_hires.png,Rare,11.190000,10.830000,Trainer
+base5-72,Rocket's Sneak Attack,https://images.pokemontcg.io/base5/72_hires.png,Rare,9.220000,9.410000,Trainer
+base5-73,The Boss's Way,https://images.pokemontcg.io/base5/73_hires.png,Uncommon,1.290000,0.890000,Trainer
+base5-74,Challenge!,https://images.pokemontcg.io/base5/74_hires.png,Uncommon,1.760000,1.430000,Trainer
+base5-75,Digger,https://images.pokemontcg.io/base5/75_hires.png,Uncommon,1.860000,0.690000,Trainer
+base5-76,Imposter Oak's Revenge,https://images.pokemontcg.io/base5/76_hires.png,Uncommon,1.920000,0.920000,Trainer
+base5-77,Nightly Garbage Run,https://images.pokemontcg.io/base5/77_hires.png,Uncommon,1.550000,1.450000,Trainer
+base5-78,Goop Gas Attack,https://images.pokemontcg.io/base5/78_hires.png,Common,0.480000,0.340000,Trainer
+base5-79,Sleep!,https://images.pokemontcg.io/base5/79_hires.png,Common,0.440000,0.350000,Trainer
+base5-80,Rainbow Energy,https://images.pokemontcg.io/base5/80_hires.png,Rare,9.450000,8.740000,Energy
+base5-81,Full Heal Energy,https://images.pokemontcg.io/base5/81_hires.png,Uncommon,0.840000,0.670000,Energy
+base5-82,Potion Energy,https://images.pokemontcg.io/base5/82_hires.png,Uncommon,1.780000,0.990000,Energy
+base5-83,Dark Raichu,https://images.pokemontcg.io/base5/83_hires.png,Rare Secret,87.510000,87.600000,Pokémon
+",DefaulT,",,,,0,0,

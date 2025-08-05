@@ -1,0 +1,27 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+hsp-HGSS01,Ho-Oh,https://images.pokemontcg.io/hsp/HGSS01_hires.png,Promo,0,19.840000,Pokémon
+hsp-HGSS02,Lugia,https://images.pokemontcg.io/hsp/HGSS02_hires.png,Promo,0,45.480000,Pokémon
+hsp-HGSS03,Pikachu,https://images.pokemontcg.io/hsp/HGSS03_hires.png,Promo,0,5.960000,Pokémon
+hsp-HGSS04,Wobbuffet,https://images.pokemontcg.io/hsp/HGSS04_hires.png,Promo,0,3.530000,Pokémon
+hsp-HGSS05,Hoothoot,https://images.pokemontcg.io/hsp/HGSS05_hires.png,Promo,0,4.760000,Pokémon
+hsp-HGSS06,Noctowl,https://images.pokemontcg.io/hsp/HGSS06_hires.png,Promo,0,4.540000,Pokémon
+hsp-HGSS07,Feraligatr,https://images.pokemontcg.io/hsp/HGSS07_hires.png,Promo,0,19.640000,Pokémon
+hsp-HGSS08,Meganium,https://images.pokemontcg.io/hsp/HGSS08_hires.png,Promo,0,23.330000,Pokémon
+hsp-HGSS09,Typhlosion,https://images.pokemontcg.io/hsp/HGSS09_hires.png,Promo,0,25.780000,Pokémon
+hsp-HGSS10,Latias,https://images.pokemontcg.io/hsp/HGSS10_hires.png,Promo,0,14.780000,Pokémon
+hsp-HGSS11,Latios,https://images.pokemontcg.io/hsp/HGSS11_hires.png,Promo,0,21.930000,Pokémon
+hsp-HGSS12,Cleffa,https://images.pokemontcg.io/hsp/HGSS12_hires.png,Promo,0,17.860000,Pokémon
+hsp-HGSS13,Smoochum,https://images.pokemontcg.io/hsp/HGSS13_hires.png,Promo,0,16.590000,Pokémon
+hsp-HGSS14,Lapras,https://images.pokemontcg.io/hsp/HGSS14_hires.png,Promo,0,17.440000,Pokémon
+hsp-HGSS15,Shuckle,https://images.pokemontcg.io/hsp/HGSS15_hires.png,Promo,0,9.430000,Pokémon
+hsp-HGSS16,Plusle,https://images.pokemontcg.io/hsp/HGSS16_hires.png,Promo,0,9.390000,Pokémon
+hsp-HGSS17,Minun,https://images.pokemontcg.io/hsp/HGSS17_hires.png,Promo,0,6.780000,Pokémon
+hsp-HGSS18,Tropical Tidal Wave,https://images.pokemontcg.io/hsp/HGSS18_hires.png,Promo,0,0,Trainer
+hsp-HGSS19,Raikou,https://images.pokemontcg.io/hsp/HGSS19_hires.png,Promo,0,20.940000,Pokémon
+hsp-HGSS20,Entei,https://images.pokemontcg.io/hsp/HGSS20_hires.png,Promo,0,25.340000,Pokémon
+hsp-HGSS21,Suicune,https://images.pokemontcg.io/hsp/HGSS21_hires.png,Promo,0,32.560000,Pokémon
+hsp-HGSS22,Porygon,https://images.pokemontcg.io/hsp/HGSS22_hires.png,Promo,0,7.170000,Pokémon
+hsp-HGSS23,Porygon2,https://images.pokemontcg.io/hsp/HGSS23_hires.png,Promo,0,6.710000,Pokémon
+hsp-HGSS24,Hitmonchan,https://images.pokemontcg.io/hsp/HGSS24_hires.png,Promo,0,6.690000,Pokémon
+hsp-HGSS25,Hitmonlee,https://images.pokemontcg.io/hsp/HGSS25_hires.png,Promo,0,8.660000,Pokémon
+",DefaulT,",,,,0,0,

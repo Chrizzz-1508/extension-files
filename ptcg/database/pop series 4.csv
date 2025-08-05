@@ -1,0 +1,19 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+pop4-1,Chimecho δ,https://images.pokemontcg.io/pop4/1_hires.png,Rare,226.660000,317,Pokémon
+pop4-2,Deoxys δ,https://images.pokemontcg.io/pop4/2_hires.png,Rare,7.720000,16.020000,Pokémon
+pop4-3,Flygon,https://images.pokemontcg.io/pop4/3_hires.png,Rare,1.420000,12.940000,Pokémon
+pop4-4,Mew,https://images.pokemontcg.io/pop4/4_hires.png,Rare,15,22.900000,Pokémon
+pop4-5,Sceptile,https://images.pokemontcg.io/pop4/5_hires.png,Rare,125,104.320000,Pokémon
+pop4-6,Combusken,https://images.pokemontcg.io/pop4/6_hires.png,Uncommon,1.960000,6.230000,Pokémon
+pop4-7,Grovyle,https://images.pokemontcg.io/pop4/7_hires.png,Uncommon,12.470000,14.120000,Pokémon
+pop4-8,Heal Energy,https://images.pokemontcg.io/pop4/8_hires.png,Uncommon,6.500000,5.720000,Energy
+pop4-9,Pokémon Fan Club,https://images.pokemontcg.io/pop4/9_hires.png,Uncommon,24,88.520000,Trainer
+pop4-10,Scramble Energy,https://images.pokemontcg.io/pop4/10_hires.png,Uncommon,3.710000,4.750000,Energy
+pop4-11,Mudkip,https://images.pokemontcg.io/pop4/11_hires.png,Common,10.100000,6.090000,Pokémon
+pop4-12,Pidgey,https://images.pokemontcg.io/pop4/12_hires.png,Common,12.500000,2.360000,Pokémon
+pop4-13,Pikachu,https://images.pokemontcg.io/pop4/13_hires.png,Common,17.500000,14.700000,Pokémon
+pop4-14,Squirtle,https://images.pokemontcg.io/pop4/14_hires.png,Common,24.690000,22.360000,Pokémon
+pop4-15,Treecko δ,https://images.pokemontcg.io/pop4/15_hires.png,Common,11.400000,2.190000,Pokémon
+pop4-16,Wobbuffet,https://images.pokemontcg.io/pop4/16_hires.png,Common,1.500000,0.770000,Pokémon
+pop4-17,Deoxys ex,https://images.pokemontcg.io/pop4/17_hires.png,Rare,220,0,Pokémon
+",DefaulT,",,,,0,0,

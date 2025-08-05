@@ -1,0 +1,11 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+bp-1,Electabuzz,https://images.pokemontcg.io/bp/1_hires.png,Promo,36.660000,17.490000,Pokémon
+bp-2,Hitmonchan,https://images.pokemontcg.io/bp/2_hires.png,Promo,0,23.880000,Pokémon
+bp-4,Rocket's Scizor,https://images.pokemontcg.io/bp/4_hires.png,Promo,10.950000,31.640000,Pokémon
+bp-3,Professor Elm,https://images.pokemontcg.io/bp/3_hires.png,Promo,11.990000,10.990000,Trainer
+bp-6,Dark Ivysaur,https://images.pokemontcg.io/bp/6_hires.png,Promo,39.990000,20.060000,Pokémon
+bp-5,Rocket's Sneasel,https://images.pokemontcg.io/bp/5_hires.png,Promo,36.980000,7.910000,Pokémon
+bp-7,Dark Venusaur,https://images.pokemontcg.io/bp/7_hires.png,Promo,59.510000,85.030000,Pokémon
+bp-8,Rocket's Mewtwo,https://images.pokemontcg.io/bp/8_hires.png,Promo,150,269.290000,Pokémon
+bp-9,Rocket's Hitmonchan,https://images.pokemontcg.io/bp/9_hires.png,Promo,74.960000,103.710000,Pokémon
+",DefaulT,",,,,0,0,

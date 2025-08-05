@@ -1,0 +1,246 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+sv10-1,Ethan's Pinsir,https://images.pokemontcg.io/sv10/1_hires.png,Uncommon,0.040000,0.070000,Pokémon
+sv10-2,Yanma,https://images.pokemontcg.io/sv10/2_hires.png,Common,0.030000,0.080000,Pokémon
+sv10-3,Yanmega ex,https://images.pokemontcg.io/sv10/3_hires.png,Double Rare,0.760000,0.860000,Pokémon
+sv10-4,Pineco,https://images.pokemontcg.io/sv10/4_hires.png,Common,0.030000,0.090000,Pokémon
+sv10-5,Shroomish,https://images.pokemontcg.io/sv10/5_hires.png,Common,0.040000,0.050000,Pokémon
+sv10-6,Breloom,https://images.pokemontcg.io/sv10/6_hires.png,Common,0.040000,0.100000,Pokémon
+sv10-7,Cynthia's Roselia,https://images.pokemontcg.io/sv10/7_hires.png,Common,0.050000,0.110000,Pokémon
+sv10-8,Cynthia's Roserade,https://images.pokemontcg.io/sv10/8_hires.png,Rare,0.150000,0.240000,Pokémon
+sv10-9,Mow Rotom,https://images.pokemontcg.io/sv10/9_hires.png,Common,0.040000,0.070000,Pokémon
+sv10-10,Shaymin,https://images.pokemontcg.io/sv10/10_hires.png,Uncommon,0.200000,0.480000,Pokémon
+sv10-11,Dwebble,https://images.pokemontcg.io/sv10/11_hires.png,Common,0.060000,0.150000,Pokémon
+sv10-12,Crustle,https://images.pokemontcg.io/sv10/12_hires.png,Rare,0.110000,0.150000,Pokémon
+sv10-13,Fomantis,https://images.pokemontcg.io/sv10/13_hires.png,Common,0.030000,0.070000,Pokémon
+sv10-14,Lurantis,https://images.pokemontcg.io/sv10/14_hires.png,Uncommon,0.040000,0.100000,Pokémon
+sv10-15,Team Rocket's Blipbug,https://images.pokemontcg.io/sv10/15_hires.png,Common,0.030000,0.050000,Pokémon
+sv10-16,Applin,https://images.pokemontcg.io/sv10/16_hires.png,Common,0.040000,0.100000,Pokémon
+sv10-17,Dipplin,https://images.pokemontcg.io/sv10/17_hires.png,Common,0.040000,0.080000,Pokémon
+sv10-18,Hydrapple,https://images.pokemontcg.io/sv10/18_hires.png,Rare,0.070000,0.200000,Pokémon
+sv10-19,Team Rocket's Tarountula,https://images.pokemontcg.io/sv10/19_hires.png,Common,0.060000,0.130000,Pokémon
+sv10-20,Team Rocket's Spidops,https://images.pokemontcg.io/sv10/20_hires.png,Rare,0.130000,0.250000,Pokémon
+sv10-21,Smoliv,https://images.pokemontcg.io/sv10/21_hires.png,Common,0.030000,0.080000,Pokémon
+sv10-22,Dolliv,https://images.pokemontcg.io/sv10/22_hires.png,Common,0.040000,0.070000,Pokémon
+sv10-23,Arboliva ex,https://images.pokemontcg.io/sv10/23_hires.png,Double Rare,0.560000,0.540000,Pokémon
+sv10-24,Rellor,https://images.pokemontcg.io/sv10/24_hires.png,Common,0.030000,0.040000,Pokémon
+sv10-25,Rabsca ex,https://images.pokemontcg.io/sv10/25_hires.png,Double Rare,0.520000,0.560000,Pokémon
+sv10-26,Teal Mask Ogerpon,https://images.pokemontcg.io/sv10/26_hires.png,Uncommon,0.040000,0.090000,Pokémon
+sv10-27,Growlithe,https://images.pokemontcg.io/sv10/27_hires.png,Common,0.040000,0.090000,Pokémon
+sv10-28,Arcanine,https://images.pokemontcg.io/sv10/28_hires.png,Uncommon,0.040000,0.100000,Pokémon
+sv10-29,Ponyta,https://images.pokemontcg.io/sv10/29_hires.png,Common,0.040000,0.100000,Pokémon
+sv10-30,Rapidash,https://images.pokemontcg.io/sv10/30_hires.png,Uncommon,0.030000,0.110000,Pokémon
+sv10-31,Team Rocket's Moltres ex,https://images.pokemontcg.io/sv10/31_hires.png,Double Rare,0.770000,0.900000,Pokémon
+sv10-32,Ethan's Cyndaquil,https://images.pokemontcg.io/sv10/32_hires.png,Common,0.060000,0.130000,Pokémon
+sv10-33,Ethan's Quilava,https://images.pokemontcg.io/sv10/33_hires.png,Common,0.140000,0.310000,Pokémon
+sv10-34,Ethan's Typhlosion,https://images.pokemontcg.io/sv10/34_hires.png,Rare,0.240000,0.440000,Pokémon
+sv10-35,Ethan's Slugma,https://images.pokemontcg.io/sv10/35_hires.png,Common,0.040000,0.080000,Pokémon
+sv10-36,Ethan's Magcargo,https://images.pokemontcg.io/sv10/36_hires.png,Rare,0.090000,0.150000,Pokémon
+sv10-37,Team Rocket's Houndour,https://images.pokemontcg.io/sv10/37_hires.png,Common,0.030000,0.040000,Pokémon
+sv10-38,Team Rocket's Houndoom,https://images.pokemontcg.io/sv10/38_hires.png,Uncommon,0.040000,0.070000,Pokémon
+sv10-39,Ethan's Ho-Oh ex,https://images.pokemontcg.io/sv10/39_hires.png,Double Rare,1.280000,2,Pokémon
+sv10-40,Torchic,https://images.pokemontcg.io/sv10/40_hires.png,Common,0.040000,0.130000,Pokémon
+sv10-41,Combusken,https://images.pokemontcg.io/sv10/41_hires.png,Common,0.050000,0.150000,Pokémon
+sv10-42,Blaziken,https://images.pokemontcg.io/sv10/42_hires.png,Rare,0.080000,0.150000,Pokémon
+sv10-43,Heat Rotom,https://images.pokemontcg.io/sv10/43_hires.png,Common,0.040000,0.080000,Pokémon
+sv10-44,Hearthflame Mask Ogerpon,https://images.pokemontcg.io/sv10/44_hires.png,Uncommon,0.030000,0.090000,Pokémon
+sv10-45,Misty's Psyduck,https://images.pokemontcg.io/sv10/45_hires.png,Uncommon,0.060000,0.140000,Pokémon
+sv10-46,Misty's Staryu,https://images.pokemontcg.io/sv10/46_hires.png,Common,0.030000,0.110000,Pokémon
+sv10-47,Misty's Starmie,https://images.pokemontcg.io/sv10/47_hires.png,Uncommon,0.040000,0.100000,Pokémon
+sv10-48,Misty's Magikarp,https://images.pokemontcg.io/sv10/48_hires.png,Common,0.040000,0.140000,Pokémon
+sv10-49,Misty's Gyarados,https://images.pokemontcg.io/sv10/49_hires.png,Rare,0.110000,0.250000,Pokémon
+sv10-50,Misty's Lapras,https://images.pokemontcg.io/sv10/50_hires.png,Common,0.050000,0.140000,Pokémon
+sv10-51,Team Rocket's Articuno,https://images.pokemontcg.io/sv10/51_hires.png,Rare,0.090000,0.190000,Pokémon
+sv10-52,Cynthia's Feebas,https://images.pokemontcg.io/sv10/52_hires.png,Common,0.050000,0.140000,Pokémon
+sv10-53,Cynthia's Milotic,https://images.pokemontcg.io/sv10/53_hires.png,Uncommon,0.040000,0.090000,Pokémon
+sv10-54,Clamperl,https://images.pokemontcg.io/sv10/54_hires.png,Common,0.040000,0.100000,Pokémon
+sv10-55,Huntail,https://images.pokemontcg.io/sv10/55_hires.png,Uncommon,0.040000,0.080000,Pokémon
+sv10-56,Gorebyss,https://images.pokemontcg.io/sv10/56_hires.png,Rare,0.070000,0.140000,Pokémon
+sv10-57,Buizel,https://images.pokemontcg.io/sv10/57_hires.png,Common,0.040000,0.080000,Pokémon
+sv10-58,Floatzel,https://images.pokemontcg.io/sv10/58_hires.png,Uncommon,0.030000,0.060000,Pokémon
+sv10-59,Snover,https://images.pokemontcg.io/sv10/59_hires.png,Common,0.040000,0.090000,Pokémon
+sv10-60,Abomasnow,https://images.pokemontcg.io/sv10/60_hires.png,Uncommon,0.030000,0.060000,Pokémon
+sv10-61,Wash Rotom,https://images.pokemontcg.io/sv10/61_hires.png,Common,0.040000,0.080000,Pokémon
+sv10-62,Arrokuda,https://images.pokemontcg.io/sv10/62_hires.png,Common,0.040000,0.070000,Pokémon
+sv10-63,Barraskewda,https://images.pokemontcg.io/sv10/63_hires.png,Uncommon,0.030000,0.050000,Pokémon
+sv10-64,Cetoddle,https://images.pokemontcg.io/sv10/64_hires.png,Common,0.030000,0.050000,Pokémon
+sv10-65,Cetitan ex,https://images.pokemontcg.io/sv10/65_hires.png,Double Rare,0.580000,0.550000,Pokémon
+sv10-66,Dondozo ex,https://images.pokemontcg.io/sv10/66_hires.png,Double Rare,0.460000,0.660000,Pokémon
+sv10-67,Wellspring Mask Ogerpon,https://images.pokemontcg.io/sv10/67_hires.png,Uncommon,0.040000,0.090000,Pokémon
+sv10-68,Electabuzz,https://images.pokemontcg.io/sv10/68_hires.png,Common,0.030000,0.040000,Pokémon
+sv10-69,Electivire ex,https://images.pokemontcg.io/sv10/69_hires.png,Double Rare,0.580000,0.660000,Pokémon
+sv10-70,Team Rocket's Zapdos,https://images.pokemontcg.io/sv10/70_hires.png,Rare,0.090000,0.170000,Pokémon
+sv10-71,Ethan's Pichu,https://images.pokemontcg.io/sv10/71_hires.png,Common,0.050000,0.110000,Pokémon
+sv10-72,Team Rocket's Mareep,https://images.pokemontcg.io/sv10/72_hires.png,Common,0.030000,0.140000,Pokémon
+sv10-73,Team Rocket's Flaaffy,https://images.pokemontcg.io/sv10/73_hires.png,Common,0.040000,0.100000,Pokémon
+sv10-74,Team Rocket's Ampharos,https://images.pokemontcg.io/sv10/74_hires.png,Uncommon,0.040000,0.090000,Pokémon
+sv10-75,Electrike,https://images.pokemontcg.io/sv10/75_hires.png,Common,0.040000,0.090000,Pokémon
+sv10-76,Manectric,https://images.pokemontcg.io/sv10/76_hires.png,Uncommon,0.030000,0.060000,Pokémon
+sv10-77,Rotom,https://images.pokemontcg.io/sv10/77_hires.png,Common,0.040000,0.050000,Pokémon
+sv10-78,Zeraora,https://images.pokemontcg.io/sv10/78_hires.png,Rare,0.070000,0.120000,Pokémon
+sv10-79,Team Rocket's Drowzee,https://images.pokemontcg.io/sv10/79_hires.png,Common,0.030000,0.040000,Pokémon
+sv10-80,Team Rocket's Hypno,https://images.pokemontcg.io/sv10/80_hires.png,Uncommon,0.040000,0.070000,Pokémon
+sv10-81,Team Rocket's Mewtwo ex,https://images.pokemontcg.io/sv10/81_hires.png,Double Rare,2.230000,2.430000,Pokémon
+sv10-82,Team Rocket's Wobbuffet,https://images.pokemontcg.io/sv10/82_hires.png,Rare,0.080000,0.130000,Pokémon
+sv10-83,Steven's Baltoy,https://images.pokemontcg.io/sv10/83_hires.png,Common,0.040000,0.060000,Pokémon
+sv10-84,Steven's Claydol,https://images.pokemontcg.io/sv10/84_hires.png,Uncommon,0.040000,0.040000,Pokémon
+sv10-85,Team Rocket's Chingling,https://images.pokemontcg.io/sv10/85_hires.png,Common,0.040000,0.080000,Pokémon
+sv10-86,Steven's Carbink,https://images.pokemontcg.io/sv10/86_hires.png,Common,0.050000,0.080000,Pokémon
+sv10-87,Team Rocket's Mimikyu,https://images.pokemontcg.io/sv10/87_hires.png,Uncommon,0.060000,0.180000,Pokémon
+sv10-88,Team Rocket's Dottler,https://images.pokemontcg.io/sv10/88_hires.png,Common,0.040000,0.090000,Pokémon
+sv10-89,Team Rocket's Orbeetle,https://images.pokemontcg.io/sv10/89_hires.png,Uncommon,0.040000,0.060000,Pokémon
+sv10-90,Mankey,https://images.pokemontcg.io/sv10/90_hires.png,Common,0.030000,0.050000,Pokémon
+sv10-91,Primeape,https://images.pokemontcg.io/sv10/91_hires.png,Common,0.040000,0.090000,Pokémon
+sv10-92,Annihilape,https://images.pokemontcg.io/sv10/92_hires.png,Rare,0.060000,0.130000,Pokémon
+sv10-93,Ethan's Sudowoodo,https://images.pokemontcg.io/sv10/93_hires.png,Common,0.030000,0.070000,Pokémon
+sv10-94,Team Rocket's Larvitar,https://images.pokemontcg.io/sv10/94_hires.png,Common,0.040000,0.060000,Pokémon
+sv10-95,Team Rocket's Pupitar,https://images.pokemontcg.io/sv10/95_hires.png,Common,0.050000,0.090000,Pokémon
+sv10-96,Team Rocket's Tyranitar,https://images.pokemontcg.io/sv10/96_hires.png,Rare,0.090000,0.270000,Pokémon
+sv10-97,Nosepass,https://images.pokemontcg.io/sv10/97_hires.png,Common,0.040000,0.070000,Pokémon
+sv10-98,Probopass,https://images.pokemontcg.io/sv10/98_hires.png,Uncommon,0.050000,0.050000,Pokémon
+sv10-99,Meditite,https://images.pokemontcg.io/sv10/99_hires.png,Common,0.040000,0.040000,Pokémon
+sv10-100,Medicham,https://images.pokemontcg.io/sv10/100_hires.png,Uncommon,0.030000,0.040000,Pokémon
+sv10-101,Regirock ex,https://images.pokemontcg.io/sv10/101_hires.png,Double Rare,0.580000,0.640000,Pokémon
+sv10-102,Cynthia's Gible,https://images.pokemontcg.io/sv10/102_hires.png,Common,0.060000,0.140000,Pokémon
+sv10-103,Cynthia's Gabite,https://images.pokemontcg.io/sv10/103_hires.png,Common,0.250000,0.490000,Pokémon
+sv10-104,Cynthia's Garchomp ex,https://images.pokemontcg.io/sv10/104_hires.png,Double Rare,2,1.680000,Pokémon
+sv10-105,Hippopotas,https://images.pokemontcg.io/sv10/105_hires.png,Common,0.040000,0.070000,Pokémon
+sv10-106,Hippowdon,https://images.pokemontcg.io/sv10/106_hires.png,Uncommon,0.040000,0.060000,Pokémon
+sv10-107,Mudbray,https://images.pokemontcg.io/sv10/107_hires.png,Common,0.040000,0.080000,Pokémon
+sv10-108,Mudsdale,https://images.pokemontcg.io/sv10/108_hires.png,Uncommon,0.030000,0.070000,Pokémon
+sv10-109,Arven's Toedscool,https://images.pokemontcg.io/sv10/109_hires.png,Common,0.030000,0.040000,Pokémon
+sv10-110,Arven's Toedscruel,https://images.pokemontcg.io/sv10/110_hires.png,Uncommon,0.040000,0.070000,Pokémon
+sv10-111,Cornerstone Mask Ogerpon,https://images.pokemontcg.io/sv10/111_hires.png,Uncommon,0.040000,0.100000,Pokémon
+sv10-112,Team Rocket's Ekans,https://images.pokemontcg.io/sv10/112_hires.png,Common,0.040000,0.090000,Pokémon
+sv10-113,Team Rocket's Arbok,https://images.pokemontcg.io/sv10/113_hires.png,Uncommon,0.050000,0.140000,Pokémon
+sv10-114,Team Rocket's Nidoran♀,https://images.pokemontcg.io/sv10/114_hires.png,Common,0.040000,0.080000,Pokémon
+sv10-115,Team Rocket's Nidorina,https://images.pokemontcg.io/sv10/115_hires.png,Common,0.050000,0.140000,Pokémon
+sv10-116,Team Rocket's Nidoqueen,https://images.pokemontcg.io/sv10/116_hires.png,Uncommon,0.040000,0.070000,Pokémon
+sv10-117,Team Rocket's Nidoran♂,https://images.pokemontcg.io/sv10/117_hires.png,Common,0.040000,0.080000,Pokémon
+sv10-118,Team Rocket's Nidorino,https://images.pokemontcg.io/sv10/118_hires.png,Common,0.050000,0.160000,Pokémon
+sv10-119,Team Rocket's Nidoking ex,https://images.pokemontcg.io/sv10/119_hires.png,Double Rare,0.770000,1.540000,Pokémon
+sv10-120,Team Rocket's Zubat,https://images.pokemontcg.io/sv10/120_hires.png,Common,0.040000,0.090000,Pokémon
+sv10-121,Team Rocket's Golbat,https://images.pokemontcg.io/sv10/121_hires.png,Uncommon,0.050000,0.110000,Pokémon
+sv10-122,Team Rocket's Crobat ex,https://images.pokemontcg.io/sv10/122_hires.png,Double Rare,0.760000,0.760000,Pokémon
+sv10-123,Team Rocket's Grimer,https://images.pokemontcg.io/sv10/123_hires.png,Common,0.030000,0.040000,Pokémon
+sv10-124,Team Rocket's Muk,https://images.pokemontcg.io/sv10/124_hires.png,Uncommon,0.040000,0.070000,Pokémon
+sv10-125,Team Rocket's Koffing,https://images.pokemontcg.io/sv10/125_hires.png,Common,0.040000,0.050000,Pokémon
+sv10-126,Team Rocket's Weezing,https://images.pokemontcg.io/sv10/126_hires.png,Uncommon,0.040000,0.080000,Pokémon
+sv10-127,Team Rocket's Murkrow,https://images.pokemontcg.io/sv10/127_hires.png,Uncommon,0.040000,0.080000,Pokémon
+sv10-128,Team Rocket's Sneasel,https://images.pokemontcg.io/sv10/128_hires.png,Rare,0.070000,0.140000,Pokémon
+sv10-129,Cynthia's Spiritomb,https://images.pokemontcg.io/sv10/129_hires.png,Uncommon,0.060000,0.130000,Pokémon
+sv10-130,Marnie's Purrloin,https://images.pokemontcg.io/sv10/130_hires.png,Common,0.050000,0.070000,Pokémon
+sv10-131,Marnie's Liepard,https://images.pokemontcg.io/sv10/131_hires.png,Uncommon,0.040000,0.080000,Pokémon
+sv10-132,Marnie's Scraggy,https://images.pokemontcg.io/sv10/132_hires.png,Common,0.050000,0.090000,Pokémon
+sv10-133,Marnie's Scrafty,https://images.pokemontcg.io/sv10/133_hires.png,Uncommon,0.040000,0.080000,Pokémon
+sv10-134,Marnie's Impidimp,https://images.pokemontcg.io/sv10/134_hires.png,Common,0.070000,0.100000,Pokémon
+sv10-135,Marnie's Morgrem,https://images.pokemontcg.io/sv10/135_hires.png,Uncommon,0.080000,0.140000,Pokémon
+sv10-136,Marnie's Grimmsnarl ex,https://images.pokemontcg.io/sv10/136_hires.png,Double Rare,2.350000,1.790000,Pokémon
+sv10-137,Marnie's Morpeko,https://images.pokemontcg.io/sv10/137_hires.png,Common,0.060000,0.110000,Pokémon
+sv10-138,Arven's Maschiff,https://images.pokemontcg.io/sv10/138_hires.png,Common,0.030000,0.050000,Pokémon
+sv10-139,Arven's Mabosstiff ex,https://images.pokemontcg.io/sv10/139_hires.png,Double Rare,0.540000,0.700000,Pokémon
+sv10-140,Forretress,https://images.pokemontcg.io/sv10/140_hires.png,Uncommon,0.030000,0.050000,Pokémon
+sv10-141,Skarmory,https://images.pokemontcg.io/sv10/141_hires.png,Common,0.040000,0.060000,Pokémon
+sv10-142,Steven's Skarmory,https://images.pokemontcg.io/sv10/142_hires.png,Common,0.040000,0.080000,Pokémon
+sv10-143,Steven's Beldum,https://images.pokemontcg.io/sv10/143_hires.png,Common,0.040000,0.070000,Pokémon
+sv10-144,Steven's Metang,https://images.pokemontcg.io/sv10/144_hires.png,Uncommon,0.040000,0.100000,Pokémon
+sv10-145,Steven's Metagross ex,https://images.pokemontcg.io/sv10/145_hires.png,Double Rare,0.770000,0.630000,Pokémon
+sv10-146,Zamazenta,https://images.pokemontcg.io/sv10/146_hires.png,Rare,0.060000,0.090000,Pokémon
+sv10-147,Team Rocket's Rattata,https://images.pokemontcg.io/sv10/147_hires.png,Common,0.030000,0.060000,Pokémon
+sv10-148,Team Rocket's Raticate,https://images.pokemontcg.io/sv10/148_hires.png,Common,0.040000,0.070000,Pokémon
+sv10-149,Team Rocket's Meowth,https://images.pokemontcg.io/sv10/149_hires.png,Common,0.040000,0.070000,Pokémon
+sv10-150,Team Rocket's Persian ex,https://images.pokemontcg.io/sv10/150_hires.png,Double Rare,0.760000,1.140000,Pokémon
+sv10-151,Kangaskhan,https://images.pokemontcg.io/sv10/151_hires.png,Common,0.040000,0.060000,Pokémon
+sv10-152,Tauros,https://images.pokemontcg.io/sv10/152_hires.png,Common,0.040000,0.070000,Pokémon
+sv10-153,Team Rocket's Porygon,https://images.pokemontcg.io/sv10/153_hires.png,Common,0.040000,0.060000,Pokémon
+sv10-154,Team Rocket's Porygon2,https://images.pokemontcg.io/sv10/154_hires.png,Common,0.050000,0.110000,Pokémon
+sv10-155,Team Rocket's Porygon-Z,https://images.pokemontcg.io/sv10/155_hires.png,Uncommon,0.050000,0.090000,Pokémon
+sv10-156,Taillow,https://images.pokemontcg.io/sv10/156_hires.png,Common,0.040000,0.090000,Pokémon
+sv10-157,Swellow,https://images.pokemontcg.io/sv10/157_hires.png,Common,0.040000,0.070000,Pokémon
+sv10-158,Arven's Skwovet,https://images.pokemontcg.io/sv10/158_hires.png,Common,0.030000,0.050000,Pokémon
+sv10-159,Arven's Greedent,https://images.pokemontcg.io/sv10/159_hires.png,Rare,0.060000,0.120000,Pokémon
+sv10-160,Squawkabilly,https://images.pokemontcg.io/sv10/160_hires.png,Common,0.040000,0.060000,Pokémon
+sv10-161,Arven's Sandwich,https://images.pokemontcg.io/sv10/161_hires.png,Uncommon,0.040000,0.050000,Trainer
+sv10-162,Cynthia's Power Weight,https://images.pokemontcg.io/sv10/162_hires.png,Uncommon,0.090000,0.160000,Trainer
+sv10-163,Emcee's Hype,https://images.pokemontcg.io/sv10/163_hires.png,Common,0.040000,0.100000,Trainer
+sv10-164,Energy Recycler,https://images.pokemontcg.io/sv10/164_hires.png,Uncommon,0.070000,0.150000,Trainer
+sv10-165,Ethan's Adventure,https://images.pokemontcg.io/sv10/165_hires.png,Uncommon,0.120000,0.160000,Trainer
+sv10-166,Granite Cave,https://images.pokemontcg.io/sv10/166_hires.png,Uncommon,0.040000,0.040000,Trainer
+sv10-167,Judge,https://images.pokemontcg.io/sv10/167_hires.png,Uncommon,0.070000,0.130000,Trainer
+sv10-168,Sacred Ash,https://images.pokemontcg.io/sv10/168_hires.png,Uncommon,0.070000,0.150000,Trainer
+sv10-169,Spikemuth Gym,https://images.pokemontcg.io/sv10/169_hires.png,Uncommon,0.110000,0.150000,Trainer
+sv10-170,Team Rocket's Archer,https://images.pokemontcg.io/sv10/170_hires.png,Uncommon,0.090000,0.130000,Trainer
+sv10-171,Team Rocket's Ariana,https://images.pokemontcg.io/sv10/171_hires.png,Uncommon,0.120000,0.200000,Trainer
+sv10-172,Team Rocket's Bother-Bot,https://images.pokemontcg.io/sv10/172_hires.png,Uncommon,0.040000,0.070000,Trainer
+sv10-173,Team Rocket's Factory,https://images.pokemontcg.io/sv10/173_hires.png,Uncommon,0.120000,0.190000,Trainer
+sv10-174,Team Rocket's Giovanni,https://images.pokemontcg.io/sv10/174_hires.png,Uncommon,0.130000,0.200000,Trainer
+sv10-175,Team Rocket's Great Ball,https://images.pokemontcg.io/sv10/175_hires.png,Uncommon,0.080000,0.120000,Trainer
+sv10-176,Team Rocket's Petrel,https://images.pokemontcg.io/sv10/176_hires.png,Uncommon,0.100000,0.190000,Trainer
+sv10-177,Team Rocket's Proton,https://images.pokemontcg.io/sv10/177_hires.png,Uncommon,0.090000,0.180000,Trainer
+sv10-178,Team Rocket's Transceiver,https://images.pokemontcg.io/sv10/178_hires.png,Uncommon,0.150000,0.250000,Trainer
+sv10-179,Team Rocket's Venture Bomb,https://images.pokemontcg.io/sv10/179_hires.png,Uncommon,0.080000,0.190000,Trainer
+sv10-180,Team Rocket's Watchtower,https://images.pokemontcg.io/sv10/180_hires.png,Uncommon,0.170000,0.310000,Trainer
+sv10-181,TM Machine,https://images.pokemontcg.io/sv10/181_hires.png,Uncommon,0.090000,0.180000,Trainer
+sv10-182,Team Rocket's Energy,https://images.pokemontcg.io/sv10/182_hires.png,Uncommon,0.460000,1,Energy
+sv10-183,Yanma,https://images.pokemontcg.io/sv10/183_hires.png,Illustration Rare,6.050000,5.530000,Pokémon
+sv10-184,Cynthia's Roserade,https://images.pokemontcg.io/sv10/184_hires.png,Illustration Rare,15.180000,17,Pokémon
+sv10-185,Shaymin,https://images.pokemontcg.io/sv10/185_hires.png,Illustration Rare,11.360000,14.890000,Pokémon
+sv10-186,Crustle,https://images.pokemontcg.io/sv10/186_hires.png,Illustration Rare,4,5.040000,Pokémon
+sv10-187,Team Rocket's Spidops,https://images.pokemontcg.io/sv10/187_hires.png,Illustration Rare,7.120000,9.260000,Pokémon
+sv10-188,Hydrapple,https://images.pokemontcg.io/sv10/188_hires.png,Illustration Rare,4.550000,5.700000,Pokémon
+sv10-189,Rapidash,https://images.pokemontcg.io/sv10/189_hires.png,Illustration Rare,7.390000,8.850000,Pokémon
+sv10-190,Ethan's Typhlosion,https://images.pokemontcg.io/sv10/190_hires.png,Illustration Rare,26.850000,37.100000,Pokémon
+sv10-191,Team Rocket's Houndoom,https://images.pokemontcg.io/sv10/191_hires.png,Illustration Rare,16.370000,20.710000,Pokémon
+sv10-192,Blaziken,https://images.pokemontcg.io/sv10/192_hires.png,Illustration Rare,11.810000,15.260000,Pokémon
+sv10-193,Misty's Psyduck,https://images.pokemontcg.io/sv10/193_hires.png,Illustration Rare,43.360000,56.240000,Pokémon
+sv10-194,Misty's Lapras,https://images.pokemontcg.io/sv10/194_hires.png,Illustration Rare,22.660000,31.130000,Pokémon
+sv10-195,Clamperl,https://images.pokemontcg.io/sv10/195_hires.png,Illustration Rare,4.490000,5,Pokémon
+sv10-196,Electrike,https://images.pokemontcg.io/sv10/196_hires.png,Illustration Rare,4.640000,4.220000,Pokémon
+sv10-197,Rotom,https://images.pokemontcg.io/sv10/197_hires.png,Illustration Rare,4.110000,4.770000,Pokémon
+sv10-198,Team Rocket's Orbeetle,https://images.pokemontcg.io/sv10/198_hires.png,Illustration Rare,5.060000,5.480000,Pokémon
+sv10-199,Team Rocket's Weezing,https://images.pokemontcg.io/sv10/199_hires.png,Illustration Rare,9.920000,11.840000,Pokémon
+sv10-200,Team Rocket's Murkrow,https://images.pokemontcg.io/sv10/200_hires.png,Illustration Rare,9.810000,10.560000,Pokémon
+sv10-201,Zamazenta,https://images.pokemontcg.io/sv10/201_hires.png,Illustration Rare,5.670000,4.930000,Pokémon
+sv10-202,Team Rocket's Raticate,https://images.pokemontcg.io/sv10/202_hires.png,Illustration Rare,8.530000,9.520000,Pokémon
+sv10-203,Team Rocket's Meowth,https://images.pokemontcg.io/sv10/203_hires.png,Illustration Rare,22.480000,26.370000,Pokémon
+sv10-204,Kangaskhan,https://images.pokemontcg.io/sv10/204_hires.png,Illustration Rare,9.160000,9.870000,Pokémon
+sv10-205,Arven's Greedent,https://images.pokemontcg.io/sv10/205_hires.png,Illustration Rare,4.860000,5.120000,Pokémon
+sv10-206,Yanmega ex,https://images.pokemontcg.io/sv10/206_hires.png,Ultra Rare,3.010000,3.780000,Pokémon
+sv10-207,Arboliva ex,https://images.pokemontcg.io/sv10/207_hires.png,Ultra Rare,2.990000,2.910000,Pokémon
+sv10-208,Team Rocket's Moltres ex,https://images.pokemontcg.io/sv10/208_hires.png,Ultra Rare,8.720000,8.740000,Pokémon
+sv10-209,Ethan's Ho-Oh ex,https://images.pokemontcg.io/sv10/209_hires.png,Ultra Rare,8.980000,9.020000,Pokémon
+sv10-210,Cetitan ex,https://images.pokemontcg.io/sv10/210_hires.png,Ultra Rare,3.870000,3.460000,Pokémon
+sv10-211,Dondozo ex,https://images.pokemontcg.io/sv10/211_hires.png,Ultra Rare,2.240000,2.340000,Pokémon
+sv10-212,Electivire ex,https://images.pokemontcg.io/sv10/212_hires.png,Ultra Rare,3,2.640000,Pokémon
+sv10-213,Team Rocket's Mewtwo ex,https://images.pokemontcg.io/sv10/213_hires.png,Ultra Rare,19.310000,22.660000,Pokémon
+sv10-214,Regirock ex,https://images.pokemontcg.io/sv10/214_hires.png,Ultra Rare,2.830000,2.060000,Pokémon
+sv10-215,Cynthia's Garchomp ex,https://images.pokemontcg.io/sv10/215_hires.png,Ultra Rare,9.250000,8.790000,Pokémon
+sv10-216,Team Rocket's Nidoking ex,https://images.pokemontcg.io/sv10/216_hires.png,Ultra Rare,7.280000,7.290000,Pokémon
+sv10-217,Team Rocket's Crobat ex,https://images.pokemontcg.io/sv10/217_hires.png,Ultra Rare,5.660000,4.220000,Pokémon
+sv10-218,Arven's Mabosstiff ex,https://images.pokemontcg.io/sv10/218_hires.png,Ultra Rare,3.250000,3.270000,Pokémon
+sv10-219,Team Rocket's Persian ex,https://images.pokemontcg.io/sv10/219_hires.png,Ultra Rare,7.200000,7.440000,Pokémon
+sv10-220,Emcee's Hype,https://images.pokemontcg.io/sv10/220_hires.png,Ultra Rare,4.770000,6.800000,Trainer
+sv10-221,Ethan's Adventure,https://images.pokemontcg.io/sv10/221_hires.png,Ultra Rare,6.790000,8.950000,Trainer
+sv10-222,Judge,https://images.pokemontcg.io/sv10/222_hires.png,Ultra Rare,3.800000,3.100000,Trainer
+sv10-223,Team Rocket's Archer,https://images.pokemontcg.io/sv10/223_hires.png,Ultra Rare,5.500000,5.860000,Trainer
+sv10-224,Team Rocket's Ariana,https://images.pokemontcg.io/sv10/224_hires.png,Ultra Rare,6.870000,7.210000,Trainer
+sv10-225,Team Rocket's Giovanni,https://images.pokemontcg.io/sv10/225_hires.png,Ultra Rare,10.150000,9.280000,Trainer
+sv10-226,Team Rocket's Petrel,https://images.pokemontcg.io/sv10/226_hires.png,Ultra Rare,5.560000,6.650000,Trainer
+sv10-227,Team Rocket's Proton,https://images.pokemontcg.io/sv10/227_hires.png,Ultra Rare,6.300000,6.230000,Trainer
+sv10-228,Yanmega ex,https://images.pokemontcg.io/sv10/228_hires.png,Special Illustration Rare,31.600000,38.180000,Pokémon
+sv10-229,Team Rocket's Moltres ex,https://images.pokemontcg.io/sv10/229_hires.png,Special Illustration Rare,167.880000,155.890000,Pokémon
+sv10-230,Ethan's Ho-Oh ex,https://images.pokemontcg.io/sv10/230_hires.png,Special Illustration Rare,166.910000,147.270000,Pokémon
+sv10-231,Team Rocket's Mewtwo ex,https://images.pokemontcg.io/sv10/231_hires.png,Special Illustration Rare,340.390000,350.370000,Pokémon
+sv10-232,Cynthia's Garchomp ex,https://images.pokemontcg.io/sv10/232_hires.png,Special Illustration Rare,180.160000,201.730000,Pokémon
+sv10-233,Team Rocket's Nidoking ex,https://images.pokemontcg.io/sv10/233_hires.png,Special Illustration Rare,97.490000,104.080000,Pokémon
+sv10-234,Team Rocket's Crobat ex,https://images.pokemontcg.io/sv10/234_hires.png,Special Illustration Rare,67.470000,74.750000,Pokémon
+sv10-235,Arven's Mabosstiff ex,https://images.pokemontcg.io/sv10/235_hires.png,Special Illustration Rare,29.910000,32.050000,Pokémon
+sv10-236,Ethan's Adventure,https://images.pokemontcg.io/sv10/236_hires.png,Special Illustration Rare,49.940000,51.590000,Trainer
+sv10-237,Team Rocket's Ariana,https://images.pokemontcg.io/sv10/237_hires.png,Special Illustration Rare,29.920000,40.510000,Trainer
+sv10-238,Team Rocket's Giovanni,https://images.pokemontcg.io/sv10/238_hires.png,Special Illustration Rare,37.170000,52.250000,Trainer
+sv10-239,Ethan's Ho-Oh ex,https://images.pokemontcg.io/sv10/239_hires.png,Hyper Rare,31.300000,32.270000,Pokémon
+sv10-240,Team Rocket's Mewtwo ex,https://images.pokemontcg.io/sv10/240_hires.png,Hyper Rare,51.040000,63.640000,Pokémon
+sv10-241,Cynthia's Garchomp ex,https://images.pokemontcg.io/sv10/241_hires.png,Hyper Rare,32.750000,47.950000,Pokémon
+sv10-242,Team Rocket's Crobat ex,https://images.pokemontcg.io/sv10/242_hires.png,Hyper Rare,23.240000,22.400000,Pokémon
+sv10-243,Jamming Tower,https://images.pokemontcg.io/sv10/243_hires.png,Hyper Rare,21.210000,25.720000,Trainer
+sv10-244,Levincia,https://images.pokemontcg.io/sv10/244_hires.png,Hyper Rare,17.410000,20.330000,Trainer
+",DefaulT,",,,,0,0,

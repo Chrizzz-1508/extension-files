@@ -1,0 +1,64 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+base3-1,Aerodactyl,https://images.pokemontcg.io/base3/1_hires.png,Rare Holo,28.220000,24.240000,Pokémon
+base3-2,Articuno,https://images.pokemontcg.io/base3/2_hires.png,Rare Holo,40.940000,52.260000,Pokémon
+base3-3,Ditto,https://images.pokemontcg.io/base3/3_hires.png,Rare Holo,24.470000,30.950000,Pokémon
+base3-4,Dragonite,https://images.pokemontcg.io/base3/4_hires.png,Rare Holo,87.210000,114.380000,Pokémon
+base3-5,Gengar,https://images.pokemontcg.io/base3/5_hires.png,Rare Holo,64,113.040000,Pokémon
+base3-6,Haunter,https://images.pokemontcg.io/base3/6_hires.png,Rare Holo,37.920000,40.070000,Pokémon
+base3-7,Hitmonlee,https://images.pokemontcg.io/base3/7_hires.png,Rare Holo,23.820000,25.570000,Pokémon
+base3-8,Hypno,https://images.pokemontcg.io/base3/8_hires.png,Rare Holo,22.620000,21.120000,Pokémon
+base3-9,Kabutops,https://images.pokemontcg.io/base3/9_hires.png,Rare Holo,25.850000,26.140000,Pokémon
+base3-10,Lapras,https://images.pokemontcg.io/base3/10_hires.png,Rare Holo,14.320000,20.050000,Pokémon
+base3-11,Magneton,https://images.pokemontcg.io/base3/11_hires.png,Rare Holo,20.340000,14.320000,Pokémon
+base3-12,Moltres,https://images.pokemontcg.io/base3/12_hires.png,Rare Holo,43.560000,64.460000,Pokémon
+base3-13,Muk,https://images.pokemontcg.io/base3/13_hires.png,Rare Holo,10.650000,6.320000,Pokémon
+base3-14,Raichu,https://images.pokemontcg.io/base3/14_hires.png,Rare Holo,27.030000,30.430000,Pokémon
+base3-15,Zapdos,https://images.pokemontcg.io/base3/15_hires.png,Rare Holo,21.210000,22.980000,Pokémon
+base3-16,Aerodactyl,https://images.pokemontcg.io/base3/16_hires.png,Rare,7.360000,5.510000,Pokémon
+base3-17,Articuno,https://images.pokemontcg.io/base3/17_hires.png,Rare,8.800000,7.730000,Pokémon
+base3-18,Ditto,https://images.pokemontcg.io/base3/18_hires.png,Rare,7.500000,5.060000,Pokémon
+base3-19,Dragonite,https://images.pokemontcg.io/base3/19_hires.png,Rare,16.970000,16.230000,Pokémon
+base3-20,Gengar,https://images.pokemontcg.io/base3/20_hires.png,Rare,15.540000,15.060000,Pokémon
+base3-21,Haunter,https://images.pokemontcg.io/base3/21_hires.png,Rare,7.640000,4.870000,Pokémon
+base3-22,Hitmonlee,https://images.pokemontcg.io/base3/22_hires.png,Rare,7.060000,4.730000,Pokémon
+base3-23,Hypno,https://images.pokemontcg.io/base3/23_hires.png,Rare,6.820000,3.570000,Pokémon
+base3-24,Kabutops,https://images.pokemontcg.io/base3/24_hires.png,Rare,7.540000,3.950000,Pokémon
+base3-25,Lapras,https://images.pokemontcg.io/base3/25_hires.png,Rare,8.180000,5.110000,Pokémon
+base3-26,Magneton,https://images.pokemontcg.io/base3/26_hires.png,Rare,5.300000,4.160000,Pokémon
+base3-27,Moltres,https://images.pokemontcg.io/base3/27_hires.png,Rare,9.650000,8.840000,Pokémon
+base3-28,Muk,https://images.pokemontcg.io/base3/28_hires.png,Rare,6.570000,4,Pokémon
+base3-29,Raichu,https://images.pokemontcg.io/base3/29_hires.png,Rare,7.070000,4.650000,Pokémon
+base3-30,Zapdos,https://images.pokemontcg.io/base3/30_hires.png,Rare,9.430000,6.450000,Pokémon
+base3-31,Arbok,https://images.pokemontcg.io/base3/31_hires.png,Uncommon,1.410000,0.620000,Pokémon
+base3-32,Cloyster,https://images.pokemontcg.io/base3/32_hires.png,Uncommon,1.440000,0.610000,Pokémon
+base3-33,Gastly,https://images.pokemontcg.io/base3/33_hires.png,Uncommon,1.580000,0.970000,Pokémon
+base3-34,Golbat,https://images.pokemontcg.io/base3/34_hires.png,Uncommon,0.850000,0.510000,Pokémon
+base3-35,Golduck,https://images.pokemontcg.io/base3/35_hires.png,Uncommon,1.610000,0.850000,Pokémon
+base3-36,Golem,https://images.pokemontcg.io/base3/36_hires.png,Uncommon,2,1.090000,Pokémon
+base3-37,Graveler,https://images.pokemontcg.io/base3/37_hires.png,Uncommon,0.850000,0.430000,Pokémon
+base3-38,Kingler,https://images.pokemontcg.io/base3/38_hires.png,Uncommon,0.870000,0.450000,Pokémon
+base3-39,Magmar,https://images.pokemontcg.io/base3/39_hires.png,Uncommon,0.950000,0.590000,Pokémon
+base3-40,Omastar,https://images.pokemontcg.io/base3/40_hires.png,Uncommon,1.370000,0.740000,Pokémon
+base3-41,Sandslash,https://images.pokemontcg.io/base3/41_hires.png,Uncommon,1.220000,0.780000,Pokémon
+base3-42,Seadra,https://images.pokemontcg.io/base3/42_hires.png,Uncommon,1.020000,0.370000,Pokémon
+base3-43,Slowbro,https://images.pokemontcg.io/base3/43_hires.png,Uncommon,1.850000,0.920000,Pokémon
+base3-44,Tentacruel,https://images.pokemontcg.io/base3/44_hires.png,Uncommon,1.290000,0.700000,Pokémon
+base3-45,Weezing,https://images.pokemontcg.io/base3/45_hires.png,Uncommon,1.250000,0.920000,Pokémon
+base3-46,Ekans,https://images.pokemontcg.io/base3/46_hires.png,Common,0.400000,0.290000,Pokémon
+base3-47,Geodude,https://images.pokemontcg.io/base3/47_hires.png,Common,0.850000,0.240000,Pokémon
+base3-48,Grimer,https://images.pokemontcg.io/base3/48_hires.png,Common,0.390000,0.340000,Pokémon
+base3-49,Horsea,https://images.pokemontcg.io/base3/49_hires.png,Common,0.360000,0.270000,Pokémon
+base3-50,Kabuto,https://images.pokemontcg.io/base3/50_hires.png,Common,0.420000,0.450000,Pokémon
+base3-51,Krabby,https://images.pokemontcg.io/base3/51_hires.png,Common,0.350000,0.290000,Pokémon
+base3-52,Omanyte,https://images.pokemontcg.io/base3/52_hires.png,Common,0.430000,0.340000,Pokémon
+base3-53,Psyduck,https://images.pokemontcg.io/base3/53_hires.png,Common,0.970000,0.380000,Pokémon
+base3-54,Shellder,https://images.pokemontcg.io/base3/54_hires.png,Common,0.500000,0.300000,Pokémon
+base3-55,Slowpoke,https://images.pokemontcg.io/base3/55_hires.png,Common,0.710000,0.370000,Pokémon
+base3-56,Tentacool,https://images.pokemontcg.io/base3/56_hires.png,Common,0.430000,0.270000,Pokémon
+base3-57,Zubat,https://images.pokemontcg.io/base3/57_hires.png,Common,0.360000,0.240000,Pokémon
+base3-58,Mr. Fuji,https://images.pokemontcg.io/base3/58_hires.png,Uncommon,0.850000,0.480000,Trainer
+base3-59,Energy Search,https://images.pokemontcg.io/base3/59_hires.png,Common,0.290000,0.200000,Trainer
+base3-60,Gambler,https://images.pokemontcg.io/base3/60_hires.png,Common,0.300000,0.200000,Trainer
+base3-61,Recycle,https://images.pokemontcg.io/base3/61_hires.png,Common,0.270000,0.200000,Trainer
+base3-62,Mysterious Fossil,https://images.pokemontcg.io/base3/62_hires.png,Common,0.310000,0.220000,Trainer
+",DefaulT,",,,,0,0,

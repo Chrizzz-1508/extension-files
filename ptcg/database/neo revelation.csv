@@ -1,0 +1,68 @@
+id,name,image,rarity,card_market_price,tcg_market_price,supertype
+neo3-1,Ampharos,https://images.pokemontcg.io/neo3/1_hires.png,Rare Holo,22.580000,50.490000,Pokémon
+neo3-2,Blissey,https://images.pokemontcg.io/neo3/2_hires.png,Rare Holo,28.840000,36.860000,Pokémon
+neo3-3,Celebi,https://images.pokemontcg.io/neo3/3_hires.png,Rare Holo,52.580000,93.600000,Pokémon
+neo3-4,Crobat,https://images.pokemontcg.io/neo3/4_hires.png,Rare Holo,33.660000,37.660000,Pokémon
+neo3-5,Delibird,https://images.pokemontcg.io/neo3/5_hires.png,Rare Holo,30.300000,32.460000,Pokémon
+neo3-6,Entei,https://images.pokemontcg.io/neo3/6_hires.png,Rare Holo,63.970000,155.150000,Pokémon
+neo3-7,Ho-oh,https://images.pokemontcg.io/neo3/7_hires.png,Rare Holo,88.830000,188.030000,Pokémon
+neo3-8,Houndoom,https://images.pokemontcg.io/neo3/8_hires.png,Rare Holo,69.320000,196.030000,Pokémon
+neo3-9,Jumpluff,https://images.pokemontcg.io/neo3/9_hires.png,Rare Holo,15.440000,19.970000,Pokémon
+neo3-10,Magneton,https://images.pokemontcg.io/neo3/10_hires.png,Rare Holo,19.430000,21.790000,Pokémon
+neo3-11,Misdreavus,https://images.pokemontcg.io/neo3/11_hires.png,Rare Holo,39.540000,40.640000,Pokémon
+neo3-12,Porygon2,https://images.pokemontcg.io/neo3/12_hires.png,Rare Holo,24.430000,41.010000,Pokémon
+neo3-13,Raikou,https://images.pokemontcg.io/neo3/13_hires.png,Rare Holo,81.740000,211.090000,Pokémon
+neo3-14,Suicune,https://images.pokemontcg.io/neo3/14_hires.png,Rare Holo,72.220000,122.180000,Pokémon
+neo3-15,Aerodactyl,https://images.pokemontcg.io/neo3/15_hires.png,Rare,7.760000,5.140000,Pokémon
+neo3-16,Celebi,https://images.pokemontcg.io/neo3/16_hires.png,Rare,8.510000,10.010000,Pokémon
+neo3-17,Entei,https://images.pokemontcg.io/neo3/17_hires.png,Rare,9.930000,14.070000,Pokémon
+neo3-18,Ho-oh,https://images.pokemontcg.io/neo3/18_hires.png,Rare,13.770000,12.490000,Pokémon
+neo3-19,Kingdra,https://images.pokemontcg.io/neo3/19_hires.png,Rare,6.010000,6.370000,Pokémon
+neo3-20,Lugia,https://images.pokemontcg.io/neo3/20_hires.png,Rare,17.840000,21.780000,Pokémon
+neo3-21,Raichu,https://images.pokemontcg.io/neo3/21_hires.png,Rare,5.840000,8.130000,Pokémon
+neo3-22,Raikou,https://images.pokemontcg.io/neo3/22_hires.png,Rare,9.100000,12,Pokémon
+neo3-23,Skarmory,https://images.pokemontcg.io/neo3/23_hires.png,Rare,5.520000,6.720000,Pokémon
+neo3-24,Sneasel,https://images.pokemontcg.io/neo3/24_hires.png,Rare,4.030000,4.340000,Pokémon
+neo3-25,Starmie,https://images.pokemontcg.io/neo3/25_hires.png,Rare,3.700000,3.130000,Pokémon
+neo3-26,Sudowoodo,https://images.pokemontcg.io/neo3/26_hires.png,Rare,4.920000,5.250000,Pokémon
+neo3-27,Suicune,https://images.pokemontcg.io/neo3/27_hires.png,Rare,10.620000,15.230000,Pokémon
+neo3-28,Flaaffy,https://images.pokemontcg.io/neo3/28_hires.png,Uncommon,1.130000,1.640000,Pokémon
+neo3-29,Golbat,https://images.pokemontcg.io/neo3/29_hires.png,Uncommon,0.710000,1.170000,Pokémon
+neo3-30,Graveler,https://images.pokemontcg.io/neo3/30_hires.png,Uncommon,0.950000,0.800000,Pokémon
+neo3-31,Jynx,https://images.pokemontcg.io/neo3/31_hires.png,Uncommon,1.330000,1.400000,Pokémon
+neo3-32,Lanturn,https://images.pokemontcg.io/neo3/32_hires.png,Uncommon,0.880000,1.070000,Pokémon
+neo3-33,Magcargo,https://images.pokemontcg.io/neo3/33_hires.png,Uncommon,0.820000,1.570000,Pokémon
+neo3-34,Octillery,https://images.pokemontcg.io/neo3/34_hires.png,Uncommon,1.560000,1.440000,Pokémon
+neo3-35,Parasect,https://images.pokemontcg.io/neo3/35_hires.png,Uncommon,0.810000,1.190000,Pokémon
+neo3-36,Piloswine,https://images.pokemontcg.io/neo3/36_hires.png,Uncommon,0.860000,1.030000,Pokémon
+neo3-37,Seaking,https://images.pokemontcg.io/neo3/37_hires.png,Uncommon,0.730000,0.930000,Pokémon
+neo3-38,Stantler,https://images.pokemontcg.io/neo3/38_hires.png,Uncommon,0.830000,0.770000,Pokémon
+neo3-39,Unown [B],https://images.pokemontcg.io/neo3/39_hires.png,Uncommon,0.960000,1.180000,Pokémon
+neo3-40,Unown [Y],https://images.pokemontcg.io/neo3/40_hires.png,Uncommon,1.180000,1.430000,Pokémon
+neo3-41,Aipom,https://images.pokemontcg.io/neo3/41_hires.png,Common,0.430000,0.500000,Pokémon
+neo3-42,Chinchou,https://images.pokemontcg.io/neo3/42_hires.png,Common,0.350000,0.440000,Pokémon
+neo3-43,Farfetch'd,https://images.pokemontcg.io/neo3/43_hires.png,Common,0.380000,0.450000,Pokémon
+neo3-44,Geodude,https://images.pokemontcg.io/neo3/44_hires.png,Common,0.320000,0.500000,Pokémon
+neo3-45,Goldeen,https://images.pokemontcg.io/neo3/45_hires.png,Common,0.500000,0.650000,Pokémon
+neo3-46,Murkrow,https://images.pokemontcg.io/neo3/46_hires.png,Common,0.490000,0.730000,Pokémon
+neo3-47,Paras,https://images.pokemontcg.io/neo3/47_hires.png,Common,0.510000,0.490000,Pokémon
+neo3-48,Quagsire,https://images.pokemontcg.io/neo3/48_hires.png,Common,0.580000,1.450000,Pokémon
+neo3-49,Qwilfish,https://images.pokemontcg.io/neo3/49_hires.png,Common,0.420000,0.630000,Pokémon
+neo3-50,Remoraid,https://images.pokemontcg.io/neo3/50_hires.png,Common,0.400000,0.430000,Pokémon
+neo3-51,Shuckle,https://images.pokemontcg.io/neo3/51_hires.png,Common,0.450000,1.350000,Pokémon
+neo3-52,Skiploom,https://images.pokemontcg.io/neo3/52_hires.png,Common,0.340000,0.510000,Pokémon
+neo3-53,Slugma,https://images.pokemontcg.io/neo3/53_hires.png,Common,0.330000,0.500000,Pokémon
+neo3-54,Smoochum,https://images.pokemontcg.io/neo3/54_hires.png,Common,0.800000,0.980000,Pokémon
+neo3-55,Snubbull,https://images.pokemontcg.io/neo3/55_hires.png,Common,0.480000,0.540000,Pokémon
+neo3-56,Staryu,https://images.pokemontcg.io/neo3/56_hires.png,Common,0.360000,0.440000,Pokémon
+neo3-57,Swinub,https://images.pokemontcg.io/neo3/57_hires.png,Common,0.890000,0.440000,Pokémon
+neo3-58,Unown [K],https://images.pokemontcg.io/neo3/58_hires.png,Common,0.550000,0.570000,Pokémon
+neo3-59,Zubat,https://images.pokemontcg.io/neo3/59_hires.png,Common,0.320000,0.460000,Pokémon
+neo3-60,Balloon Berry,https://images.pokemontcg.io/neo3/60_hires.png,Uncommon,0.600000,0.650000,Trainer
+neo3-61,Healing Field,https://images.pokemontcg.io/neo3/61_hires.png,Uncommon,0.610000,0.860000,Trainer
+neo3-62,Pokémon Breeder Fields,https://images.pokemontcg.io/neo3/62_hires.png,Uncommon,0.690000,0.780000,Trainer
+neo3-63,Rocket's Hideout,https://images.pokemontcg.io/neo3/63_hires.png,Uncommon,0.790000,1.830000,Trainer
+neo3-64,Old Rod,https://images.pokemontcg.io/neo3/64_hires.png,Common,0.250000,0.310000,Trainer
+neo3-65,Shining Gyarados,https://images.pokemontcg.io/neo3/65_hires.png,Rare Shining,335.450000,600.890000,Pokémon
+neo3-66,Shining Magikarp,https://images.pokemontcg.io/neo3/66_hires.png,Rare Shining,218.500000,407.450000,Pokémon
+",DefaulT,",,,,0,0,

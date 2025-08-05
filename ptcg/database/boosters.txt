@@ -20,7 +20,6 @@
   "BW Black Star Promos",
   "Call of Legends",
   "Celebrations",
-  "Celebrations: Classic Collection",
   "Celestial Storm",
   "Champion's Path",
   "Chilling Reign",
